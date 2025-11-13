@@ -1,0 +1,156 @@
+<style media="print">
+  body { background: #fff; }
+  .card { box-shadow: none; border: 1px solid #ddd; }
+  th { background: #0033cc !important; color:#fff !important; -webkit-print-color-adjust: exact; }
+  .tag, .role { -webkit-print-color-adjust: exact; }
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>HHOF – Streamlit Web App Brief (Fixed Layout)</title>
+<style>
+  :root{--ink:#0b1220;--muted:#5b6b87;--bg:#f7f8fb;--pri:#0f62fe}
+  *{box-sizing:border-box}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);margin:24px;line-height:1.45}
+  h1{font-size:22px;margin:0 0 8px}
+  h2{font-size:16px;margin:18px 0 10px}
+  p{margin:6px 0;color:var(--muted)}
+  .card{background:#fff;border:1px solid #e8ecf6;border-radius:12px;padding:14px;margin:12px 0}
+  .row{display:grid;gap:12px}
+  @media(min-width:900px){.row{grid-template-columns:1fr 1fr}}
+  table{border-collapse:collapse;width:100%;background:#fff;border-radius:12px;overflow:hidden;border:1px solid #e8ecf6}
+  th,td{padding:10px;border-bottom:1px solid #eef2fb;vertical-align:top}
+  th{background:#183a9e;color:#fff;text-align:left}
+  tr:last-child td{border-bottom:none}
+  .num{text-align:right;white-space:nowrap}
+  .tag{display:inline-block;background:#eef3ff;color:#103a9f;border:1px solid #d8e5ff;border-radius:999px;padding:2px 8px;margin:0 6px 6px 0;font-size:12px}
+  .role{background:#f0fff5;color:#0a6b3c;border-color:#cdebd8}
+  .small{font-size:12px;color:#6b7c9e}
+  /* Robust, cross-browser ordered steps */
+  ol.steps{counter-reset: step; list-style: none; padding-left: 0; margin: 6px 0}
+  ol.steps li{position: relative; padding-left: 36px; margin: 10px 0; background: #fff; border:1px solid #e8ecf6; border-radius:10px; padding:10px 12px 10px 42px}
+  ol.steps li::before{
+    counter-increment: step; content: counter(step);
+    position:absolute; left:10px; top:10px; width:22px; height:22px;
+    border-radius:50%; background: var(--pri); color:#fff; display:flex; align-items:center; justify-content:center; font-size:12px; font-weight:600;
+  }
+</style>
+</head>
+<body>
+  <h1>HHOF – Streamlit Web App (Explanation-Only)</h1>
+  <p>Goal: operator pastes <b>JORF email</b> + a <b>EUR-Lex daily URL</b> (auto-crawl subpages) → parse, classify (prompt-only), export <b>CSV</b>.</p>
+
+  <div class="row">
+    <div class="card">
+      <h2>Operator Flow</h2>
+      <ol class="steps">
+        <li>Open the Streamlit app. Sidebar: date, “Include subpages (~10)”, keywords, language (FR/EN), API toggle.</li>
+        <li><b>Paste JORF email</b> into the text area → click <i>Parse JORF</i> → table shows items (ministry, title, link).</li>
+        <li><b>Paste EUR-Lex Daily View URL</b> (L or C series) → check “Include subpages” → click <i>Parse EUR-Lex</i> → items appear (type, date, title, link).</li>
+        <li>Click <i>Classify</i> → zero-shot labels for <b>Theme</b> and <b>Applicability</b> (Info / Regulation / Directive / Decree).</li>
+        <li>Optionally set <b>Filters</b> (keywords, ministries, types). Review merged table.</li>
+        <li>Click <i>Export CSV</i> → Google-Sheets-compatible CSV downloads.</li>
+      </ol>
+      <p class="small">No training. Public sources only. Operator-triggered (no scheduler).</p>
+    </div>
+
+    <div class="card">
+      <h2>CSV Schema (Output)</h2>
+      <table>
+        <thead><tr><th>Column</th><th>Description</th></tr></thead>
+        <tbody>
+          <tr><td>Date</td><td>Publication date (ISO, e.g., 2025-09-17)</td></tr>
+          <tr><td>Source</td><td>“EUR-Lex L”, “EUR-Lex C”, “JORF”, “Red On Line”</td></tr>
+          <tr><td>Title</td><td>Official title / email line</td></tr>
+          <tr><td>Summary</td><td>Short subject/abstract (if available)</td></tr>
+          <tr><td>Link</td><td>Canonical URL</td></tr>
+          <tr><td>Theme</td><td>Zero-shot topic (Education, Health, Interior/Security, …)</td></tr>
+          <tr><td>Applicability</td><td>Info vs Directive/Regulation/Decree/Circular</td></tr>
+          <tr><td>Keywords (opt.)</td><td>Matched operator filters</td></tr>
+        </tbody>
+      </table>
+      <p class="small">UTF-8 CSV; opens directly in Sheets/Excel.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Sizing – Roles (Integer FTE) & Aggressive Days</h2>
+    <table>
+      <thead>
+        <tr><th>Component</th><th>Description</th><th>FTEs</th><th>Days</th><th>Skills & Roles</th><th>Azure</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Streamlit App (UI + API)</td><td>Two inputs, previews, CSV export</td>
+          <td class="num">1</td><td class="num">3</td>
+          <td><span class="tag role">Full-Stack Engineer</span><span class="tag">Streamlit</span><span class="tag">UX</span></td>
+          <td>App Service / Container Apps</td><td>Single-page app</td>
+        </tr>
+        <tr>
+          <td>EUR-Lex Parser</td><td>Daily view + ~10 subpages; titles/links/dates</td>
+          <td class="num">1</td><td class="num">3</td>
+          <td><span class="tag role">Data Engineer</span><span class="tag">httpx</span><span class="tag">BeautifulSoup</span></td>
+          <td>Runs in app</td><td>Robust to HTML drift</td>
+        </tr>
+        <tr>
+          <td>JORF Parser</td><td>Paste email → extract sections/items/URLs</td>
+          <td class="num">1</td><td class="num">2</td>
+          <td><span class="tag role">Data Engineer</span><span class="tag">Regex</span><span class="tag">FR text</span></td>
+          <td>Runs in app</td><td>Handles rectificatifs</td>
+        </tr>
+        <tr>
+          <td>Standardize & Merge</td><td>Unify schema; combine sources</td>
+          <td class="num">1</td><td class="num">1</td>
+          <td><span class="tag role">Data Engineer</span><span class="tag">pandas</span></td>
+          <td>In-memory</td><td>DF → CSV</td>
+        </tr>
+        <tr>
+          <td>Zero-Shot Classification</td><td>Theme & Applicability via prompts</td>
+          <td class="num">1</td><td class="num">2</td>
+          <td><span class="tag role">ML Engineer</span><span class="tag">Azure OpenAI</span><span class="tag">Prompting</span></td>
+          <td>Azure OpenAI + Key Vault</td><td>No training</td>
+        </tr>
+        <tr>
+          <td>Error Handling & Perf</td><td>Timeouts, retries, rate limiting</td>
+          <td class="num">1</td><td class="num">1</td>
+          <td><span class="tag role">Software Engineer</span><span class="tag">Logging</span></td>
+          <td>App Insights</td><td>Graceful failures</td>
+        </tr>
+        <tr>
+          <td>Infra & CI/CD</td><td>Provision Azure, secrets, pipeline</td>
+          <td class="num">1</td><td class="num">2</td>
+          <td><span class="tag role">DevOps Engineer</span><span class="tag">Key Vault</span><span class="tag">IaC</span></td>
+          <td>App Service, KV, OpenAI</td><td>Staging → Prod</td>
+        </tr>
+        <tr>
+          <td>QA & Fixtures</td><td>Golden samples; unit tests</td>
+          <td class="num">1</td><td class="num">1</td>
+          <td><span class="tag role">QA Engineer</span><span class="tag">pytest</span></td>
+          <td>App Insights</td><td>Smoke + regression</td>
+        </tr>
+        <tr>
+          <td><b>Total</b></td><td></td><td class="num"><b>—</b></td><td class="num"><b>15</b></td>
+          <td><span class="tag">Python</span><span class="tag">NLP</span><span class="tag">Azure</span><span class="tag">DevOps</span></td>
+          <td>As listed</td><td class="small">Aggressive (≈3–4 weeks elapsed)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>Azure Minimal Stack</h2>
+    <ul>
+      <li><b>App Service (Linux)</b> or <b>Container Apps</b> to host Streamlit.</li>
+      <li><b>Azure OpenAI</b> for zero-shot labels (Theme, Applicability).</li>
+      <li><b>Key Vault</b> for API keys; <b>App Insights</b> for logging/metrics.</li>
+      <li><b>Blob Storage</b> (optional) to archive daily CSVs.</li>
+    </ul>
+    <p class="small">Manual runs via the UI; no background scheduler.</p>
+  </div>
+
+  <p class="small">Contact: stephanie.garrigues.external@airbus.com • Call 17/09/2025 • Inputs: EUR-Lex (L/C daily) & JORF daily email.</p>
+</body>
+</html>
