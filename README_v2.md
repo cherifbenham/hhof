@@ -24,13 +24,13 @@ id, date, url, typologie, ministere, titre, abstract, content, summary
 **Document Types:**
 
 #### L-Series (Legislative Acts)
-- **II**: Non-legislative acts  
-- **III**: Other acts  
+- **II**: Non-legislative acts
+- **III**: Other acts
 - **Corrigenda**: Corrections
 
 #### C-Series (Information & Notices)
-- **II**: Information  
-- **IV**: Notices  
+- **II**: Information
+- **IV**: Notices
 - **V**: Announcements
 
 **URL Pattern:**
@@ -40,10 +40,10 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_[DOCUMENT_ID]
 
 **Example Document:**
 ```
-2025/2269, 2025-11-13, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202502269, 
-"Implementing Regulation of the Commission", "", 
-"Commission Regulation (EU) 2025/2269 of 12 November 2025 correcting Regulation (EU) 2022/1616 
-as regards labelling of recycled plastic, the development of recycling technologies and the 
+2025/2269, 2025-11-13, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202502269,
+"Implementing Regulation of the Commission", "",
+"Commission Regulation (EU) 2025/2269 of 12 November 2025 correcting Regulation (EU) 2022/1616
+as regards labelling of recycled plastic, the development of recycling technologies and the
 transfer of authorisations", [scraped_content]
 ```
 
@@ -58,16 +58,16 @@ id, date, url, typologie, ministere, titre, abstract, content
 
 **Document Types:**
 - **Avis**: Notices
-- **Décret**: Decrees  
+- **Décret**: Decrees
 - **Arrêté**: Orders
 - **Décision**: Decisions
 
 **Example Document:**
 ```
-1, [date], https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052250924, 
-"arrêté", "MINISTÈRE DE LA CULTURE", 
-"Arrêté du 15 septembre 2025 autorisant au titre de l'année 2025 l'ouverture d'un concours 
-externe et d'un concours interne pour l'accès au corps de technicien d'art de classe normale 
+1, [date], https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052250924,
+"arrêté", "MINISTÈRE DE LA CULTURE",
+"Arrêté du 15 septembre 2025 autorisant au titre de l'année 2025 l'ouverture d'un concours
+externe et d'un concours interne pour l'accès au corps de technicien d'art de classe normale
 du ministère de la culture - métiers du textile spécialité tapissier en garniture"
 ```
 
