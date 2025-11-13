@@ -43,3 +43,4 @@ id, date, url, typlogie (avis, decret, arrete, decision), ministere, titre, abst
 1, ,  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052250924, "decret", "MINISTERE DE LA CULTURE", "Arrêté du 15 septembre 2025 autorisant au titre de l'année 2025 l'ouverture d'un concours externe et d'un concours interne pour l'accès au corps de technicien d'art de classe normale du ministère de la culture - métiers du textile spécialité tapissier en garniture", "Arrêté du 15 septembre 2025 autorisant au titre de l'année 2025 l'ouverture d'un concours externe et d'un concours interne pour l'accès au corps de technicien d'art de classe normale du ministère de la culture - métiers du textile spécialité tapissier en garniture", scraping_txt(URL)
 2,
 3,
+# hhof
