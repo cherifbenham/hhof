@@ -1,0 +1,387 @@
+LA COMMISSION EUROPÉENNE, vu le traité sur le fonctionnement de l’Union européenne, vu le règlement (UE) 2024/3012 du Parlement européen et du Conseil du 27 novembre 2024 établissant un cadre de certification de l’Union relatif aux absorptions permanentes de carbone, à l’agrostockage de carbone et au stockage de carbone dans des produits , et en particulier son
+
+article 9, paragraphe 5, son
+
+article 11, paragraphe 5, son
+
+article 12, paragraphe 3, troisième alinéa, son article13, paragraphe 4, et son
+
+article 14, paragraphe 2,
+
+considérant ce qui suit:
+
+(1) Pour déterminer si les absorptions de carbone et les réductions des émissions des sols sont conformes aux exigences du règlement (UE) 2024/3012, le fonctionnement correct et harmonisé des systèmes de certification, des organismes de certification et des audits est essentiel. Il convient donc d’établir des règles harmonisées garantissant la sécurité juridique nécessaire en ce qui concerne les règles applicables aux systèmes de certification, aux organismes de certification et aux audits.
+
+(2) Afin de réduire au minimum la charge administrative pesant sur les exploitants, les règles de mise en œuvre énoncées dans le présent règlement devraient être proportionnées et limitées à ce qui est nécessaire pour garantir que le respect des exigences du règlement (UE) 2024/3012 est vérifié de manière adéquate et harmonisée, et que le risque de fraude est réduit autant que possible. Les règles de mise en œuvre ne devraient donc pas être considérées comme exhaustives, mais plutôt comme des exigences minimales que les systèmes de certification peuvent compléter le cas échéant.
+
+(3) Afin de promouvoir l’utilisation d’informations comparables, il convient de définir des modèles normalisés pour les principaux documents de certification, y compris les plans d’activité et de surveillance, ainsi que les rapports d’audit de certification et d’audit de renouvellement de la certification.
+
+(4) Afin de garantir un processus de certification solide et transparent, il est nécessaire de définir des normes d’intégrité élevées en ce qui concerne la gouvernance du système de certification, la consultation publique obligatoire des parties prenantes concernées, le contrôle interne, le traitement des plaintes et la gestion de la documentation, y compris les manuels, les politiques internes ou la définition des responsabilités. Les systèmes de certification devraient être tenus de disposer de la capacité technique nécessaire pour fournir des conseils techniques aux exploitants sur la mise en œuvre des méthodes de certification.
+
+(5) Les systèmes de certification devraient mettre en place un dispositif de contrôle interne afin de vérifier le respect par les exploitants des règles et procédures du système et de garantir la solidité et la crédibilité des travaux de certification effectués par les organismes de certification.
+
+(6) Il convient de distinguer trois catégories de non-conformités: critique, majeure et mineure. Chaque non-conformité devrait être traitée de manière adéquate et entraîner des conséquences proportionnées, y compris des mesures correctives et des sanctions, le cas échéant.
+
+(7) Les exploitants ont la possibilité de participer à tout moment à un autre système de certification. Toutefois, des règles sont nécessaires pour prévenir le risque de «papillonnage entre systèmes» dans le cadre duquel un exploitant qui a échoué à un audit auprès d’un système demande immédiatement une certification auprès d’un autre système. De telles règles devraient également s’appliquer dans les situations où l’exploitant a changé de personnalité juridique mais reste fondamentalement le même, de sorte que des modifications mineures ou purement formelles, à savoir des modifications apportées à sa structure de gouvernance ou à son champ d’activité, n’exemptent pas l’exploitant ayant une nouvelle identité du respect de ces règles.
+
+(8) Afin de garantir une transparence totale du processus de certification, les informations clés sur la gouvernance et le fonctionnement des systèmes de certification devraient être mises à la disposition du public sur leurs sites web et, une fois établi, dans le registre de l’Union.
+
+(9) Afin de garantir une certification solide, un niveau raisonnable d’assurance devrait être exigé pour que les organismes de certification concluent, après vérification des données soumises par les exploitants ou groupements d’exploitants, que le plan d’activité, le plan de surveillance ou le rapport de surveillance présenté est exempt d’erreurs, d’omissions significatives et d’inexactitudes. Les demandes de certification de conformité devraient faire l’objet d’un contrôle approfondi, sur la base d’une assurance raisonnable, avant que l’activité puisse commencer. Les audits de renouvellement de la certification devraient également être réalisés selon un niveau d’assurance raisonnable.
+
+(10) L’agrostockage de carbone est généralement effectué par de petits exploitants pour lesquels la charge administrative et les coûts liés aux exigences de vérification par un tiers pourraient constituer un obstacle majeur à la certification. Dans un souci de simplification, tout en garantissant une vérification globalement solide, l’audit de groupe devrait être autorisé pour les exploitants pratiquant l’agrostockage de carbone conformément à un ensemble de règles harmonisées fondées sur les risques. Ces règles devraient être conçues de manière à être accessibles et faciles à appliquer pour les petits exploitants, en tirant parti des technologies existantes, afin de simplifier le contrôle de la conformité.
+
+(11) Les organismes de certification sont des acteurs clés du processus de certification. Par conséquent, il est nécessaire que les systèmes de certification ne désignent (c’est-à-dire n’approuvent) que des organismes de certification accrédités par un organisme national d’accréditation conformément aux normes techniques pertinentes de l’Union ou reconnus par une autorité nationale compétente sur la base d’exigences minimales communes en matières de compétences, afin de veiller à ce que les auditeurs de l’organisme de certification disposent de toutes les compétences techniques et de l’expérience nécessaires en matière d’audit pour mener des activités d’audit. Il convient également que les États membres et la Commission surveillent, si nécessaire, les activités des organismes de certification et accèdent à toutes les informations pertinentes en matière de certification, y compris les audits de certification, de renouvellement de la certification et de surveillance.
+
+(12) En attendant que le registre de l’Union soit établi, d’ici à 2028, les systèmes de certification devraient veiller à ce que leurs registres respectent un ensemble d’exigences minimales, afin d’éviter un double comptage et de pouvoir traiter efficacement les cas de délivrance incorrecte ou frauduleuse d’unités certifiées. Afin de permettre une transition harmonieuse vers le registre de l’Union, la Commission peut publier des lignes directrices techniques sur le fonctionnement des registres de certification et sur la liaison avec le registre de l’Union.
+
+(13) Il convient de définir la procédure de reconnaissance par la Commission des systèmes de certification, qui pourraient demander une reconnaissance selon une ou plusieurs méthodes de certification. Le processus de reconnaissance devrait être fondé sur une évaluation approfondie de la conformité du système avec les règles énoncées dans les méthodes de certification pertinentes et dans le présent règlement.
+
+(14) Les mesures prévues par le présent règlement sont conformes à l’avis du comité des changements climatiques,
+
+A ADOPTÉ LE PRÉSENT RÈGLEMENT: CHAPITRE I OBJET, DÉFINITIONS ET PLANS D’ACTIVITÉ ET DE SURVEILLANCE Article premier Objet Le présent règlement établit les modalités de mise en œuvre du règlement (UE) 2024/3012 en ce qui concerne:
+
+(a) la structure, le format et les détails techniques du plan d’activité et du plan de surveillance que doit soumettre un exploitant ou un groupement d’exploitants à un organisme de certification, ainsi que des rapports d’audit de certification, d’audit de renouvellement de la certification et d’audit de surveillance devant être délivrés par un organisme de certification, conformément à l’
+
+article 9 du règlement (UE) 2024/3012;
+
+(b) la structure, le format, les détails techniques et la procédure requis pour le fonctionnement des systèmes de certification, la vérification des informations relatives à l’audit indépendant et la publication d’informations sur les organismes de certification désignés, conformément à l’
+
+article 11 du règlement (UE) 2024/3012;
+
+(c) la structure, le format et les détails techniques des registres de certification et de l’enregistrement, la détention ou l’utilisation des unités certifiées, conformément à l’
+
+article 12, paragraphe 3, troisième alinéa, du règlement (UE) 2024/3012;
+
+(d) la structure, le format et les détails techniques des procédures de reconnaissance et de notification des systèmes de certification, conformément à l’
+
+article 13 du règlement (UE) 2024/3012;
+
+(e) la structure, le format et les détails techniques des rapports à soumettre à la Commission par les systèmes de certification, conformément à l’
+
+article 14 du règlement (UE) 2024/3012.
+
+Article 2 Définitions Aux fins du présent règlement, on entend par:
+
+(a) «audit de surveillance»: un audit effectué par un organisme de certification au cours de la période de surveillance afin de vérifier le suivi du carbone stocké et de toute inversion éventuelle;
+
+(b) «certificat résilié»: un certificat ayant été volontairement annulé alors qu’il est encore valide;
+
+(c) «certificat retiré»: un certificat ayant été annulé de façon permanente par l’organisme de certification ou le système de certification;
+
+(d) «certificat périmé»: un certificat qui n’est plus valide;
+
+(e) «audit de groupe»: un processus dans lequel l’approche des activités d’audit peut être définie au niveau d’un groupe;
+
+(f) «non-conformité»: l’inobservation par un exploitant ou un organisme de certification des règles et procédures établies par le système de certification dont il est membre ou pour le compte duquel il exerce ses activités.
+
+Article 3 Plan d’activité, plan de surveillance et rapports d’audit de certification et d’audit de renouvellement de la certification 1. Le plan d’activité que doit présenter un exploitant ou un groupement d’exploitants conformément à l’
+
+article 9, paragraphe 1, du règlement (UE) 2024/3012 comprend les éléments énoncés à l’
+
+annexe I du présent règlement. 2. Le plan de surveillance que doit présenter un exploitant ou un groupement d’exploitants conformément à l’
+
+article 9, paragraphe 1, du règlement (UE) 2024/3012 comprend les éléments énoncés à l’
+
+annexe II du présent règlement. 3. Le rapport d’audit de certification et le rapport d’audit de renouvellement de la certification que doit délivrer l’organisme de certification conformément à l’
+
+article 9, paragraphes 2 et 3, du règlement (UE) 2024/3012 comprennent les éléments énoncés à l’
+
+annexe III du présent règlement. CHAPITRE II FONCTIONNEMENT DES SYSTÈMES DE CERTIFICATION, AUDIT ET ORGANISMES DE CERTIFICATION SECTION 1 Fonctionnement des systèmes de certification
+
+Article 4 Structure de gouvernance 1. Les systèmes de certification établissent une structure de gouvernance robuste pour faire en sorte que les systèmes disposent de la capacité juridique et technique, de l’impartialité et de l’indépendance nécessaires pour accomplir leurs tâches. Cette structure de gouvernance comprend un conseil composé de membres indépendants qui assument la responsabilité fiduciaire de l’organisation et appliquent des procédures transparentes. En fonction de leur champ de certification, les systèmes de certification mettent en place un comité technique, ou un système équivalent d’assistance technique par des experts, qui associe, si possible, toutes les parties prenantes concernées afin de fournir des conseils aux gestionnaires du système sur des questions techniques. Les systèmes de certification procèdent à des consultations transparentes des parties prenantes pour toute nouvelle version ou toute mise à jour majeure des exigences générales, des procédures et des lignes directrices du système. 2. Les systèmes de certification mettent en place des règles et des procédures pour éviter les conflits d’intérêts dans le cadre de la prise de décision. Ils veillent à ce que soit respecté, au minimum, un système d’équilibre des pouvoirs permettant de faire en sorte qu’aucune partie prenante prise isolément et ayant un intérêt particulier au résultat d’une décision ne puisse exercer une influence décisive sur la décision en question. Les personnes présentant un conflit d’intérêts potentiel sont exclues de la prise de décision dans le cadre des systèmes de certification. Les systèmes de certification mettent en place les procédures appropriées et une piste d’audit pour recenser et documenter les cas de conflits d’intérêts et procèdent régulièrement à leur réexamen dans le cadre de leurs systèmes de contrôle interne.
+
+Article 5 Contrôle interne, procédures de plaintes et système de gestion des documents 1. Les systèmes de certification mettent en place un dispositif de contrôle interne pour vérifier que les exploitants respectent les règles et procédures appliquées par le système et pour veiller à la qualité des travaux menés par les auditeurs des organismes de certification. Ce contrôle interne a lieu au moins une fois par an, ou au moins à la même fréquence que les audits, et tient compte du champ de certification du système et du niveau de risque des activités menées par les exploitants. Dans le cadre du contrôle interne, les systèmes de certification exigent des organismes de certification qu’ils leur fournissent tous les rapports de l’audit de certification, de l’audit de renouvellement de la certification ou de l’audit de surveillance («audit»). Le contrôle interne porte sur un échantillon aléatoire et fondé sur le risque des rapports d’audit de chaque organisme de certification. 2. Les systèmes de certification établissent des procédures pour le dépôt et le traitement des plaintes contre les exploitants ou les organismes de certification. Ces procédures autorisent l’envoi de plaintes par voie électronique et garantissent la protection des personnes physiques ou juridiques qui signalent des infractions ou introduisent des plaintes de bonne foi conformément à la directive (UE) 2019/1937 du Parlement européen et du Conseil . 3. Les systèmes de certification tiennent un registre de toutes les plaintes. À la demande de la Commission ou de l’État membre dans lequel la plainte a été déposée, les systèmes de certification fournissent au demandeur tous les documents relatifs à une plainte et à son traitement. 4. Les systèmes de certification assurent un suivi efficace des résultats du contrôle interne et du traitement des plaintes et, le cas échéant, appliquent les mesures correctives et les sanctions pertinentes en cas de non-conformité des exploitants, conformément aux règles et procédures établies conformément à l’
+
+article 6, paragraphe 1. Si nécessaire, les systèmes de certification prennent des mesures correctives concernant leur structure de gouvernance ou leur procédure de contrôle interne. 5. Les systèmes de certification établissent un système de gestion des documents qui porte sur chacun des éléments suivants:
+
+(a) les documents généraux relatifs au système (par exemple manuels, principes directeurs, définition des responsabilités);
+
+(b) le système de contrôle interne des documents et registres de certification;
+
+(c) l’examen du système de gestion de la documentation;
+
+(d) l’audit interne et la surveillance;
+
+(e) les procédures de prévention, de recensement et de gestion des non-conformités. 6. Les documents énumérés au paragraphe 5 sont conservés au moins pendant cinq ans après la fin de la période de surveillance.
+
+Article 6 Non-conformités des exploitants 1. Les systèmes de certification mettent en place un mécanisme permettant de traiter les non-conformités des exploitants participant à ces systèmes. Ce mécanisme comprend au minimum une classification claire des non-conformités, en fonction de leur degré de gravité, conformément aux exigences énoncées aux paragraphes 2 à 5. Pour chaque type de non-conformité, les systèmes de certification établissent un ensemble transparent de règles et de procédures pour garantir l’application dans les délais des mesures correctives et des sanctions énumérées à l’
+
+article 7. 2. Les systèmes de certification classent les non-conformités recensées au cours d’un audit comme critiques, majeures ou mineures. 3. Une non-conformité critique consiste en une violation des règles ou procédures du système de certification, telle qu’une fraude, une non-conformité irréversible ou une violation qui compromet l’intégrité du système de certification. Parmi les non-conformités critiques figurent au moins les suivantes:
+
+(a) le non-respect des critères de qualité énoncés aux articles 4 à 7 du règlement (UE) 2024/3012 et des méthodes de certification visées à l’
+
+article 8 dudit règlement;
+
+(b) l’inexactitude délibérée de la description de l’activité;
+
+(c) la falsification des données relatives aux gaz à effet de serre (GES). 4. Une non-conformité majeure consiste en une violation des règles ou procédures du système de certification qui est potentiellement réversible et répétée et qui révèle des problèmes systématiques ou des aspects qui, seuls ou combinés à d’autres non-conformités, peuvent entraîner une défaillance systémique fondamentale. Parmi les non-conformités majeures figurent au moins les suivantes:
+
+(a) les problèmes systématiques avec les données relatives aux émissions de GES communiqués, par exemple si la documentation est incorrecte dans plus de 10 % des allégations incluses dans l’échantillon représentatif;
+
+(b) l’omission commise par un exploitant ou un groupement d’exploitants en ne déclarant pas sa participation à d’autres systèmes de certification des absorptions de carbone au cours du processus de certification;
+
+(c) le manquement à l’obligation de fournir des informations pertinentes à l’organisme de certification, telles que les informations nécessaires aux fins d’un audit. 5. Une non-conformité mineure consiste en une violation des règles ou procédures du système de certification qui a une incidence limitée, constitue une erreur isolée ou passagère et n’entraîne pas de défaillance systémique fondamentale si elle n’est pas corrigée.
+
+Article 7 Mesures correctives et sanctions en cas de non-conformités 1. En cas de non-conformités, les mesures correctives et les sanctions prévues aux paragraphes 2 à 7 s’appliquent aux exploitants ou groupements d’exploitants. 2. En cas de non-conformités critiques, les exploitants introduisant une demande de certification n’obtiennent pas de certificat. 3. Les exploitants qui n’ont pas obtenu de certificat conformément au deuxième alinéa peuvent introduire une nouvelle demande de certification après une période déterminée par le système de certification en fonction des caractéristiques de l’activité. 4. Les non-conformités critiques relevées durant les audits de renouvellement de la certification ou les audits de surveillance, ou dans le cadre d’une procédure de contrôle interne ou de plainte d’un système de certification, donnent lieu au retrait immédiat du certificat et à l’impossibilité de délivrer de nouvelles unités certifiées. 5. En cas de non-conformités majeures, les exploitants introduisant une demande de certification n’obtiennent pas de certificat. 6. Les non-conformités majeures relevées durant les audits de renouvellement de la certification ou les audits de surveillance, ou dans le cadre d’une procédure de contrôle interne ou de plainte d’un système de certification, donnent lieu à la suspension immédiate du certificat. Lorsque les exploitants ne mettent pas en œuvre la mesure corrective dans un délai de 90 jours à compter de la notification de la suspension, le certificat est retiré. 7. En cas de non-conformités mineures, les systèmes de certification définissent la période de mise en œuvre des mesures correctives, qui ne dépasse pas douze mois à compter de leur notification.
+
+Article 8 Changement de système de certification par les exploitants ou groupements d’exploitants 1. Les systèmes de certification imposent aux exploitants ou groupements d’exploitants d’indiquer, dans leur demande de certification:
+
+(a) si eux-mêmes ou leurs prédécesseurs en droit participent à un autre système de certification ou ont participé à un autre système de certification au cours des cinq dernières années;
+
+(b) les rapports d’audit des deux derniers audits de renouvellement de la certification dans un autre système de certification, y compris, le cas échéant, la liste détaillée des constatations des organismes de certification, et toute décision de suspendre ou de retirer leurs certificats au cours des cinq dernières années;
+
+(c) s’ils se sont retirés d’un autre système de certification avant le premier audit de renouvellement de la certification. 2. Les systèmes de certification excluent de leur système des exploitants ou groupements d’exploitants dans les cas suivants:
+
+(a) lorsque les informations énumérées au paragraphe 1 n’ont pas été communiquées;
+
+(b) lorsque les exploitants ou groupements d’exploitants ou leurs prédécesseurs en droit ont échoué à l’audit de certification dans le cadre d’un autre système;
+
+(c) lorsque les exploitants ou groupements d’exploitants ou leurs prédécesseurs en droit se sont retirés d’un autre système avant le premier audit de renouvellement de la certification. 3. Le paragraphe 2, point b), ne s’applique pas lorsque l’audit de certification dans le cadre d’un autre système a eu lieu plus de trois ans avant la demande de certification ou si, entre-temps, l’autre système a cessé ses activités de certification, ce qui a empêché l’exploitant ou le groupement d’exploitants de présenter une nouvelle demande auprès de ce système. Dans ce cas, la portée de l’audit de certification est adaptée de manière à couvrir toutes les questions pertinentes et se concentre sur les lacunes constatées dans l’audit de certification auquel les exploitants ou groupements d’exploitants ou leurs prédécesseurs en droit ont échoué dans l’autre système. 4. Le paragraphe 2, point c), ne s’applique pas lorsque l’exploitant ou le groupement d’exploitants prouve qu’il avait une raison valable justifiant que le retrait d’un autre système était inévitable ou nécessaire. Ce retrait n’est pas dû à une non-conformité critique ou majeure ou à une négligence de l’exploitant dans la mise en œuvre des exigences du système de certification. 5. Les systèmes de certification garantissent entre eux un échange efficace et en temps utile des informations visées au paragraphe 1.
+
+Article 9 Publication d’informations par les systèmes de certification et contenu minimal de leur rapport annuel d’activité 1. Les systèmes de certification mettent gratuitement à la disposition du public sur leur site internet au minimum les informations énumérées à l’
+
+annexe IV. La Commission rend ces informations accessibles au public sur le registre de l’Union. 2. Les systèmes de certification font figurer dans leurs registres les exploitants dont le certificat a été retiré, a été résilié ou est périmé pendant au moins trente-six mois après la date de retrait, de résiliation ou d’expiration du certificat. Les systèmes de certification rendent publics sans retard toute modification du statut de certification des exploitants. 3. Le rapport annuel d’activité visé à l’
+
+article 14, paragraphe 1, premier alinéa, du règlement (UE) 2024/3012 couvre l’année civile précédente et présente la structure et le contenu définis à l’
+
+annexe V du présent règlement. SECTION 2 Audit
+
+Article 10 Processus d’audit et niveaux d’assurance 1. Les systèmes de certification exigent que les exploitants ou les groupements d’exploitants réussissent un audit de certification effectué par un organisme sélectionné sur une liste d’organismes de certification désignés par le système de certification avant de les autoriser à participer au système. Cet audit doit toujours se dérouler sur place et doit, au minimum, fournir une assurance raisonnable quant à l’efficacité de ses procédures internes. 2. Les exploitants ou groupements d’exploitants certifiés font l’objet d’audits réguliers de renouvellement de la certification et de surveillance, dont la fréquence est fixée dans les méthodes de certification pertinentes adoptées conformément à l’
+
+article 8 du règlement (UE) 2024/3012. L’audit de certification et le premier audit de renouvellement de la certification peuvent avoir lieu en même temps, à la demande des exploitants. En cas d’audit de groupe, l’audit peut porter sur un échantillon des membres du groupement conformément à l’
+
+article 12 du présent règlement. L’examinateur technique de l’organisme de certification est chargé de la validation des résultats des audits. 3. Les systèmes de certification établissent des orientations détaillées décrivant la manière dont les audits sont planifiés et effectués et dont les rapports d’audit sont rédigés. Les systèmes de certification veillent à ce que les organismes de certification effectuent les audits conformément à la norme EN ISO/IEC 17021-1 en liaison avec la norme EN ISO/IEC 19011 ou à un équivalent. Ils font en sorte que les informations d’audit soient échangées entre les organismes de certification de manière efficiente et en temps voulu pour appuyer la préparation et la réalisation efficaces de l’audit. 4. Les audits de certification et de renouvellement de la certification portent au moins sur les éléments suivants:
+
+(a) la détermination de l’activité entreprise par l’exploitant qui est pertinente pour les règles du système de certification;
+
+(b) le recensement des mécanismes de contrôle pertinents de l’exploitant et la détermination de son organisation générale par rapport aux règles du système de certification ainsi que la réalisation de vérifications portant sur la bonne mise en œuvre des dispositifs de contrôle correspondants;
+
+(c) l’analyse des risques qui pourraient mener à une inexactitude significative, sur la base des connaissances professionnelles de l’auditeur et des informations communiquées par l’exploitant;
+
+(d) un plan de validation ou de vérification qui correspond à l’analyse de risque et au champ et à la complexité de l’activité de l’exploitant, et qui définit les méthodes d’échantillonnage à utiliser eu égard à l’activité dudit exploitant;
+
+(e) la mise en œuvre du plan de validation ou de vérification en recueillant des données conformément aux méthodes d’échantillonnage définies et toute autre information utile, sur lesquelles l’auditeur fondera ses conclusions;
+
+(f) une demande par l’organisme de certification à l’exploitant de fournir tout élément manquant des pistes d’audit, une explication des variations ou la révision des allégations ou calculs, avant de parvenir à des conclusions d’audit;
+
+(g) la vérification de l’exactitude des données enregistrées par l’exploitant;
+
+(h) aux fins du point c), l’analyse des risques tient compte du profil de risque global de l’activité, en fonction du niveau de risque de l’exploitant. L’intensité ou la portée de l’audit, ou les deux, sont adaptées au niveau de risque global. 5. Les systèmes de certification certifient uniquement les exploitants ou groupements d’exploitants lorsqu’ils se conforment à toutes les exigences suivantes:
+
+(a) ils disposent d’un système de gestion de la documentation;
+
+(b) ils disposent d’un système vérifiable de conservation et d’examen de tous les éléments de preuve liés aux allégations qu’ils avancent ou sur lesquelles ils s’appuient;
+
+(c) ils conservent tous les éléments de preuve nécessaires pour se conformer au présent règlement et au règlement (UE) 2024/3012 pendant au moins cinq ans après la fin de la période de surveillance, ou plus longtemps si la législation nationale l’exige;
+
+(d) ils acceptent la responsabilité de préparer toutes les informations liées à la vérification de ces éléments de preuve.
+
+Article 11 Audit du calcul des absorptions de carbone et des émissions des sols 1. Les systèmes de certification exigent des exploitants qu’ils fournissent aux organismes de certification le plan d’activité et le plan de surveillance avant l’audit de certification, ainsi que les rapports de surveillance pertinents avant les audits de renouvellement de la certification ou les audits de surveillance. 2. Aux fins des audits de renouvellement de la certification, le rapport de surveillance comprend les informations nécessaires relatives au calcul du bénéfice net d’absorption de carbone ou du bénéfice net de réduction des émissions des sols, conformément à la méthode de certification pertinente, ainsi que toute information pertinente sur la conformité de l’activité avec les critères de responsabilité et de durabilité tels qu’ils sont définis dans la méthode de certification applicable. 3. Aux fins des audits de surveillance, le rapport de surveillance contient les informations nécessaires relatives à la surveillance du carbone stocké et à tout cas d’inversion. 4. Sur demande, les systèmes de certification fournissent à la Commission et aux autorités nationales responsables de la supervision des organismes de certification un accès aux rapports d’audit respectifs et aux certificats de conformité.
+
+Article 12 Audit de groupe concernant l’agrostockage de carbone 1. Les systèmes de certification ne permettent l’audit de groupe à la demande d’un groupement d’exploitants pour les activités d’agrostockage de carbone que dans les cas suivants:
+
+(a) les zones dans lesquelles se déroulent les activités à certifier sont géographiquement proches les unes des autres et présentent des caractéristiques pédologiques ou climatiques similaires;
+
+(b) aux fins du calcul des absorptions de carbone et des réductions des émissions des sols, les activités suivent des processus et des procédures similaires;
+
+(c) tous les membres du groupement appliquent la même méthode de certification pertinente adoptée conformément à l’
+
+article 8, paragraphe 2, du règlement (UE) 2024/3012;
+
+(d) le groupement d’exploitants a mis en place un système de contrôle interne comprenant un ensemble documenté d’activités et de procédures de contrôle fondées sur les risques, conformément auquel une personne ou un organisme identifié (gestionnaire de groupement) est chargé de vérifier que chaque membre du groupement respecte la méthode de certification applicable. 2. Un groupement d’exploitants demandant un audit de groupe désigne un gestionnaire de groupement, qui représente légalement le groupement d’opérateurs et est chargé de veiller à ce que chaque exploitant respecte la méthode de certification applicable. 3. Les organismes de certification procédant à des audits de groupe peuvent vérifier toutes les activités concernées sur la base d’un échantillon de membres du groupement. Les systèmes de certification établissent des lignes directrices concernant la mise en œuvre d’un audit de groupe, incluant au moins les éléments suivants:
+
+(a) rôle du gestionnaire du groupement, y compris en ce qui concerne le système de gestion interne et les procédures internes d’inspection du groupement ainsi que la fréquence des inspections;
+
+(b) taille de l’échantillon d’activités concernées, déterminée conformément au paragraphe 5. 4. Un échantillon constitué d’un nombre de membres du groupement équivalent à la racine carrée du nombre total des membres de ce groupement fait l’objet d’un audit individuel à la fréquence définie dans la méthode de certification applicable. Ce nombre est augmenté si le niveau de risque est plus élevé. 5. Pour l’audit de groupe, si une non-conformité critique ou majeure est constatée chez un exploitant de l’échantillon initial de membres du groupement, un échantillon supplémentaire de même taille fait l’objet d’un audit. Si une non-conformité systémique des membres du groupement est constatée sur l’ensemble de l’échantillon, la certification est suspendue ou retirée, selon le cas, pour l’ensemble des membres de ce groupement. Les systèmes de certification établissent des critères pour déterminer le niveau de risque général dans les zones couvertes par les activités du groupement et les conséquences qu’entraîne ce niveau de risque pour l’approche d’audit. L’échantillon est représentatif de l’ensemble du groupement et est défini en combinant sélection aléatoire et sélection fondée sur le risque. La sélection aléatoire représente au moins 25 % des membres de l’échantillon et au moins 25 % de la superficie totale couverte par les activités de l’échantillon. Les membres sélectionnés pour l’audit de groupe varient à chaque vérification, la fréquence étant définie dans la méthode de certification applicable. Si une non-conformité critique ou majeure de certains membres d’un groupement a été décelée durant un audit, elle est traitée conformément à l’
+
+article 7, paragraphes 2 à 6, selon le cas. 6. Les audits du gestionnaire de groupement sont toujours effectués sur site. Les audits des membres du groupement peuvent être des audits documentaires, à condition qu’ils permettent de fournir un niveau d’assurance comparable à celui d’un audit sur place. Les systèmes de certification déterminent les éléments probants requis pour permettre des audits documentaires. Les autodéclarations des exploitants ne sont pas considérées comme des éléments suffisants. SECTION 3 Organismes de certification
+
+Article 13 Désignation des organismes de certification 1. Les systèmes de certification garantissent que les organismes de certification désignés pour mener des activités d’audit, y compris des audits de certification (validation) et des audits de renouvellement de la certification et de surveillance (vérification), respectent les règles énoncées dans le présent article, à l’exception des paragraphes 2, 3 et 4 dans le cas d’organismes de certification reconnus par une autorité nationale compétente visée à l’
+
+article 10, paragraphe 1, du règlement (UE) 2024/3012. 2. Les organismes de certification sont accrédités conformément à la norme EN ISO/IEC 17065. Lorsqu’un organisme de certification mène des activités de vérification, soit avec ses ressources internes, soit avec d’autres ressources placées sous son contrôle direct, il doit également satisfaire aux exigences applicables des normes EN ISO/IEC 17029 et EN ISO 14065. Les organismes de certification n’utilisent d’autres ressources pour les audits que si celles-ci disposent des connaissances, de l’expérience, des compétences et des capacités nécessaires pour mener efficacement toutes les activités d’audit requises, y compris la validation et la vérification. 3. L’accréditation des organismes de certification est effectuée par les organismes nationaux d’accréditation conformément au règlement (CE) n o 765/2008 du Parlement européen et du Conseil et couvre le champ d’application spécifique de la certification des systèmes conformément au règlement (UE) 2024/3012. Lorsqu’il évalue les qualifications d’un organisme de certification aux fins du paragraphe 2, l’organisme national d’accréditation tient compte, pour la certification de l’agrostockage de carbone ou des absorptions permanentes de carbone et du stockage de carbone dans des produits, respectivement, de toute accréditation obtenue précédemment pour le groupe d’activités concerné conformément au règlement d’exécution (UE) 2022/996 de la Commission ou au règlement d’exécution (UE) 2018/2067 de la Commission . 4. Les organismes de certification choisissent et nomment les membres de l’équipe d’audit conformément à la norme EN ISO/IEC 17021-1 en liaison avec la norme EN ISO/IEC 19011, en tenant compte des compétences nécessaires pour atteindre les objectifs de l’audit. L’équipe d’audit possède les connaissances, l’expérience, les compétences et les capacités nécessaires pour mener l’audit de manière efficace. Si l’audit est réalisé par un seul auditeur, celui-ci dispose également des connaissances, des compétences, de l’expérience, de la formation et des capacités nécessaires pour accomplir les tâches d’un responsable d’équipe d’audit applicables à l’audit en question. 5. Les auditeurs choisis par les organismes de certification satisfont aux exigences suivantes:
+
+(a) être indépendants de l’activité faisant l’objet de l’audit;
+
+(b) ne pas être en situation de conflit d’intérêts, par exemple ne pas avoir participé à des activités de conseil auprès du même exploitant au cours des trois dernières années précédant l’audit;
+
+(c) posséder les connaissances, l’expérience, les compétences et les capacités nécessaires pour mener efficacement l’audit lié au champ d’application du système de certification, notamment:
+
+(1) disposer d’une expérience d’au moins deux ans dans l’évaluation du cycle de vie, ou justifier des aptitudes correspondantes;
+
+(2) avoir une expérience spécifique en matière d’audit des calculs des émissions de GES conformément à la méthode de certification applicable;
+
+(3) en fonction des types spécifiques d’activités auditées, posséder une expérience supplémentaire, selon le cas, dans les domaines de l’agriculture, de l’agronomie, de l’écologie, de la foresterie, des sciences naturelles, de la sylviculture, de l’ingénierie, des matériaux de construction et du carbone intrinsèque, de la gestion de l’énergie ou dans un domaine connexe;
+
+(4) lorsque l’audit porte notamment sur la vérification des niveaux de carbone organique du sol, des connaissances techniques en sciences du sol;
+
+(d) pour les audits de groupe, une expérience dans la réalisation d’audits de groupe. 6. Le système de gouvernance de l’organisme de certification fait en sorte que les auditeurs bénéficient de la plus grande indépendance possible en ce qui concerne leur appréciation en appliquant les principes de rotation des auditeurs ou d’autres meilleures pratiques existantes dans le domaine. 7. Les organismes de certification qui ne sont plus habilités à effectuer un audit dans le cadre d’un système de certification sont répertoriés pendant au moins 24 mois sur le site web de ce système après le dernier audit avec une indication à cet effet.
+
+Article 14 Formation des organismes de certification 1. Les systèmes de certification mettent en place des cours de formation solides pour les auditeurs des organismes de certification désignés par le système, couvrant tous les aspects pertinents pour le champ d’application du système. Ces cours comprennent un examen permettant d’attester que les participants respectent les exigences en matière de formation dans le ou les domaines techniques dans lesquels ils travaillent. Les auditeurs participent aux cours de formation avant d’effectuer des audits pour le compte du système de certification. 2. Les systèmes de certification mettent en œuvre un système de suivi du statut de formation des auditeurs et veillent à ce que les auditeurs suivent une formation de manière régulière. Les systèmes de certification fournissent également aux organismes de certification les orientations nécessaires sur les aspects pertinents pour le processus de certification, y compris les mises à jour du cadre réglementaire ou les conclusions pertinentes du processus de contrôle interne du système de certification.
+
+Article 15 Supervision des organismes de certification par les États membres et la Commission 1. Dans le cadre des systèmes de certification, les organismes de certification effectuant des audits pour le compte du système, ainsi que les exploitants participant au système, sont tenus de coopérer avec la Commission et les autorités nationales compétentes des États membres, notamment en donnant accès aux locaux des exploitants sur demande ainsi qu’en mettant à la disposition de la Commission et des autorités nationales compétentes des États membres toutes les informations nécessaires à l’accomplissement de leurs tâches au titre de l’
+
+article 10, paragraphe 1, du règlement (UE) 2024/3012. Les organismes de certification:
+
+(a) fournissent les informations dont les États membres ont besoin pour superviser le fonctionnement des organismes de certification conformément à l’
+
+article 10 du règlement (UE) 2024/3012;
+
+(b) fournissent les informations requises par la Commission conformément à l’
+
+article 13 du règlement (UE) 2024/3012;
+
+(c) vérifient l’exactitude des informations introduites dans le registre de certification pertinent et dans le registre de l’Union conformément à l’
+
+article 12 du règlement (UE) 2024/3012. 2. Les États membres peuvent déléguer la supervision des organismes de certification aux organismes nationaux d’accréditation conformément au règlement (CE) n o 765/2008. 3. Dans le cadre de la supervision prévue à l’
+
+article 10, paragraphe 4, du règlement (UE) 2024/3012, les États membres peuvent établir des procédures permettant aux organismes de certification reconnus par une autorité nationale compétente visée à l’
+
+article 10, paragraphe 1, du règlement (UE) 2024/3012 de s’enregistrer en vue d’assurer et d’exécuter la supervision, indépendamment du fait que leur siège social se trouve dans un État membre. 4. Les États membres échangent des informations et partagent les meilleures pratiques sur la manière de superviser le fonctionnement des organismes de certification dans un cadre de coopération formel. Lorsque les organismes de certification procèdent à la certification d’activités liées aux absorptions de carbone, à l’agrostockage de carbone et au stockage de carbone dans des produits dans plus d’un État membre, les États membres concernés mettent en place un cadre commun pour superviser ces organismes de certification, y compris en désignant un État membre comme superviseur d’audit principal. 5. Le superviseur d’audit principal est chargé, en coopération avec les autres États membres concernés, du regroupement et du partage avec d’autres États membres des informations relatives au résultat de la supervision des organismes de certification. 6. Lorsqu’un État membre a des doutes raisonnables quant à la capacité d’un organisme de certification donné à mener à bien ses travaux d’audit, il transmet cette information aux autres États membres, à la Commission et au système de certification dans le cadre duquel l’organisme de certification exerce ses activités. Le système de certification concerné ouvre immédiatement une enquête. Dès l’achèvement de son enquête, le système de certification informe les États membres et la Commission de ses conclusions et des éventuelles mesures correctives prises. 7. Les exploitants et les organismes de certification ne respectant pas ou refusant de respecter les dispositions énoncées aux paragraphes 1 à 5 sont respectivement exclus de la participation à des audits et de l’exécution d’audits dans le cadre de systèmes de certification. CHAPITRE III REGISTRES DE CERTIFICATION
+
+Article 16 Registres de certification 1. Les systèmes de certification veillent à ce que leurs registres de certification satisfassent aux exigences suivantes:
+
+(a) enregistrer et assurer le suivi des informations concernant l’identité des exploitants certifiés et les certificats de conformité correspondants;
+
+(b) empêcher l’enregistrement de toute activité qui est enregistrée dans le cadre d’un autre système de certification concernant l’absorption de carbone ou la réduction des émissions des sols;
+
+(c) empêcher la délivrance d’unités certifiées pour une activité donnée et une période de certification donnée lorsqu’un autre système de certification a délivré des unités certifiées pour la même activité et la même période de certification et n’a pas annulé ces unités certifiées;
+
+(d) empêcher que des unités certifiées soient comptabilisées par un bénéficiaire ou pour le compte de celui-ci (retrait) ou définitivement supprimées d’un registre sans être comptabilisées (annulation), lorsqu’elles ont déjà été retirées ou annulées;
+
+(e) exiger l’identification du bénéficiaire visé au point d) et la détermination de la finalité pour laquelle l’unité a été retirée ou annulée;
+
+(f) remédier à la délivrance erronée ou frauduleuse d’unités certifiées au moyen de mesures correctives;
+
+(g) les mesures correctives visées au point f) comprennent au moins la suspension du compte de l’exploitant et, le cas échéant, une compensation ultérieure pour la délivrance excessive d’unités certifiées. Cette compensation s’effectue soit par l’annulation par les systèmes de certification du nombre correspondant d’unités certifiées délivrées sur le compte de l’exploitant, soit par le remplacement par l’exploitant d’un nombre équivalent d’unités certifiées, suivi de leur annulation immédiate. 2. Le système de sécurité informatique sur lequel reposent les registres de certification satisfait aux exigences suivantes:
+
+(a) il se fonde sur les principes de légalité, de transparence, de proportionnalité et de responsabilité;
+
+(b) il est pris en considération tout au long du processus de développement du cycle de vie du système;
+
+(c) il garantit les niveaux appropriés d’authenticité, de disponibilité, de confidentialité, d’intégrité, de non-répudiation, de protection des données à caractère personnel et de secret professionnel;
+
+(d) il se fonde sur une procédure de gestion des risques;
+
+(e) il définit clairement les rôles et les responsabilités des différents utilisateurs;
+
+(f) il énumère les exigences de sécurité et les dépendances du système de tout autre système ou service informatique;
+
+(g) il est résumé dans un plan de sécurité informatique et un plan de mise en œuvre de la sécurité informatique;
+
+(h) il dispose d’un plan de mise en œuvre de la sécurité informatique définissant les projets et processus requis pour réduire les risques à un niveau approprié et à un coût proportionné, et est conforme à une norme de sécurité informatique largement reconnue. CHAPITRE IV RECONNAISSANCE DES SYSTÈMES DE CERTIFICATION
+
+Article 17 Reconnaissance des systèmes de certification 1. Seuls les systèmes de certification conformes aux règles énoncées dans le règlement (UE) 2024/3012, aux méthodes de certification pertinentes et aux exigences énoncées dans le présent règlement peuvent faire l’objet d’une reconnaissance par la Commission. 2. Un système de certification inclut les informations suivantes dans sa demande de reconnaissance:
+
+(a) ses nom, adresse et autres coordonnées;
+
+(b) une vue d’ensemble du champ d’application et des activités prévus du système de certification;
+
+(c) la référence à la ou aux méthodes de certification pour lesquelles le système de certification demande la reconnaissance;
+
+(d) les règles et procédures démontrant la conformité avec la ou les méthodes de certification pertinentes pour lesquelles le système demande la reconnaissance;
+
+(e) les règles et procédures démontrant le respect des exigences énoncées dans le présent règlement. 3. Seules les demandes complètes sont évaluées par la Commission. Si nécessaire, la Commission demande des informations complémentaires au système de certification concerné. Les conclusions de l’évaluation sont consignées dans un rapport d’évaluation technique. 4. Dans le cadre de l’évaluation générale des systèmes de certification, la Commission évalue également, après consultation de la Coopération européenne pour l’accréditation, si les règles et protocoles des systèmes de certification se prêtent à l’accréditation des organismes de certification conformément à l’
+
+article 13, paragraphe 2, du présent règlement. Les conclusions de cette évaluation sont incluses dans le rapport d’évaluation technique visé au paragraphe 3 du présent article. 5. La Commission peut décider, à la demande du système de certification, de prolonger la validité de la décision de reconnaissance adoptée conformément à l’
+
+article 13, paragraphe 1, du règlement (UE) 2024/3012. 6. Les systèmes de certification notifient sans retard à la Commission toute modification substantielle du système susceptible d’avoir une incidence sur le résultat de l’évaluation qui sous-tend la décision de reconnaissance. Les modifications substantielles comprennent, sans s’y limiter, les éléments suivants:
+
+(a) modifications des méthodes de certification pertinentes couvertes par le système de certification;
+
+(b) extension du champ d’application du système de certification au-delà de ce qui est décrit dans la décision de reconnaissance;
+
+(c) modifications par rapport aux exigences énoncées dans le présent règlement. CHAPITRE V DISPOSITIONS FINALES
+
+Article 18 Entrée en vigueur et application Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne . Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. Fait à Bruxelles, le 20 novembre 2025. Par la Commission La présidente Ursula VON DER LEYEN . Directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l’Union ( , ELI: ). Règlement (CE) n o 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et abrogeant le règlement (CEE) n o 339/93 ( , ELI: ). Règlement d’exécution (UE) 2022/996 de la Commission du 14 juin 2022 concernant les règles relatives à la vérification du respect des critères de durabilité et de réduction des émissions de gaz à effet de serre et des critères relatifs au faible risque d’induire des changements indirects dans l’affectation des sols ( , ELI: ). Règlement d’exécution (UE) 2018/2067 de la Commission du 19 décembre 2018 concernant la vérification des données et l’accréditation des vérificateurs conformément à la directive 2003/87/CE du Parlement européen et du Conseil ( , ELI: ).
+
+ANNEXE I Modèle standard du plan d’activité visé à l’
+
+article 3 Un plan d’activité comporte au moins les sections suivantes: 1. Description de l’activité, y compris la description des éléments suivants:
+
+(a) l’admissibilité à la certification au titre du règlement (UE) 2024/3012;
+
+(b) la propriété légale et les coordonnées de l’exploitant;
+
+(c) les limites géoréférencées de l’activité, y compris, le cas échéant, les codes du système national intégré de gestion et de contrôle (SIGC) et du système d’identification des parcelles agricoles (SIPA) conformément au règlement (UE) 2021/2116 du Parlement européen et du Conseil ;
+
+(d) les technologies, pratiques et procédés appliqués;
+
+(e) la date de début de l’activité:
+
+(f) les informations énumérées à l’
+
+article 8, paragraphe 1. 2. Description de l’application de la ou des méthodes de certification, y compris des sous-sections distinctes portant sur:
+
+(a) la quantification, y compris le calcul du niveau de référence de l’activité, le cas échéant;
+
+(b) l’additionnalité, y compris les sources de financement;
+
+(c) le stockage à long terme;
+
+(d) la durabilité. 3. Absorptions totales de carbone, émissions totales des sols et émissions totales de gaz à effet de serre associées à l’activité attendues. 4. Bénéfice net d’absorption de carbone ou bénéfice net des réductions des émissions des sols généré par l’activité escompté. 5. Dans le cas d’un groupement d’exploitants, description de la manière dont les services de conseil sont fournis aux exploitants. 6. Dans le cas d’un groupement d’exploitants mettant en œuvre une activité d’agrostockage de carbone, description du système de contrôle interne mis en place par le groupement d’exploitants conformément à l’
+
+article 12, paragraphe 1, point d). Règlement (UE) 2021/2116 du Parlement européen et du Conseil du 2 décembre 2021 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant le règlement (UE) n o 1306/2013 ( , ELI: ).
+
+ANNEXE II Modèle standard du plan de surveillance visé à l’
+
+article 3 Un plan de surveillance comporte au moins les sections suivantes: 1. Données et paramètres à surveiller. 2. Fréquence de surveillance. 3. Sources d’émission et puits. 4. Source des données. 5. Méthodes et procédures de mesure, y compris des données détaillées sur la précision et l’étalonnage. 6. Procédures d’évaluation ou de contrôle de la qualité. 7. Responsabilité de la collecte et de l’archivage.
+
+ANNEXE III Contenu minimal des rapports d’audit de certification et d’audit de renouvellement de la certification visés à l’
+
+article 3 1. Résumé du rapport d’audit. 2. Informations concernant l’exploitant:
+
+(a) coordonnées (nom et adresse); pour la certification de groupe, coordonnées du gestionnaire du groupement (nom et adresse) et liste des activités d’agrostockage de carbone relevant du champ d’application de la certification (nom et adresse des exploitants exerçant l’activité);
+
+(b) localisation géographique de l’activité ou des activités, y compris les coordonnées de longitude et de latitude;
+
+(c) champ d’application de la certification et méthode de certification pertinente appliquée (y compris la référence juridique);
+
+(d) numéro de référence du plan d’activité et du plan de surveillance. 3. Informations concernant l’activité:
+
+(a) quantité attendue (pour l’audit de certification) ou vérifiée (pour l’audit de recertification) du bénéfice net permanent d’absorption de carbone, du bénéfice net temporaire d’absorption de carbone ou du bénéfice net des réductions des émissions des sols généré par l’activité;
+
+(b) bénéfices connexes en matière de durabilité associés à l’activité. 4. Informations concernant l’organisme de certification:
+
+(a) coordonnées (nom et adresse) et logo;
+
+(b) composition de l’équipe d’audit;
+
+(c) organisme national d’accréditation et portée et date de l’accréditation, ou autorité nationale de reconnaissance et portée et date de la reconnaissance. 5. Informations concernant le processus d’audit:
+
+(a) date de l’audit:
+
+(b) itinéraire et durée de l’audit (divisée en durée passée sur le site et durée à distance, le cas échéant);
+
+(c) normes du système vérifiées/certifiées (y compris le numéro de version);
+
+(d) sites ayant fait l’objet de l’audit;
+
+(e) méthode d’audit (base d’évaluation des risques et d’échantillonnage, consultation des parties prenantes);
+
+(f) certification d’autres normes ou systèmes de certification;
+
+(g) type de données relatives aux GES. 6. Informations concernant les résultats de l’audit:
+
+(a) numéro ou code (unique) du certificat;
+
+(b) lieu et date d’établissement du rapport d’audit;
+
+(c) un des résultats suivants de l’audit:
+
+(1) dates de début et de fin de validité du certificat (et date de la certification le cas échéant);
+
+(2) liste des non-conformités recensées et calendrier applicable pour leur correction;
+
+(d) sceau et/ou signature de la partie délivrant le certificat.
+
+ANNEXE IV Informations minimales devant être publiées par les systèmes de certification sur leur site web conformément à l’
+
+article 9 1. Coordonnées du système, y compris l’adresse et l’adresse électronique. 2. Version la plus récente des règles et procédures de gouvernance du système, y compris les rôles de tous les organes concernés, détails sur la structure de propriété, composition et expérience du conseil d’administration, du secrétariat et du comité technique, ou équivalent, liste des participants au système, procédures de plaintes et de recours, et lignes directrices pour les audits. Les documents relatifs aux règles et procédures incluent une date et un numéro de version et, s’il y a lieu, résument toute modification apportée par rapport à la version précédente du document. 3. Règles régissant le calcul des redevances de participation au système de certification visées à l’
+
+article 11, paragraphe 2, deuxième alinéa, du règlement (UE) 2024/3012. 4. Rapport annuel d’activité. 5. Lien internet vers le registre de certification. 6. Lien internet vers la page web décrivant les procédures de dépôt et d’évaluation des plaintes, y compris les procédures de recours. 7. Mesures éventuelles prises par le système de certification à la suite d’une plainte.
+
+ANNEXE V Informations minimales à inclure dans le rapport annuel d’activité visé à l’
+
+article 9 1. La preuve du respect de l’
+
+article 9, paragraphe 1. 2. L’adoption du système par le marché, le nombre et le type d’activités certifiées (classées selon la méthode applicable), la quantité, le type et le statut des unités certifiées gérées par le système, y compris, par exemple, si elles sont délivrées, retirées, expirées, supprimées ou affectées à une réserve, la destination finale des unités certifiées et les types d’entités qui les utilisent. 3. Un aperçu des activités menées par le système de certification en coopération avec les organismes de certification afin d’améliorer le processus global de certification ainsi que la qualification et l’indépendance des auditeurs, y compris une liste d’ateliers techniques ou d’autres types d’activités facilitant l’échange d’expériences, de connaissances et de bonnes pratiques en ce qui concerne la mise en œuvre des méthodes de certification applicables adoptées conformément au règlement (UE) 2024/3012. 4. Un aperçu du système de contrôle interne et de son examen périodique, y compris en ce qui concerne la supervision des travaux des organismes de certification et de leurs auditeurs. Cet aperçu porte sur la manière dont le système empêche efficacement les activités frauduleuses en garantissant une détection, une résolution et un suivi en temps utile des fraudes et autres irrégularités suspectées et, le cas échéant, indique le nombre de cas de fraude ou d’irrégularité détectés. 5. Un aperçu des activités relatives à la participation des parties prenantes, y compris au moyen de consultations publiques. 6. Un aperçu des plaintes reçues, ainsi que, le cas échéant, des mesures correctives ou des modifications du système de gouvernance nécessaires dans le cadre du contrôle interne. 7. Un aperçu des cas constatés de non-conformité des exploitants ou des organismes de certification, le nombre et la description des cas de fraude constatés, y compris un plan d’action sur la manière de résoudre toute plainte soulevée ou toute non-conformité constatée. 8. Les critères et la procédure de désignation des organismes de certification. ELI: http://data.europa.eu/eli/reg_impl/2025/2358/oj ISSN 1977-0693 (electronic edition)

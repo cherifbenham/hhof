@@ -1,0 +1,451 @@
+LA COMMISSION EUROPÉENNE, vu le traité sur le fonctionnement de l’Union européenne, vu le règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l’étiquetage énergétique et abrogeant la directive 2010/30/UE , et notamment son
+
+article 16, paragraphe 1,
+
+considérant ce qui suit:
+
+(1) Le règlement délégué (UE) 2023/2534 de la Commission établit des exigences harmonisées pour l’étiquetage des sèche-linge domestiques à tambour, permettant aux clients de prendre des décisions d’achat en connaissance de cause sur la base de l’efficacité énergétique et d’informations supplémentaires sur les appareils. L’
+
+article 3 précise également le contenu et le format de la fiche d’information sur le produit et de la documentation technique, ainsi que les paramètres pertinents à introduire dans le registre européen des produits pour l’étiquetage énergétique (EPREL).
+
+(2) Il est important de remédier à la baisse significative de la durée de vie des sèche-linge domestiques à tambour au cours des 15 dernières années, qui a entraîné une augmentation du taux de production pour compenser la durée de vie plus courte. La fourniture d’informations sur la réparabilité des sèche-linge à tambour au moyen d’un indice de réparabilité pourrait générer plusieurs avantages environnementaux, sociaux et économiques en encourageant les consommateurs à choisir des produits plus réparables. L’indice de réparabilité devrait être calculé sur la base de paramètres pertinents pour évaluer la facilité de réparation d’un sèche-linge domestique à tambour.
+
+(3) À compter du 1 er janvier 2027, tout sèche-linge domestique à tambour mis sur le marché devrait être accompagné d’une étiquette et d’une fiche d’information sur le produit contenant des informations sur la réparabilité. Afin de garantir une introduction harmonieuse de l’indice de réparabilité, les fournisseurs pourraient fournir des étiquettes contenant des informations sur la réparabilité avant l’échéance obligatoire du 1 er janvier 2027, plutôt que des étiquettes ne contenant pas d’informations sur la réparabilité.
+
+(4) Étant donné que la mise en œuvre d’un indice de réparabilité n’implique pas de remaniement de l’étiquette, les revendeurs devraient être autorisés, après le 1 er janvier 2027, à vendre, sans limitation dans le temps, des sèche-linge domestiques à tambour mis sur le marché avant cette date, avec des étiquettes ne comportant pas l’indice de réparabilité.
+
+(5) Afin d’améliorer la réparabilité des sèche-linge domestiques à tambour, il convient d’inclure un élément supplémentaire dans le réexamen prévu à l’
+
+article 7 du règlement délégué (UE) 2023/2534, à savoir l’évaluation de la possibilité d’inclure les pompes à chaleur parmi les composants prioritaires pris en compte dans le calcul de l’indice de réparabilité.
+
+(6) Afin de garantir la sécurité juridique, il convient d’ajouter des définitions pertinentes concernant l’indice de réparabilité et le taux d’humidité final moyen.
+
+(7) Afin d’aider les consommateurs à faire des choix éclairés en ce qui concerne le degré de réparation et d’entretien des sèche-linge domestiques à tambour, la classe de réparabilité pertinente devrait être incluse dans les étiquettes énergétiques des sèche-linge domestiques à tambour à condensation et sans condensation, allant de A à E, où la classe À correspond aux sèche-linge domestiques à tambour présentant les meilleurs indices de réparabilité et la classe inférieure E aux sèche-linge domestiques à tambour présentant les plus mauvais indices de réparabilité.
+
+(8) Le terme «logo» devrait être remplacé par «pictogramme» dans la description de l’étiquette figurant à l’
+
+annexe III, dans un souci de cohérence avec d’autres actes délégués relatifs à l’étiquetage énergétique. En outre, la référence au label écologique de l’UE devrait être supprimée de l’
+
+annexe III, étant donné que le label écologique de l’UE n’est plus attribué.
+
+(9) Il convient de définir une méthode de calcul de l’indice de réparabilité des sèche-linge domestiques à tambour permettant d’attribuer une classe de réparabilité à chaque modèle de sèche-linge domestique à tambour.
+
+(10) Le calcul de l’indice de réparabilité devrait être effectué au moyen d’une formule fondée sur des paramètres spécifiques qui ont été jugés pertinents pour déterminer la facilité de réparation pour chaque modèle de sèche-linge domestique à tambour. Ces paramètres sont la profondeur du désassemblage, le type d’éléments de fixation, le type d’outil et les informations relatives à la réparation.
+
+(11) À l’exception des informations relatives à la réparation, qui doivent être évaluées au niveau du produit, les trois autres paramètres de calcul de l’indice de réparabilité devraient être évalués au niveau du composant du sèche-linge domestique à tambour à remplacer. C’est pourquoi des composants prioritaires ont été sélectionnés et inclus dans la formule de chaque paramètre, avec une moyenne pondérée reflétant la pertinence de chaque composant prioritaire en termes de ventes et de taux de défaillance.
+
+(12) La description des étapes de désassemblage utilisées pour calculer le paramètre de la profondeur du désassemblage devrait être cohérente avec les informations sur la réparation et l’entretien à fournir aux réparateurs professionnels.
+
+(13) Il convient de supprimer des informations à fournir dans la documentation technique du produit les éléments de la méthode de calcul du taux d’humidité final moyen du programme eco, qui étaient initialement fixés à l’
+
+annexe IV, point 1, g), du règlement délégué (UE) 2023/2534. Il a été constaté que l’obtention d’une valeur de 0 % du taux d’humidité final moyen s’accompagne souvent d’effets secondaires indésirables, en termes de dommages thermiques des textiles dus à un séchage excessif et de consommation excessive d’énergie, qu’il convient d’éviter. Au lieu de cela, les méthodes de mesure et de calcul indiquées dans les normes harmonisées pertinentes devraient être utilisées pour calculer ce paramètre, étant donné que celles-ci prévoient des tolérances appropriées.
+
+(14) Afin de garantir aux consommateurs des choix éclairés et d’encourager une consommation durable, les informations sur l’indice de réparabilité et les scores partiels pour chacun des paramètres de notation devraient faire partie de la fiche d’information sur le produit. Afin d’éviter une charge administrative inutile pour les fournisseurs, seules les modifications du score global de l’indice de réparabilité d’un produit devraient être considérées comme pertinentes pour la définition d’un nouveau modèle. À l’inverse, les changements dans les calculs partiels des paramètres de notation qui ne modifient pas l’indice global de réparabilité ne sont pas considérés comme pertinents.
+
+(15) Afin d’éviter toute confusion pour les fournisseurs et les autorités de surveillance du marché, il convient de clarifier le contenu de la documentation technique, y compris les informations pertinentes sur la réparabilité.
+
+(16) Il y a lieu, dès lors, de modifier le règlement délégué (UE) 2023/2534 en conséquence,
+
+A ADOPTÉ LE PRÉSENT RÈGLEMENT: Article premier Dispositions modificatives Le règlement délégué (UE) 2023/2534 est modifié comme suit: 1) L’
+
+article 3 est modifié comme suit: a) le paragraphe 1 est remplacé par le texte suivant: «1. Les fournisseurs veillent à ce que: a) du 1 er mars 2025 au 31 décembre 2026: i) chaque sèche-linge domestique à tambour soit fourni avec une étiquette imprimée suivant le format défini à l’
+
+annexe III et contenant les informations prévues à l’
+
+annexe III et, pour les sèche-linge domestiques à tambours multiples, conformément à l’
+
+annexe X; ii) les valeurs des paramètres figurant dans la fiche d’information sur le produit, conformément à l’
+
+annexe V, soient enregistrées dans la partie publique de la base de données sur les produits; b) du 1 er juillet 2025 au 31 décembre 2026: i) le contenu de la documentation technique, telle que prévue à l’
+
+annexe VI, soit enregistré dans la base de données sur les produits; ii) une étiquette électronique au format et avec le contenu informatif définis à l’
+
+annexe III soit mise à la disposition des revendeurs pour chaque modèle de lave-vaisselle ménager; iii) une fiche d’information électronique sur le produit telle que décrite à l’
+
+annexe V soit mise à la disposition des revendeurs pour chaque modèle de sèche-linge domestique à tambour; iv) à la demande expresse du revendeur, la fiche d’information sur le produit telle que prévue à l’
+
+annexe V soit mise à disposition sur support imprimé; c) à partir du 1 er janvier 2027: i) chaque sèche-linge domestique à tambour soit fourni avec une étiquette imprimée suivant le format défini à l’
+
+annexe III bis et, pour les sèche-linge domestique à tambours multiples, conformément à l’
+
+annexe X; ii) les valeurs des paramètres figurant dans la fiche d’information sur le produit, conformément à l’
+
+annexe V bis , soient enregistrées dans la partie publique de la base de données sur les produits; iii) le contenu de la documentation technique visée à l’
+
+annexe VI bis , à l’exception des informations visées aux points 1, h) et 1, i) de ladite
+
+annexe, soit introduit dans la base de données sur les produits; iv) une étiquette électronique au format et avec le contenu informatif définis à l’
+
+annexe III bis soit mise à la disposition des revendeurs pour chaque modèle de lave-vaisselle ménager; v) une fiche d’information électronique sur le produit telle que décrite à l’
+
+annexe V bis soit mise à la disposition des revendeurs pour chaque modèle de sèche-linge domestique à tambour; vi) à la demande expresse du revendeur, la fiche d’information sur le produit telle que prévue à l’
+
+annexe V bis soit mise à disposition sur support imprimé; d) à partir du 1 er juillet 2025: i) toute publicité visuelle pour un modèle spécifique de sèche-linge domestique à tambour indique sa classe d’efficacité énergétique et l’échelle des classes d’efficacité énergétique telles qu’elles figurent sur l’étiquette conformément aux
+
+annexes VII et VIII; ii) tout matériel promotionnel technique concernant un modèle spécifique de sèche-linge domestique à tambour, y compris sur l’internet, qui décrit ses paramètres techniques spécifiques, mentionne la classe d’efficacité énergétique de ce modèle et l’échelle des classes d’efficacité énergétique telles qu’elles figurent sur l’étiquette, conformément à l’
+
+annexe VII.» ; b) le paragraphe 1 bis suivant est inséré: «1 bis . Par dérogation au paragraphe 1, points a) et b), au cours de la période allant du 24 novembre 2025 au 31 décembre 2026, les fournisseurs peuvent remplir leurs obligations énoncées au paragraphe 1, points a) et b), de la manière prévue au paragraphe 1, point c).» ; 2) à l’
+
+article 4, le point a) est remplacé par le texte suivant: «a) que chaque sèche-linge domestique à tambour, sur le point de vente, y compris à des foires commerciales, porte l’étiquette fournie par les fournisseurs conformément à l’
+
+article 3, paragraphe 1, point a), i) ou c), i), placée de manière tout à fait visible, dans le cas des appareils intégrables, et dans le cas des autres appareils, placée de manière tout à fait visible sur la face extérieure ou sur le dessus du sèche-linge domestique à tambour;»; 3) l’
+
+article 7 est modifié comme suit: a) le paragraphe 1 est remplacé par le texte suivant: «La Commission réexamine le présent règlement à la lumière du progrès technologique et présente au Forum Ecodesign les résultats de ce réexamen, accompagné le cas échéant d’un projet de proposition, au plus tard le 1 er janvier 2030. Le réexamen porte notamment sur les éléments suivants: a) le potentiel d’amélioration en matière de consommation d’énergie ainsi que de performance fonctionnelle et environnementale des sèche-linge domestique à tambour; b) l’efficacité des mesures existantes pour provoquer un changement dans le comportement des utilisateurs finaux en termes d’achat d’appareils et d’utilisation de programmes plus efficaces sur le plan de l’énergie et des ressources; c) la possibilité de prendre en compte des objectifs d’économie circulaire; d) l’opportunité d’inclure la pompe à chaleur dans la liste des composants prioritaires aux fins du calcul de l’indice de réparabilité.»; b) le paragraphe 2 est supprimé; 4) à l’
+
+article 10, le deuxième alinéa est remplacé par le texte suivant: «Il est applicable à partir du 1 er juillet 2025. Toutefois, l’
+
+article 9 est applicable à partir du 1 er janvier 2024 et l’
+
+article 3, paragraphe 1 et paragraphe 1 bis, est applicable dans les conditions qui y sont énoncées.»; 5) les
+
+annexes I, II et III sont modifiées conformément à l’
+
+annexe I du présent règlement; 6) le texte figurant à l’
+
+annexe II du présent règlement est inséré comme
+
+annexe III bis ; 7) les
+
+annexes IV et V sont modifiées conformément à l’
+
+annexe III du présent règlement. 8) le texte figurant à l’
+
+annexe IV du présent règlement est inséré comme
+
+annexe V bis ; 9) l’
+
+annexe VI est modifiée conformément à l’
+
+annexe V du présent règlement; 10) le texte figurant à l’
+
+annexe VI du présent règlement est inséré comme
+
+annexe VI bis ; 11) les
+
+annexes VII, VIII, IX et X sont modifiées conformément à l’
+
+annexe VII du présent règlement.
+
+Article 2 Entrée en vigueur et application Le présent règlement entre en vigueur le quatrième jour suivant celui de sa publication au Journal officiel de l’Union européenne . Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. Fait à Bruxelles, le 1 er juillet 2025. Par la Commission La présidente Ursula VON DER LEYEN , ELI: . Règlement délégué (UE) 2023/2534 de la Commission du 13 juillet 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des sèche-linge domestiques à tambour et abrogeant le règlement délégué (UE) n o 392/2012 de la Commission ( ).
+
+ANNEXE I Les
+
+annexes I, II et III du règlement délégué (UE) 2023/2534 sont modifiées comme suit: 1) à l’
+
+annexe I, les points suivants sont ajoutés: «27) “taux d’humidité final moyen”: la moyenne du taux d’humidité final pour le programme eco à pleine charge et à demi-charge; 28) “pièce de rechange”: une pièce séparée pouvant remplacer une pièce ayant la même fonction ou une fonction similaire dans un sèche-linge domestique à tambour; 29) “pièce prioritaire”: une pièce de rechange utilisée dans les calculs de l’indice de réparabilité établi à l’
+
+annexe IV, section 5; 30) “circuit imprimé principal”: la carte gérant directement ou indirectement les composants électriques et électroniques intégrés dans l’appareil; 31) “désassemblage”: un processus par lequel un produit est désassemblé de telle façon qu’il puisse être ultérieurement réassemblé et rendu opérationnel; 32) “élément de fixation”: un dispositif matériel ou une substance qui, mécaniquement, magnétiquement ou par d’autres moyens, relie ou fixe deux ou plusieurs objets, parties ou pièces, y compris un dispositif matériel qui, en outre, remplit une fonction électrique; 33) ‘élément de fixation réutilisable’: un élément de fixation qui peut être entièrement réutilisé lors du réassemblage à la même fin et qui n’endommage ni le produit, ni l’élément de fixation lui-même au cours du processus de désassemblage ou de réassemblage de sorte qu’il n’est plus possible de les réutiliser; 34) “élément de fixation amovible”: un élément de fixation qui n’est pas un élément de fixation réutilisable mais dont le retrait n’endommage pas le produit ni ne laisse de résidus, de sorte que le réassemblage n’est pas compromis; 35) “élément de fixation renouvelé”: un élément de fixation amovible fourni avec la pièce de rechange qu’il est destiné à raccorder ou à fixer; les adhésifs sont considérés comme des éléments de fixation renouvelés s’ils sont fournis avec la pièce de rechange en quantité suffisante pour le réassemblage, sans frais supplémentaires; 36) “étape”: une opération qui aboutit à la dépose d’une pièce (ou d’un ensemble de pièces) ou à un changement d’outil; tout enlèvement d’une pièce de son emplacement d’origine, même si cela implique une déconnexion ou un débranchement partiel est également considéré comme une dépose; 37) “outil disponible dans le commerce”: un outil qui est disponible à l’achat par le grand public et qui n’est ni un outil de base, ni un outil propriétaire; 38) “outils de base”: un tournevis à tête plate, un tournevis à empreinte cruciforme, un tournevis à empreinte à six lobes internes (Torx), une clé pour boulons et écrous à six pans, une clé universelle, une pince universelle, une pince à dénuder les fils et sertir les bornes, une pince à bout arrondi, une pince coupante diagonale, une pince multiprises, une pince étau, un levier, une pincette, une loupe, une spatule et un crochet; 39) “outil propriétaire”: un outil qui n’est pas disponible à l’achat par le grand public ou pour lequel des brevets applicables ne sont pas disponibles pour une utilisation sous licence dans des conditions équitables, raisonnables et non discriminatoires; 40) “réparateur professionnel”: un opérateur ou une entreprise qui fournit des services de réparation et d’entretien professionnels pour les sèche-linge domestiques à tambour.»; 2) à l’
+
+annexe II, le point 4 suivant est ajouté: «4. CLASSE DE RÉPARABILITÉ La classe de réparabilité d’un sèche-linge domestique à tambour est déterminée sur la base de son indice de réparabilité, conformément au tableau 3 bis . L’indice de réparabilité est défini conformément à la section 5 de l’
+
+annexe IV. Tableau 3 bis Classe de réparabilité Classe de réparabilité Indice de réparabilité (R) A (le plus réparable) R > 9,00 B 7,00 ≤ R ≤ 9,00 C 5,00 ≤ R < 7,00 D 3,00 ≤ R < 5,00 E (le moins réparable) R < 3,00» 3) l’
+
+annexe III est modifiée comme suit: a) à la section A, le point 1.1 est modifié comme suit: i) le point V est remplacé par le texte suivant: «V la classe d’efficacité énergétique déterminée conformément à l’
+
+annexe II;»; ii) les points VII et VIII sont remplacés par le texte suivant: «VII la classe du taux de condensation déterminée conformément à l’
+
+annexe II, avec le pictogramme correspondant et la valeur arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; VIII la classe d’émissions de bruit acoustique dans l’air du cycle de séchage du programme eco, avec le logo correspondant et la valeur en dB(A), déterminée conformément à l’
+
+annexe IV, section 4;»; iii) le point 1.2 est supprimé; b) à la section B, le point 1.1 est modifié comme suit: i) le point V est remplacé par le texte suivant: «V la classe d’efficacité énergétique déterminée conformément à l’
+
+annexe II;»; ii) le point VII est remplacé par le texte suivant: «VII la classe d’émissions de bruit acoustique dans l’air du cycle de séchage du programme eco, avec le logo correspondant et la valeur en dB(A), déterminée conformément à l’
+
+annexe IV, section 4;»; iii) le point 1.2 est supprimé.
+
+ANNEXE II «
+
+ANNEXE III bis ÉTIQUETTE CONTENANT DES INFORMATIONS SUR LA RÉPARABILITÉ A. Étiquette pour les sèche-linge à tambour à condensation avec pictogramme de classe de réparabilité 1. ÉTIQUETTE POUR LES SÈCHE-LINGE À TAMBOUR À CONDENSATION AVEC PICTOGRAMME DE CLASSE DE RÉPARABILITÉ Figure 4 bis L’étiquette contient les informations suivantes: I le code QR; II la marque commerciale; III l’identifiant du modèle; IV l’échelle des classes d’efficacité énergétique de A à G; V la classe d’efficacité énergétique déterminée conformément à l’
+
+annexe II; VI la consommation d’énergie moyenne pondérée pour 100 cycles de séchage en kWh, arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; dans le cas des sèche-linge à tambour fonctionnant au gaz, la consommation d’énergie moyenne pondérée (gaz et électricité) pour 100 cycles de séchage en kWh, arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; VII la classe de réparabilité déterminée conformément à l’
+
+annexe II, calculée conformément à l’
+
+annexe IV; VIII la classe du taux de condensation déterminée conformément à l’
+
+annexe II, avec le pictogramme correspondant et la valeur arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; IX la classe d’émissions de bruit acoustique dans l’air du cycle de séchage du programme eco, avec le logo correspondant et la valeur en dB(A), déterminée conformément à l’
+
+annexe IV, section 4; X la capacité nominale en kg pour le programme eco à pleine charge; XI la durée du programme eco à pleine charge exprimée en heures et minutes [h:min] et arrondie à la minute la plus proche; XII le numéro du présent règlement, à savoir “2023/2534”. 2. ÉTIQUETTE POUR LES SÈCHE-LINGE À TAMBOUR À CONDENSATION AVEC PICTOGRAMME DE CLASSE DE RÉPARABILITÉ Figure 4 ter Sur ce dessin: a) l’étiquette mesure au minimum 96 mm en largeur et 192 mm en hauteur. Lorsque l’étiquette est imprimée dans un format plus grand, son contenu demeure proportionné aux spécifications de la figure 4 ter ; b) le fond est en blanc 100 %; c) la police utilisée est Verdana; d) les dimensions et spécifications des éléments de l’étiquette sont indiquées dans les dessins des étiquettes de la présente
+
+annexe; e) les couleurs sont codées à l’aide du modèle cyan, magenta, jaune, noir (CMYK), selon l’exemple suivant: 0,70,100,0, 0 % cyan, 70 % magenta, 100 % jaune, 0 % noir; f) l’étiquette doit satisfaire à toutes les exigences suivantes (les numéros renvoient à la figure 4 ter ): les couleurs du logo “UE” sont les suivantes:
+
+— pour le fond: 100,80,0,0,
+
+— pour les étoiles: 0,0,100,0; la couleur du logo “énergie” est: 100,80,0,0; le code QR est en noir 100 %; la marque de fabrique ou de commerce est en noir 100 % et en gras, 9 pt; la référence du modèle est en noir 100 % et en caractères normaux, 9 pt; l’échelle de A à G est présentée comme suit: a) les lettres dans les flèches sont en blanc 100 % et en gras, 16 pt, et sont centrées sur un axe à 4,5 mm du bord gauche des flèches; b) les couleurs de fond des flèches sont les suivantes: i) classe A: 100,0,100,0; ii) classe B: 70,0,100,0; iii) classe C: 30,0,100,0; iv) classe D: 0,0,100,0; v) classe E: 0,30,100,0; vi) classe F: 0,70,100,0; vii) classe G: 0,100,100,0; les lignes de séparation internes ont une largeur de 80 mm et une épaisseur de 0,5 pt. La couleur des lignes de séparation est noir 100 %; la flèche de la classe d’efficacité énergétique est en noir 100 %. La lettre à l’intérieur de la flèche de la classe d’efficacité énergétique est en blanc 100 % et en gras, 26 pt, et est positionnée au centre de la partie rectangulaire de la flèche. La flèche de la classe d’efficacité énergétique et la flèche correspondante de l’échelle de A à G sont positionnées de telle manière que leurs extrémités sont alignées; la valeur de la consommation d’énergie pondérée pour 100 cycles de séchage est en gras, 28 pt; “kWh/” est en Regular 18 pt; le nombre “100” dans l’icône représentant 100 cycles de séchage est de 14 pt normal. Le texte est centré dans la colonne et en noir 100 %; les pictogrammes sont présentés comme indiqué sur les dessins de l’étiquette et comme suit: a) les lignes des pictogrammes ont une épaisseur de 1,2 pt et sont, ainsi que les textes (nombres et unités), en noir 100 %; b) les échelles A à D du pictogramme du taux de condensation et du pictogramme de l’émission de bruit acoustique dans l’air sont alignées sur un axe vertical sur le côté gauche de l’icône, la lettre de la classe applicable étant en gras, 12 pt, et les autres lettres des autres classes en caractères normaux, 8 pt; c) le numéro du pictogramme du taux de condensation est en gras, 9 pt, et l’unité en caractères normaux, 9 pt, le numéro et l’unité étant accolés et centrés à l’intérieur du pictogramme; d) l’échelle A à E du pictogramme de classe de réparabilité est alignée sur un axe vertical sur le côté gauche de l’icône, la lettre de la classe applicable étant en gras, 12 pt, et les autres lettres des autres classes en caractères normaux, 8 pt; e) le numéro du pictogramme de l’émission de bruit acoustique dans l’air est en gras, 12 pt, et l’unité en caractères normaux, 9 pt, le numéro et l’unité étant accolés et centrés à l’intérieur du pictogramme; f) le numéro du pictogramme de la capacité nominale est en gras, 16 pt, et l’unité en caractères normaux, 12 pt, le numéro et l’unité étant accolés et centrés sous le pictogramme; g) le numéro du pictogramme de la durée du programme eco est en gras, 16 pt, et centré sous le pictogramme; le numéro du règlement est en noir 100 % et en caractères normaux, 6 pt. B. Étiquette pour les sèche-linge à tambour sans condensation avec pictogramme de classe de réparabilité 1. ÉTIQUETTE POUR LES SÈCHE-LINGE À TAMBOUR SANS CONDENSATION AVEC PICTOGRAMME DE CLASSE DE RÉPARABILITÉ Figure 4 quater L’étiquette contient les informations suivantes: I le code QR; II la marque commerciale; III l’identifiant du modèle; IV l’échelle des classes d’efficacité énergétique de A à G; V la classe d’efficacité énergétique déterminée conformément à l’
+
+annexe II; VI la consommation d’énergie moyenne pondérée pour 100 cycles de séchage en kWh, arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; dans le cas des sèche-linge à tambour fonctionnant au gaz, la consommation d’énergie moyenne pondérée (gaz et électricité) pour 100 cycles de séchage en kWh, arrondie à l’entier le plus proche et calculée conformément à l’
+
+annexe IV; VII la classe de réparabilité déterminée conformément à l’
+
+annexe II, calculée conformément à l’
+
+annexe IV; VIII la classe d’émissions de bruit acoustique dans l’air du cycle de séchage du programme eco, avec le logo correspondant et la valeur en dB(A), déterminée conformément à l’
+
+annexe IV, section 4; IX la capacité nominale en kg pour le programme eco à pleine charge; X la durée du programme eco à pleine charge exprimée en heures et minutes [h:min] et arrondie à la minute la plus proche; XI le numéro du présent règlement, à savoir “2023/2534”. 2. ÉTIQUETTE POUR LES SÈCHE-LINGE À TAMBOUR À CONDENSATION AVEC PICTOGRAMME DE CLASSE DE RÉPARABILITÉ Figure 4 quinquies Sur ce dessin: a) l’étiquette mesure au minimum 96 mm en largeur et 192 mm en hauteur. Lorsque l’étiquette est imprimée dans un format plus grand, son contenu demeure proportionné aux spécifications de la figure 4 quinquies ; b) le fond est en blanc 100 %; c) la police utilisée est Verdana; d) les dimensions et spécifications des éléments de l’étiquette sont indiquées dans les dessins des étiquettes de la présente
+
+annexe; e) les couleurs sont codées à l’aide du modèle cyan, magenta, jaune, noir (CMYK), selon l’exemple suivant: 0,70,100,0, 0 % cyan, 70 % magenta, 100 % jaune, 0 % noir; f) l’étiquette doit satisfaire à toutes les exigences suivantes (les numéros renvoient à la figure 4 quinquies ): les couleurs du logo “UE” sont les suivantes:
+
+— pour le fond: 100,80,0,0,
+
+— pour les étoiles: 0,0,100,0; la couleur du logo “énergie” est: 100,80,0,0; le code QR est en noir 100 %; la marque de fabrique ou de commerce est en noir 100 % et en gras, 9 pt; la référence du modèle est en noir 100 % et en caractères normaux, 9 pt; l’échelle de A à G est présentée comme suit: a) les lettres dans les flèches sont en blanc 100 % et en gras, 16 pt, et sont centrées sur un axe à 4,5 mm du bord gauche des flèches; b) les couleurs de fond des flèches sont les suivantes: i) classe A: 100,0,100,0; ii) classe B: 70,0,100,0; iii) classe C: 30,0,100,0; iv) classe D: 0,0,100,0; v) classe E: 0,30,100,0; vi) classe F: 0,70,100,0; vii) classe G: 0,100,100,0; les lignes de séparation internes ont une largeur de 80 mm et une épaisseur de 0,5 pt. La couleur des lignes de séparation est noir 100 %; la flèche de la classe d’efficacité énergétique est en noir 100 %. La lettre à l’intérieur de la flèche de la classe d’efficacité énergétique est en blanc 100 % et en gras, 26 pt, et est positionnée au centre de la partie rectangulaire de la flèche. La flèche de la classe d’efficacité énergétique et la flèche correspondante de l’échelle de A à G sont positionnées de telle manière que leurs extrémités sont alignées; la valeur de la consommation d’énergie pondérée pour 100 cycles de séchage est en gras, 28 pt; “kWh/” est en Regular 18 pt; le nombre “100” dans l’icône représentant 100 cycles de séchage est de 14 pt normal. Le texte est centré dans la colonne et en noir 100 %; les pictogrammes sont présentés comme indiqué sur les dessins de l’étiquette et comme suit: a) les lignes des pictogrammes ont une épaisseur de 1,2 pt et sont, ainsi que les textes (nombres et unités), en noir 100 %; b) l’échelle A à D du pictogramme de l’émission de bruit acoustique dans l’air est alignée sur un axe vertical sur le côté gauche de l’icône, la lettre de la classe applicable étant en gras, 12 pt, et les autres lettres des autres classes en caractères normaux, 8 pt; c) l’échelle A à E du pictogramme de classe de réparabilité est alignée sur un axe vertical sur le côté gauche de l’icône, la lettre de la classe applicable étant en gras, 12 pt, et les autres lettres des autres classes en caractères normaux, 8 pt; d) le numéro du pictogramme de l’émission de bruit acoustique dans l’air est en gras, 12 pt, et l’unité en caractères normaux, 9 pt, le numéro et l’unité étant accolés et centrés à l’intérieur du pictogramme; e) le numéro du pictogramme de la capacité nominale est en gras, 16 pt, et l’unité en caractères normaux, 12 pt, le numéro et l’unité étant accolés et centrés sous le pictogramme; f) le numéro du pictogramme de la durée du programme eco est en gras, 16 pt, et centré sous le pictogramme; le numéro du règlement est en noir 100 % et en caractères normaux, 6 pt. ».
+
+ANNEXE III Les
+
+annexes IV et V du règlement délégué (UE) 2023/2534 sont modifiées comme suit: 1) l’
+
+annexe IV est modifiée comme suit: a) les troisième et quatrième alinéas sont remplacés par le texte suivant: «Le programme eco, repérable sur le dispositif de sélection de programme, sur le dispositif d’affichage et sur l’application réseau correspondante, selon les fonctionnalités offertes par le sèche-linge domestique à tambour, et sans autre modification du réglage du taux d’humidité final, est utilisé pour la mesure et le calcul de l’IEE, du taux de condensation, de la durée du programme et des émissions de bruit acoustique dans l’air. La consommation d’énergie, le taux de condensation et la durée du programme sont aussi mesurés simultanément. Le calcul de la consommation d’énergie pondérée, de la durée pondérée du programme et du taux de condensation est effectué sur la base de trois cycles de séchage à pleine charge et de quatre cycles de séchage à demi-charge.»; b) à la section 1, le point g) est supprimé; c) la section 5 suivante est ajoutée: «5. MÉTHODE DE CALCUL DE L’INDICE DE RÉPARABILITÉ DES SÈCHE-LINGE DOMESTIQUES À TAMBOUR L’indice de réparabilité est un score agrégé et normalisé, sous la forme d’une valeur calculée dérivée de quatre paramètres de notation où:
+
+— S DD est le score pour la profondeur de désassemblage (“Disassembly Depth”),
+
+— S F est le score pour les éléments de fixation [“Fasteners (type)”],
+
+— S T est le score pour les outils [“Tools (type)”],
+
+— S RI est le score pour les informations concernant la réparation (“Repair Information”). L’indice de réparabilité ( R ) est calculé comme suit: et il est arrondi à la deuxième décimale. Les scores “Disassembly Depth” ( S DD ), “Fasteners (type)” ( S F ) et “Tools (type)” ( S T ) sont basés sur l’agrégation de scores au niveau des pièces prioritaires suivantes:
+
+— WP est la pompe à eau,
+
+— B est le palier du tambour,
+
+— DB est la courroie du tambour,
+
+— D est la porte,
+
+— M est le moteur,
+
+— MB est le circuit imprimé principal,
+
+— F est le ventilateur,
+
+— MC est le condensateur du moteur. Si l’une des pièces prioritaires mentionnées ci-dessus est présente plus d’une fois dans un produit, seule celle qui obtient le score le plus faible est prise en compte dans le calcul des scores “Disassembly Depth” ( S DD ), “Fasteners (type)” ( S F ) et “Tools (type)” ( S T ). Si une ou plusieurs pièces prioritaires ne sont pas présentes dans le produit, elles sont retirées de la formule de paramètres de notation dans laquelle elles apparaissent. En outre, les coefficients des pièces prioritaires restantes dans la formule de chaque paramètre de notation sont divisés par le complément à 1 de la somme du coefficient correspondant aux parties prioritaires non présentes dans le produit, de sorte que la somme des coefficients restants est toujours de 1. S DD , S F et S T sont calculés sur la base de la description des étapes de désassemblage, des éléments de fixation et des outils nécessaires pour chaque pièce prioritaire. L’évaluation de l’indice de réparabilité, plus précisément des paramètres S DD , S F et S T , commence sur un produit qui:
+
+— est entretenu conformément au manuel d’utilisation pour une utilisation quotidienne,
+
+— est entièrement assemblé,
+
+— est en position debout, tous les panneaux latéraux et le couvercle de l’appareil librement accessibles,
+
+— est déconnecté de toute alimentation et évacuation. Après l’évaluation, le produit doit être entièrement réassemblé. 5.1. Le score “Disassembly Depth” ( S DD ) est calculé comme suit: Évaluation du score “Disassembly Depth” (DD) au niveau des composants Le score “Disassembly Depth” ( DD i ) pour chaque pièce prioritaire ( DD WP , DD B , DD DB , DD D , DD M , DD MB , DD F , DD MC ) est établi sur la base du nombre d’étapes requis pour retirer la pièce prioritaire du produit ( DD ) par rapport au nombre moyen d’étapes de désassemblage ( MDS ) pour cette pièce prioritaire sans endommager le produit. Pour chaque pièce prioritaire, le MDS est le suivant:
+
+— pompe à eau: 16,1 étapes,
+
+— palier du tambour: 18,9 étapes,
+
+— courroie du tambour: 40,9 étapes,
+
+— porte: 3 étapes,
+
+— moteur: 49,4 étapes,
+
+— carte de circuit imprimé principal: 13,7 étapes,
+
+— ventilateur: 7,7 étapes,
+
+— condensateur du moteur: 24,9 étapes. Des points allant de 0 à 10 sont attribués au DD i pour chaque pièce prioritaire de la manière suivante:
+
+— si DD ≤ 0,70 × MDS , DD i = 10 pt,
+
+— si 0,70 × MDS < DD ≤ 0,90 × MDS , DD i = 7 pt,
+
+— si 0,90 × MDS < DD ≤ 1,10 × MDS , DD i = 4 pt,
+
+— si 1,10 × MDS < DD ≤ 1,30 × MDS , DD i = 1 pt,
+
+— si DD > 1,30 × MDS , DD i = 0 pt. Pour le calcul de DD , la formule suivante est utilisée:
+
+— le comptage des étapes pour le désassemblage de chaque pièce prioritaire est terminé lorsque la pièce prioritaire cible est séparée et individuellement accessible. Lorsque la pièce prioritaire cible fait partie d’un assemblage ou d’un ensemble de pièces, ce qui implique tout d’abord le retrait de l’assemblage ou de l’ensemble de pièces, la fin du processus de désassemblage a lieu lorsque la pièce prioritaire cible est séparée et individuellement accessible,
+
+— les éléments de fixation ne sont pas considérés comme des pièces,
+
+— si, après désassemblage d’une pièce prioritaire, le désassemblage d’un composant supplémentaire nécessite en partie les mêmes étapes de désassemblage, le désassemblage de ce composant peut commencer par la première étape différente. Toutefois, DD pour cette partie est le nombre total d’étapes calculé à partir d’un produit entièrement assemblé,
+
+— lorsque plusieurs outils doivent être utilisés simultanément, l’utilisation de chaque outil compte comme une étape séparée; Le fait de saisir un outil, de reposer un outil et d’enlever un élément de fixation n’est pas considéré comme la fin d’une étape. La main n’est pas considérée comme un outil,
+
+— les opérations relatives au nettoyage, à l’élimination de traces ou au chauffage sont comptées comme des étapes,
+
+— DD est calculé sur la base de la description des étapes de désassemblage pour chaque partie prioritaire indiquée dans la documentation technique,
+
+— lorsque la notification à distance ou l’autorisation de numéros de série est nécessaire à la pleine fonctionnalité de la partie prioritaire, DDi est égal à zéro. 5.2. Le score “Fasteners (type)” ( S F ) est calculé comme suit: Évaluation du score “Fasteners (type)” (F) au niveau des composants Les scores “Fasteners (type)” ( F i ) pour chaque pièce prioritaire ( F WP , F B , F DB , F D , F M , F MB , F F , F MC ) sont attribués en fonction des possibilités de retrait et de réutilisation des éléments de fixation utilisés. Des points allant de 0 à 10 sont attribués au F i pour chaque pièce prioritaire de la manière suivante:
+
+— éléments de fixation réutilisables, F i = 10 pt,
+
+— éléments de fixation renouvelés sans frais, F i = 7 pt,
+
+— éléments de fixation renouvelés avec frais supplémentaires, F i = 4 pt.
+
+— éléments de fixation amovibles, F i = 0 pt. L’identification du type d’éléments de fixation repose sur la description de chaque type de fixation pour le processus de désassemblage nécessaire pour éliminer la partie prioritaire spécifique indiquée dans la documentation technique. Si différents types d’éléments de fixation sont rencontrés lors du désassemblage d’une pièce prioritaire, le score le plus faible est retenu. 5.3. Le score “Tools (type)” ( S T ) est calculé comme suit: Évaluation du score “Tools (type)” (T) au niveau des composants Les scores “Tools (type)” ( T i ) pour chaque pièce prioritaire i ( T WP , T B , T DB , T D , T M , T MB , T F , T MC ) sont attribués en fonction de la complexité et de la disponibilité des outils nécessaires pour le remplacement du composant. Des points allant de 0 à 10 sont attribués au T i pour chaque pièce prioritaire de la manière suivante:
+
+— remplacement possible à l’aide d’outils de base ou sans outil, T i = 10 pt,
+
+— remplacement possible à l’aide d’outils fournis avec la pièce détachée, T i = 5 pt,
+
+— remplacement possible à l’aide d’outils disponibles dans le commerce, T i = 0 pt. L’identification du type d’outils repose sur le processus de désassemblage nécessaire pour retirer la pièce prioritaire spécifique indiquée dans la documentation technique. Si différents types d’outils sont nécessaires pour le désassemblage d’une pièce prioritaire, le score le plus faible est retenu. 5.4. Évaluation des informations sur la réparation ( RI ) au niveau du produit Le score d’information sur la réparation ( S RI ) pour les informations sur la réparation et l’entretien visé au point 5, 1), b) de l’
+
+annexe II du règlement (UE) 2023/2533 est calculé au niveau du produit comme suit:
+
+— disponibilité gratuite d’informations sur la réparation pour les réparateurs professionnels, S RI = 10 pt,
+
+— disponibilité des informations pour la réparation, moyennant des frais raisonnables et proportionnés, pour les réparateurs professionnels, S RI = 0 pt. Des frais sont considérés comme raisonnables s’ils ne découragent pas l’accès aux informations sur la réparation en ne tenant pas compte de l’usage que fait le réparateur professionnel de ces informations.»; 2) l’
+
+annexe V est modifiée comme suit: a) le premier alinéa est remplacé par le texte suivant: «En application de l’
+
+article 3, paragraphe 1, point a) ii), jusqu’au 31 décembre 2026, le fournisseur consigne dans la base de données sur les produits les informations prévues au tableau 4. Toutefois, conformément à l’
+
+article 3, paragraphe 1 bis , les fournisseurs peuvent saisir les informations requises dans le tableau 4 bis de l’
+
+annexe V bis dans la base de données sur les produits à partir du 24 novembre 2025 au lieu des informations requises dans le tableau 4.»; b) le tableau 4 est remplacé par le tableau suivant: « Tableau 4 Contenu, ordre et format de la fiche d’information sur le produit Marque : Référence du modèle : Type de sèche-linge à tambour: [condenseur électrique à vapeur d’air, condenseur électrique à pompe à chaleur, condenseur électrique classique, alimenté au gaz] Paramètres généraux du produit: Paramètre Valeur Paramètre Valeur Capacité nominale (kg) x,x Dimensions en cm Hauteur x Largeur x Profondeur x Indice d’efficacité énergétique (IEE) x,x Classe d’efficacité énergétique [A/B/C/D/E/F/G] Taux de condensation (%) (le cas échéant) xx Classe de taux de condensation (le cas échéant) [A/B/C/D] Consommation d’énergie pondérée en kWh par cycle de séchage . La consommation réelle d’énergie dépend des conditions d’utilisation de l’appareil. x,xx Durée du programme (heures:minutes) Capacité nominale x:xx Type [intégrable/à pose libre] Moitié x:xx Émissions de bruit acoustique dans l’air [dB(A) re 1 pW] x Classe d’émissions de bruit acoustique dans l’air [A/B/C/D] Mode arrêt (le cas échéant) (W) x,xx Mode veille (le cas échéant) (W) x,xx Démarrage différé (W) (le cas échéant) x,xx Mode veille avec maintien de la connexion au réseau (W) (le cas échéant) x,xx Pour les sèche-linge domestiques à tambour équipés d’une pompe à chaleur, le nom chimique ou la désignation industrielle acceptée du gaz réfrigérant utilisé, sans préjudice du règlement (UE) n o 517/2014 relatif aux gaz à effet de serre fluorés Lien internet renvoyant à des informations sur la disponibilité des pièces de rechange pour les réparateurs professionnels et les utilisateurs finals Lien internet renvoyant aux instructions de réparation pour les utilisateurs finals Lien internet renvoyant à des prix indicatifs hors taxes Durée minimale de la garantie offerte par le fournisseur (en mois) Informations complémentaires Lien internet vers le site web du fournisseur où se trouvent les informations visées à l’
+
+annexe II, point 6, du règlement (UE) 2023/2533 de la Commission : Règlement (UE) n o 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n o 842/2006 ( , ELI: ). Règlement (UE) 2023/2533 de la Commission du 17 novembre 2023 portant exécution de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux sèche-linge domestiques à tambour, modifiant le règlement (UE) 2023/826 de la Commission et abrogeant le règlement (UE) n o 932/2012 de la Commission ( ). Cet élément n’est pas considéré comme pertinent aux fins de l’
+
+article 2, paragraphe 6, du règlement (UE) 2017/1369. Pour le programme eco. Les modifications de ces éléments ne sont pas considérées comme pertinentes aux fins de l’
+
+article 4, paragraphe 4, du règlement (UE) 2017/1369. Si la base de données sur les produits génère automatiquement le contenu définitif de cette cellule, le fournisseur ne consigne pas ces données. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), b), du règlement (UE) 2023/2533. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), d), du règlement (UE) 2023/2533. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), f), du règlement (UE) 2023/2533. Pour les sèche-linge à tambour fonctionnant au gaz, calculée comme la consommation d’énergie moyenne pondérée pour 100 cycles de séchage conformément à l’
+
+annexe IV, section 1, point f), divisée par 100.».
+
+ANNEXE IV «
+
+ANNEXE V bis FICHE D’INFORMATION SUR LE PRODUIT CONTENANT DES INFORMATIONS SUR LA RÉPARABILITÉ En application de l’
+
+article 3, paragraphe 1, point c), ii), jusqu’au 1 er janvier 2027, le fournisseur consigne dans la base de données sur les produits les informations prévues au tableau 4 bis . Toutefois, conformément à l’
+
+article 3, paragraphe 1 bis , les fournisseurs peuvent saisir les informations requises dans le tableau 4 bis dans la base de données sur les produits à partir du 24 novembre 2025 au lieu des informations requises à l’
+
+annexe V, tableau 4, du présent règlement. Le manuel d’utilisation ou toute autre documentation fournie avec le produit indique clairement le lien vers le modèle dans la base de données sur les produits sous forme d’adresse URL lisible par l’homme, de code QR ou en indiquant le numéro d’enregistrement du produit. Tableau 4 bis Contenu, ordre et format de la fiche d’information sur le produit Marque : Référence du modèle : Type de sèche-linge à tambour: [condenseur électrique à vapeur d’air, condenseur électrique à pompe à chaleur, condenseur électrique classique, alimenté au gaz] Paramètres généraux du produit: Paramètre Valeur Paramètre Valeur Capacité nominale (kg) x,x Dimensions en cm Hauteur x Largeur x Profondeur x Indice d’efficacité énergétique (IEE) x,x Classe d’efficacité énergétique [A/B/C/D/E/F/G] Taux de condensation (%) (le cas échéant) xx Classe de taux de condensation (le cas échéant) [A/B/C/D] Consommation d’énergie pondérée en kWh par cycle de séchage . La consommation réelle d’énergie dépend des conditions d’utilisation de l’appareil. x,xx Durée du programme (heures:minutes) Capacité nominale x:xx Type [intégrable/à pose libre] Moitié x:xx Émissions de bruit acoustique dans l’air [dB(A) re 1 pW] x Classe d’émissions de bruit acoustique dans l’air [A/B/C/D] Mode arrêt (le cas échéant) (W) x,xx Mode veille (le cas échéant) (W) x,xx Démarrage différé (W) (le cas échéant) x,xx Mode veille avec maintien de la connexion au réseau (W) (le cas échéant) x,xx Pour les sèche-linge domestiques à tambour équipés d’une pompe à chaleur, le nom chimique ou la désignation industrielle acceptée du gaz réfrigérant utilisé, sans préjudice du règlement (UE) n o 517/2014 relatif aux gaz à effet de serre fluorés Informations sur la réparabilité: Classe de réparabilité (sur la base de l’indice ci-après) [A/B/C/D/E] Indice de réparabilité x,xx Score “Disassembly Depth” ( S DD ) x,xx Score “Fasteners type” ( S F ) x,xx Score “Tools type” ( S T ) x,xx Score “Informations sur la réparation” ( S RI ) x,xx Lien internet renvoyant à des informations sur la disponibilité des pièces de rechange pour les réparateurs professionnels et les utilisateurs finals Lien internet renvoyant aux instructions de réparation pour les utilisateurs finals Lien internet renvoyant à des prix indicatifs hors taxes Durée minimale de la garantie offerte par le fournisseur (en mois) Informations complémentaires Lien internet vers le site web du fournisseur où se trouvent les informations visées à l’
+
+annexe II, point 6, du règlement (UE) 2023/2533 de la Commission : ». Règlement (UE) n o 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n o 842/2006 ( , ELI: ). Règlement (UE) 2023/2533 de la Commission du 17 novembre 2023 portant exécution de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux sèche-linge domestiques à tambour, modifiant le règlement (UE) 2023/826 de la Commission et abrogeant le règlement (UE) n o 932/2012 de la Commission ( ). Cet élément n’est pas considéré comme pertinent aux fins de l’
+
+article 2, paragraphe 6, du règlement (UE) 2017/1369. Pour le programme eco. Les modifications de ces éléments ne sont pas considérées comme pertinentes aux fins de l’
+
+article 4, paragraphe 4, du règlement (UE) 2017/1369. Si la base de données sur les produits génère automatiquement le contenu définitif de cette cellule, le fournisseur ne consigne pas ces données. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), b), du règlement (UE) 2023/2533. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), d), du règlement (UE) 2023/2533. Les fournisseurs ont l’obligation d’inclure le lien vers le site web où les informations pertinentes seront disponibles. L’accès effectif au site web doit néanmoins être accordé conformément au calendrier et aux dispositions prévus à l’
+
+annexe II, point 5, 1), f), du règlement (UE) 2023/2533. Pour les sèche-linge à tambour fonctionnant au gaz, calculée comme la consommation d’énergie moyenne pondérée pour 100 cycles de séchage conformément à l’
+
+annexe IV, section 1, point f), divisée par 100.
+
+ANNEXE V L’
+
+annexe VI du règlement délégué (UE) 2023/2534 est modifiée comme suit: 1) le point 1 est modifié comme suit: a) au premier alinéa, la phrase introductive est remplacée par le texte suivant: «Dans le cas des sèche-linge domestiques à tambour électriques, la documentation technique visée à l’
+
+article 3, paragraphe 1, point b), i), comprend les informations suivantes:»; b) le point g) est remplacé par le texte suivant: «g) les valeurs pour les paramètres techniques figurant dans le tableau 5 pour le programme eco qui sont considérées comme les valeurs déclarées aux fins de la procédure de contrôle prévue à l’
+
+annexe IX.»; 2) dans le tableau 5, l’intitulé est remplacé par le texte suivant: « Tableau 5 Paramètres techniques déclarés pour les sèche-linge domestiques à tambour électriques»; 3) au point 2, le premier alinéa est remplacé par le texte suivant: «Pour les sèche-linge à tambour fonctionnant au gaz, la documentation technique visée à l’
+
+article 3, paragraphe 1, point b), i), comprend les informations énumérées au paragraphe 1, points a) à f), de la présente
+
+annexe, ainsi que les informations figurant dans le tableau 6 pour le programme eco. Les valeurs du tableau 6 sont considérées comme les valeurs déclarées aux fins de la procédure de contrôle prévue à l’
+
+annexe IX.»; 4) le tableau 6 est modifié comme suit: a) le titre est remplacé par le titre suivant: « Tableau 6 Paramètres techniques déclarés pour les sèche-linge domestiques à tambour fonctionnant au gaz »; b) la quatrième ligne relative à la consommation de gaz du programme eco à demi-charge est remplacée par le texte suivant: «Consommation de gaz pour le programme eco à demi-charge ( E gdry,½ ) kWh/cycle de séchage X,XX» c) les dixième, onzième et douzième lignes sur la durée du programme pour le programme eco sont remplacées par le texte suivant: «Durée du programme pour le programme eco à pleine charge ( T dry ) h:min X:XX Durée du programme pour le programme eco à demi-charge ( Tdry½ ) h:min X:XX Durée pondérée du programme pour le programme eco ( T t ) h:min X:XX» 5) le point 3 est remplacé par le texte suivant: «3. Lorsque les informations figurant dans la documentation technique pour un sèche-linge domestique à tambour particulier ont été obtenues: a) à partir d’un modèle dont les caractéristiques techniques pertinentes pour les informations techniques à fournir sont les mêmes, mais qui est produit par un autre fournisseur; b) par un calcul fondé sur les caractéristiques de conception ou par extrapolation à partir d’un autre modèle du même fournisseur ou d’un autre fournisseur, la documentation technique fournit le détail de ces calculs, l’évaluation effectuée par le fournisseur afin de vérifier l’exactitude des calculs et, le cas échéant, la déclaration d’identité entre les modèles des différents fournisseurs.».
+
+ANNEXE VI «
+
+ANNEXE VI bis DOCUMENTATION TECHNIQUE CONTENANT DES INFORMATIONS SUR LA RÉPARABILITÉ 1. Dans le cas des sèche-linge domestiques à tambour électriques, la documentation technique visée à l’
+
+article 3, paragraphe 1, point c), iii), comprend les informations suivantes: a) une description générale du modèle permettant d’identifier celui-ci aisément et avec certitude; b) des références aux normes harmonisées appliquées ou aux autres normes de mesure utilisées; c) les précautions particulières qui doivent être prises lors du montage, de l’installation, de l’entretien et de l’essai du modèle; d) le détail et les résultats des calculs effectués conformément à l’
+
+annexe IV; e) les conditions d’essai, lorsqu’elles ne sont pas suffisamment décrites dans les références fournies conformément au point b) de la présente section; f) le cas échéant, les modèles équivalents, y compris leurs références; g) les valeurs pour les paramètres techniques figurant dans le tableau 6 bis pour le programme eco qui sont considérées comme les valeurs déclarées aux fins de la procédure de contrôle prévue à l’
+
+annexe IX; h) une description des étapes du désassemblage pour chaque pièce prioritaire de l’
+
+annexe IV, section 5, y compris le ou les outils et le ou les éléments de fixation nécessaires à chaque étape, le cas échéant; i) les informations sur la réparation et l’entretien prévues à l’
+
+annexe II, point 5, 3), e), du règlement (UE) 2023/2533. Les informations fournies conformément aux points a) à g) relèvent des parties spécifiques obligatoires de la documentation technique que le fournisseur enregistre dans la base de données, conformément à l’
+
+article 12, paragraphe 5, du règlement (UE) 2017/1369. Tableau 6 bis Paramètres techniques déclarés pour les sèche-linge domestiques à tambour électriques Paramètre Unité Valeur Capacité nominale pour le programme eco, par intervalles de 0,5 kg
+
+(c) kg X,X Consommation d’énergie pour le programme eco à pleine charge (E dry ) kWh/cycle de séchage X,XX Consommation d’énergie pour le programme eco à demi-charge (E dry,½ ) kWh/cycle de séchage X,XX Consommation d’énergie pondérée du programme eco ( E tC ) kWh/cycle de séchage X,XX Consommation d’énergie standard pour le programme eco ( SE C ) kWh/cycle de séchage X,XX Indice d’efficacité énergétique (IEE)
+
+— X,X Durée du programme pour le programme eco à pleine charge ( T dry ) h:min X:XX Durée du programme pour le programme eco à demi-charge ( Tdry½ ) h:min X:XX Durée pondérée du programme pour le programme eco ( T t ) h:min X:XX Taux de condensation moyen du programme eco à pleine charge ( C dry ) (le cas échéant) % XX Taux de condensation moyen du programme eco à demi-charge ( C dry½ ) (le cas échéant) % XX Taux de condensation pondéré du programme eco ( C t ) (le cas échéant) % XX Émissions de bruit acoustique dans l’air pendant le programme eco dB(A) par rapport à 1 pW X Consommation d’électricité en mode arrêt ( P o ) (le cas échéant) W X,XX Consommation d’électricité en mode veille ( P sm ) (le cas échéant) W X,XX Le mode veille comprend-il l’affichage d’informations?
+
+— Oui/Non Consommation d’électricité en mode veille en situation de veille avec maintien de la connexion au réseau (P nsm ) (le cas échéant) W X,XX Consommation d’électricité en démarrage différé ( P ds ) (le cas échéant) W X,XX Indice de réparabilité
+
+— X,XX 2. Pour les sèche-linge à tambour fonctionnant au gaz, la documentation technique visée à l’
+
+article 3, paragraphe 1, point c), iii), comprend les informations énumérées au paragraphe 1, points a) à f), point h) et point i), de la présente
+
+annexe, ainsi que les informations figurant dans le tableau 6 ter pour le programme eco. Les valeurs du tableau 6 ter sont considérées comme les valeurs déclarées aux fins de la procédure de contrôle prévue à l’
+
+annexe IX. Les informations fournies conformément au premier alinéa du présent point, sauf les points h) et i), relèvent des parties spécifiques obligatoires de la documentation technique que le fournisseur enregistre dans la base de données, conformément à l’
+
+article 12, paragraphe 5, du règlement (UE) 2017/1369. Tableau 6 ter Paramètres techniques déclarés pour les sèche-linge domestiques à tambour fonctionnant au gaz Paramètre Unité Valeur Capacité nominale pour le programme eco, par intervalles de 0,5 kg
+
+(c) kg X,X Consommation de gaz pour le programme eco à pleine charge ( E gdry ) kWh/cycle de séchage X,XX Consommation de gaz pour le programme eco à demi-charge ( E gdry,½ ) kWh/cycle de séchage X,XX Consommation auxiliaire d’électricité pour le programme eco à pleine charge kWh/cycle de séchage X,XX Consommation auxiliaire d’électricité pour le programme eco à demi-charge kWh/cycle de séchage X,XX Consommation d’énergie pondérée du programme eco ( E tC ) kWh/cycle de séchage X,XX Consommation d’énergie standard pour le programme eco ( SE C ) kWh/cycle de séchage X,XX Indice d’efficacité énergétique (IEE)
+
+— X,X Durée du programme pour le programme eco à pleine charge ( T dry ) h:min X:XX Durée du programme pour le programme eco à demi-charge ( Tdry½ ) h:min X:XX Durée pondérée du programme pour le programme eco ( T t ) h:min X:XX Émissions de bruit acoustique dans l’air pendant le programme eco dB(A) re 1 pW X Consommation d’électricité en mode arrêt ( P o ) (le cas échéant) W X,XX Consommation d’électricité en mode veille ( P sm ) (le cas échéant) W X,XX Le mode veille comprend-il l’affichage d’informations?
+
+— Oui/Non Consommation d’électricité en mode veille en situation de veille avec maintien de la connexion au réseau (P nsm ) (le cas échéant) W X,XX Consommation d’électricité en démarrage différé ( P ds ) (le cas échéant) W X,XX Indice de réparabilité
+
+— X,XX 3. Lorsque les informations figurant dans la documentation technique pour un sèche-linge domestique à tambour particulier ont été obtenues: a) à partir d’un modèle dont les caractéristiques techniques pertinentes pour les informations techniques à fournir sont les mêmes, mais qui est produit par un autre fournisseur, b) par un calcul fondé sur les caractéristiques de conception ou par extrapolation à partir d’un autre modèle du même fournisseur ou d’un autre fournisseur, la documentation technique fournit le détail de ces calculs, l’évaluation effectuée par le fournisseur afin de vérifier l’exactitude des calculs et, le cas échéant, la déclaration d’identité entre les modèles des différents fournisseurs. »
+
+ANNEXE VII Les
+
+annexes VII, VIII, IX et X du règlement délégué (UE) 2023/2534 sont modifiées comme suit: 1) à l’
+
+annexe VII, les points 1 et 2 sont remplacés par le texte suivant: «1. Dans les publicités visuelles, afin d’assurer la conformité aux exigences énoncées à l’
+
+article 3, paragraphe 1, point d), i), et à l’
+
+article 4, point c), la classe d’efficacité énergétique et l’échelle des classes d’efficacité énergétique telles qu’elles figurent sur l’étiquette sont indiquées comme visé au point 4 de la présente
+
+annexe. 2. Dans le matériel promotionnel technique, afin d’assurer la conformité aux exigences énoncées à l’
+
+article 3, paragraphe 1, point d), ii), et à l’
+
+article 4, point d), la classe d’efficacité énergétique et l’échelle des classes d’efficacité énergétique telles qu’elles figurent sur l’étiquette sont indiquées comme visé au point 4 de la présente
+
+annexe.»; 2) l’
+
+annexe VIII est modifiée comme suit: a) le point 1 est remplacé par le texte suivant: «1. L’étiquette appropriée mise à disposition par les fournisseurs conformément à l’
+
+article 3, paragraphe 1, points b, ii) ou c), iv), selon le cas, est présentée sur le mécanisme d’affichage à proximité du prix du produit, si le prix est affiché, et dans tous les autres cas à proximité du nom ou de l’image du produit. Sa taille est telle qu’elle soit clairement visible et lisible et doit respecter les proportions indiquées à l’
+
+annexe III ou III bis , selon le cas. L’étiquette peut être affichée sous forme imbriquée, auquel cas l’image utilisée pour accéder à l’étiquette est conforme aux spécifications énoncées au point 2 de la présente
+
+annexe. En cas d’affichage imbriqué, l’étiquette doit apparaître au premier clic ou passage de la souris sur l’image ou à la première expansion de l’image sur l’écran tactile.»; b) le point 3, b) est remplacé par le texte suivant: «b) l’image doit être reliée à l’étiquette prévue à l’
+
+annexe III ou l’
+
+annexe III bis , selon le cas;»; c) le point 4 est remplacé par le texte suivant: «4. La fiche électronique d’information sur le produit mise à disposition par le fournisseur conformément à l’
+
+article 3, paragraphe 1, points b), iii) ou c), v), selon le cas, doit être présentée sur le mécanisme d’affichage à proximité du prix du produit, si le prix est affiché, et dans tous les autres cas à proximité du nom ou de l’image du produit. Sa taille doit être telle que la fiche d’information sur le produit soit clairement visible et lisible. La fiche d’information sur le produit peut être affichée à l’aide d’un affichage imbriqué ou en se référant à la base de données sur les produits, auquel cas le lien utilisé pour accéder à la fiche d’information sur le produit doit indiquer clairement et lisiblement “fiche d’information sur le produit”. En cas d’affichage imbriqué, la fiche d’information sur le produit doit apparaître au premier clic de souris ou en premier lieu lors du défilement à l’aide de la molette de souris ou de l’écran tactile.»; 3) l’
+
+annexe IX est modifiée comme suit: a) le point 1 est remplacé par le texte suivant: «1. Les tolérances de contrôle fixées au tableau 8 sont liées uniquement au contrôle des valeurs déclarées par les autorités des États membres et ne doivent en aucun cas être utilisées par le fournisseur comme une tolérance qu’il aurait le droit d’utiliser pour établir les valeurs de la documentation technique ou pour interpréter ces valeurs afin de conclure à la conformité ou de faire état de meilleurs résultats par un quelconque moyen.»; b) le point 4), b), iii) est remplacé par le texte suivant: «iii) les valeurs déterminées, c’est-à-dire les valeurs des paramètres pertinents telles que mesurées lors des essais et les valeurs calculées à partir de ces mesures, sont conformes: a) aux critères de validité énoncés dans le tableau 7, b) aux tolérances de contrôle correspondantes énoncées dans le tableau 8.»; c) le point 6 est remplacé par le texte suivant: «6. Lorsque le résultat visé au point 4), b), iii) n’est pas obtenu, les autorités des États membres sélectionnent trois unités supplémentaires du même modèle pour les soumettre à des essais. Les trois unités additionnelles sélectionnées peuvent également être d’un ou de plusieurs modèles équivalents. Concernant l’indice de réparabilité, si le résultat visé au point 4, b), iii) n’est pas atteint, les autorités des États membres doivent sélectionner une unité supplémentaire du même modèle pour la soumettre à des essais.»; d) les points 8 et 9 sont remplacés par le texte suivant: «8. Le modèle est réputé satisfaire aux prescriptions applicables lorsque, pour les trois unités visées au point 6, la moyenne arithmétique des valeurs déterminées satisfait aux tolérances de vérification respectives indiquées dans le tableau 8, excepté pour le résultat de l’indice de réparabilité, pour lequel le modèle est réputé satisfaire aux prescriptions applicables lorsque, pour l’unité supplémentaire visée au point 6, la valeur déterminée satisfait à la tolérance respective mentionnée dans le tableau 8. 9. Si le résultat visé au point 8 n’est pas obtenu, le modèle et tous les modèles équivalents sont considérés non conformes au présent règlement, excepté pour le résultat de l’indice de réparabilité, pour lequel le modèle est considéré non conforme au présent règlement.»; e) le point 12 est remplacé par le texte suivant: «12. Les autorités des États membres doivent appliquer uniquement les critères de validité énoncés dans le tableau 7 et les tolérances de contrôle énoncées dans le tableau 8, ainsi que la procédure énoncée aux points 1) à 9) pour les exigences visées dans la présente
+
+annexe. Pour les paramètres énoncés dans les tableaux 7 et 8, aucun autre critère de validité ou tolérance de contrôle, tels que ceux définis dans des normes harmonisées, ou toute autre méthode de mesure, n’est appliqué.»; f) le tableau 7 est remplacé par le tableau suivant: « Tableau 7 Critères de validité Paramètre Critères de validité Taux d’humidité final moyen du programme eco μ t La valeur déterminée est mesurée et calculée et inférieure à 1,5 %.» g) Le tableau 8 suivant est ajouté: « Tableau 8 Tolérances de contrôle Paramètre Tolérances de contrôle E dry et E dry½ La valeur déterminée ne doit pas dépasser la valeur déclarée de E dry et E dry½ de plus de 6 %. Eg dry et Eg dry½ | La valeur déterminée ne doit pas dépasser la valeur déclarée de Eg dry et Eg dry½ de plus de 6 %. Eg dry,a et Eg dry½,a La valeur déterminée ( * ) ne doit pas dépasser la valeur déclarée de Eg dry,a et Eg dry½,a de plus de 6 %. C t La valeur déterminée ne doit pas être inférieure à la valeur déclarée de C t de plus de 6 %. T dry et T dry½ La valeur déterminée ne doit pas dépasser la valeur déclarée T dry et T dry½ de plus de 6 %. P o La valeur déterminée ne doit pas dépasser la valeur déclarée de plus de 0,10 W. P sm La valeur déterminée ne doit pas dépasser la valeur déclarée de plus de 10 % si la valeur déclarée est supérieure à 1,00 W, ou de plus de 0,10 W si la valeur déclarée est inférieure ou égale à 1,00 W. P ds La valeur déterminée ne doit pas dépasser la valeur déclarée de plus de 10 % lorsque la valeur déclarée est supérieure à 1,00 W, ou de plus de 0,10 W si la valeur déclarée est inférieure ou égale à 1,00 W. Émissions de bruit acoustique dans l’air La valeur déterminée ne doit pas dépasser la valeur déclarée de plus de 2 dB par rapport à 1 pW. Indice de réparabilité La valeur déterminée ne doit pas être inférieure à la valeur déclarée de plus de 4 %. 4) l’
+
+annexe X est modifiée comme suit: a) au premier alinéa, le texte introductif est remplacé par le texte suivant: «Selon les méthodes de mesure et de calcul énoncées à l’
+
+annexe IV, chaque tambour d’un sèche-linge domestique à tambours multiples est muni d’une étiquette conforme aux exigences énoncées aux
+
+annexes II et III ou III bis , selon le cas. Ces exigences s’appliquent à chaque tambour pris indépendamment, à l’exception des tambours intégrés dans la même enveloppe qui ne peuvent, dans le programme eco, fonctionner que simultanément. Dans ce dernier cas, ces dispositions s’appliquent au sèche-linge domestique à tambours multiples dans son ensemble, de la manière suivante:»; b) le deuxième alinéa est remplacé par le texte suivant: «La fiche d’information sur le produit et la documentation technique incluent et présentent conjointement les informations exigées à l’
+
+annexe V ou à l’
+
+annexe V bis , selon le cas, pour l’ensemble des tambours auxquels les dispositions de la présente
+
+annexe s’appliquent. La documentation technique inclut et présente conjointement les informations exigées à l’
+
+annexe VI ou à l’
+
+annexe VI bis , pour l’ensemble des tambours auxquels les dispositions de la présente
+
+annexe s’appliquent.». Lorsque trois unités additionnelles sont testées conformément au point 6, la valeur déterminée correspond à la moyenne arithmétique des valeurs déterminées pour ces trois unités additionnelles.»; ELI: http://data.europa.eu/eli/reg_del/2025/1353/oj ISSN 1977-0693 (electronic edition)

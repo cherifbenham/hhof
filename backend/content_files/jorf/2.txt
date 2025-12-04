@@ -1,0 +1,144 @@
+Publics concernés : administrations publiques.
+
+Objet : dispenses d'homologation de sécurité des infrastructures et services logiciels informatiques qui composent le système d'information et de communication de l'Etat.
+
+Entrée en vigueur : le texte entre en vigueur le lendemain de sa publication.
+
+Application : le présent arrêté est pris en application de l'
+
+article 4-3 du décret n° 2019-1088 du 25 octobre 2019
+
+modifié relatif au système d'information et de communication de l'Etat et à la direction interministérielle du numérique.
+
+Le Premier ministre,
+
+Vu l'
+
+ordonnance n° 2005-1516 du 8 décembre 2005
+
+relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ;
+
+Vu le
+
+décret n° 2009-834 du 7 juillet 2009
+
+modifié portant création d'un service à compétence nationale dénommé « Agence nationale de la sécurité des systèmes d'information » ;
+
+Vu le
+
+décret n° 2010-112 du 2 février 2010
+
+modifié pris pour l'application des
+
+articles 9
+
+,
+
+10
+
+et
+
+12 de l'ordonnance n° 2005-1516 du 8 décembre 2005
+
+relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ;
+
+Vu le
+
+décret n° 2019-1088 du 25 octobre 2019
+
+modifié relatif au système d'information et de communication de l'Etat et à la direction interministérielle du numérique ;
+
+Vu l'
+
+arrêté du 26 octobre 2022
+
+portant approbation de l'instruction générale interministérielle n° 1337/SGDSN/ANSSI sur l'organisation de la sécurité numérique du système d'information et de communication de l'Etat et de ses établissements publics,
+
+Arrête :
+
+Article 1
+
+Les infrastructures et services logiciels informatiques qui composent le système d'information et de communication de l'Etat mentionné à l'article 1
+
+er
+
+du
+
+décret du 25 octobre 2019
+
+susvisé peuvent être dispensés d'une homologation de sécurité ou de son renouvellement dès lors qu'ils répondent aux conditions suivantes :
+
+1° Les mises à jour mineures, évolutions mineures, les ajouts de services ou changements de ressources matérielles des infrastructures et services logiciels informatiques déjà homologués, dès lors qu'ils n'ont pas pour effet d'augmenter du niveau de risque ;
+
+2° Les modifications s'imposant du fait de contraintes sécuritaires ou d'urgence, dès lors qu'elles ne remettent pas en cause la validité de l'homologation déjà prononcée. Dans le cas contraire, une nouvelle homologation doit être prononcée par l'autorité qualifiée en sécurité des systèmes d'information dans un délai maximum de six mois après la mise en production de la modification ;
+
+3° Les infrastructures et services logiciels informatiques dont la création s'impose du fait de contraintes sécuritaires ou d'urgence impliquant des délais incompatibles avec la démarche d'homologation applicable. Une homologation doit être prononcée par l'autorité qualifiée en sécurité des systèmes d'information dans un délai maximum de six mois après la mise en production de l'infrastructure ou du service logiciel informatique ;
+
+4° Les infrastructures et services logiciels informatiques mis en œuvre à titre expérimental, ouverts à un nombre limité d'utilisateurs, dont les impacts d'une attaque informatique sont négligeables et surmontables sans difficulté par les destinataires du service, l'entité et les autres acteurs de l'écosystème de l'infrastructure ou du service logiciel informatique. Une homologation doit être prononcée par l'autorité qualifiée en sécurité des systèmes d'information dès lors que l'infrastructure ou le service logiciel informatique sort de sa phase expérimentale pour être mis en production ;
+
+5° Les infrastructures et services logiciels informatiques cumulant les deux critères suivants :
+
+- les impacts d'une attaque informatique sont négligeables pour les destinataires du service, l'entité et les autres acteurs de l'écosystème de l'infrastructure ou du service logiciel informatique ;
+
+- le niveau de disponibilité requis pour le service permet un arrêt immédiat, sans décision formelle de l'autorité qualifiée en sécurité des systèmes d'information ;
+
+6° Les infrastructures et services logiciels informatiques utilisés à la demande et disposant d'une qualification de sécurité, délivrée par l'Agence nationale de la sécurité des systèmes d'information ou d'un équivalent européen, couvrant les besoins métier et les enjeux de sécurité du système d'information de l'Etat qui en fait usage ;
+
+7° Les services logiciels informatiques de croisement de données cumulant les critères suivants :
+
+- les données utilisées pour réaliser le croisement ne sont pas identifiées comme sensibles ;
+
+- les données résultantes du croisement ne sont pas identifiées comme sensibles ;
+
+- le croisement de données est réalisé sans interconnexion directe ou indirecte avec des produits en production ;
+
+- le croisement de données est réalisé aux seuls bénéfices d'un nombre limité d'agents placés sous la seule responsabilité de l'autorité qualifiée en sécurité des systèmes d'information ;
+
+8° Les instanciations, au sein d'une même entité, d'infrastructures et de services logiciels informatiques déjà homologués, sous réserve que les besoins en sécurité soient équivalents et qu'elles mettent en œuvre des mesures de sécurité identiques à celles du système d'information instancié ;
+
+9° Les infrastructures et services logiciels informatiques déjà homologués et dont un changement de l'autorité qualifiée en sécurité des systèmes d'information, ou de l'autorité d'homologation qu'elle a désignée, survient au cours de la période de validité de l'homologation.
+
+Versions
+
+Versions
+
+Liens relatifs
+
+Liens relatifs
+
+Article 2
+
+L'autorité qualifiée en sécurité des systèmes d'information formalise et maintient à jour un registre regroupant l'ensemble des infrastructures et services logiciels informatiques bénéficiant d'une dispense d'homologation au titre de l'article 1
+
+er
+
+du présent arrêté. Ce registre est communiqué annuellement et en tant que de besoin, au haut fonctionnaire de défense et de sécurité et au fonctionnaire de sécurité des systèmes d'information.
+
+Versions
+
+Versions
+
+Article 3
+
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+Versions
+
+Versions
+
+Fait le 31 juillet 2025.
+
+Pour le Premier ministre et par délégation :
+
+La directrice interministérielle du numérique,
+
+S. Schaer
+
+Le directeur général de l'Agence nationale de la sécurité des systèmes d'information,
+
+V. Strubel
+
+Extrait du Journal officiel électronique authentifié
+
+PDF -
+              198,9 Ko

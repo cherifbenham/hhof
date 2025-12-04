@@ -1,0 +1,119 @@
+LA COMMISSION EUROPÉENNE, vu le traité sur le fonctionnement de l’Union européenne, vu la directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques , et notamment son
+
+article 5, paragraphe 1, point a),
+
+considérant ce qui suit:
+
+(1) Aux termes de l’
+
+article 4, paragraphe 1, de la directive 2011/65/UE, les États membres veillent à ce que les équipements électriques et électroniques mis sur le marché ne contiennent pas les substances dangereuses énumérées à l’
+
+annexe II de ladite directive. Cette limitation ne s’applique pas aux applications faisant l’objet d’une exemption qui sont énumérées à l’
+
+annexe III de ladite directive.
+
+(2) Les catégories d’équipements électriques et électroniques auxquelles s’applique la directive 2011/65/UE sont énumérées à l’
+
+annexe I de ladite directive.
+
+(3) Le plomb fait partie de la liste des substances soumises à restrictions figurant à l’
+
+annexe II de la directive 2011/65/UE. La concentration maximale tolérée est de 0,1 % en poids de plomb dans les matériaux homogènes.
+
+(4) La directive déléguée (UE) 2018/742 de la Commission a accordé une dérogation pour l’utilisation de plomb dans les soudures à haute température de fusion, conformément à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE. Le champ d’application de cette exemption n’a pas été modifié depuis son introduction. Pour la plupart des catégories d’équipements électriques et électroniques, l’exemption devait expirer le 21 juillet 2021.
+
+(5) En janvier et octobre 2020, trois demandes de renouvellement ont été reçues concernant l’exemption visée au considérant 4 dans le délai pour le renouvellement prévu à l’
+
+article 5, paragraphe 5, de la directive 2011/65/UE. Conformément à l’
+
+article 5, paragraphe 5, second alinéa, de la directive 2011/65/UE, les exemptions existantes restent valables jusqu’à ce qu’une décision sur la demande de renouvellement ait été prise par la Commission. Afin d’évaluer les demandes reçues, une étude d’évaluation technique et scientifique a été réalisée et finalisée en 2022 . Les évaluations ont comporté des consultations des parties intéressées, conformément à l’
+
+article 5, paragraphe 7, de la directive 2011/65/UE.
+
+(6) L’exemption concernant les équipements électriques et électroniques de la catégorie 8 «dispositifs médicaux de diagnostic in vitro» visée à l’
+
+annexe I de la directive 2011/65/UE devait expirer le 21 juillet 2023 et celles concernant la catégorie 9 «Instruments de contrôle et de surveillance» et la catégorie 11 «Autres équipements électriques et électroniques n’entrant pas dans les catégories ci-dessus» visées à l’
+
+annexe I de la directive 2011/65/UE devaient expirer le 1 er juillet 2024. Le 20 janvier 2023, deux demandes de renouvellement ont été présentées concernant les catégories 9 et 11 dans le délai de renouvellement fixé à l’
+
+article 5, paragraphe 5, de la directive 2011/65/UE. Conformément à l’
+
+article 5, paragraphe 5, second alinéa, de la directive 2011/65/UE, les exemptions existantes restent valables jusqu’à ce qu’une décision sur la demande de renouvellement ait été prise par la Commission. Afin d’évaluer les demandes reçues, une étude d’évaluation technique et scientifique a été réalisée et finalisée en 2024 . Les évaluations ont comporté des consultations des parties intéressées, conformément à l’
+
+article 5, paragraphe 7, de la directive 2011/65/UE.
+
+(7) L’évaluation de la demande de renouvellement de l’exemption a conclu que les soudures à haute température de fusion contenant du plomb sont utilisées dans diverses applications d’équipements électriques et électroniques. Ces types de soudures contiennent plus de 85 % de plomb en poids et possèdent des propriétés essentielles telles qu’un point de fusion élevé, une conductivité thermique et électrique, une ductilité, une résistance à la corrosion, une nature oxydative appropriée et une mouillabilité.
+
+(8) Bien que des substituts et des solutions de remplacement soient partiellement disponibles pour des applications considérées à titre individuel, des solutions sans plomb ne seront pas disponibles, ou ne le seront qu’avec une fiabilité insuffisante, pour l’ensemble des applications au cours des trois prochaines années.
+
+(9) L’exemption prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE est toutefois largement utilisée et parfois sans nécessité technique. Pour minimiser l’utilisation inappropriée de cette exemption et pour permettre une évaluation adaptée aux applications concernées, il convient de diviser cette exemption en sous-exemptions. Une évaluation technique et scientifique comprenant plusieurs séries de consultations des parties prenantes a été réalisée avec l’objectif de mettre au point des sous-catégories adaptées.
+
+(10) L’évaluation technique et scientifique visée au considérant 9 a permis de recenser sept domaines d’application correspondant au camp d’application de l’exemption actuellement prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE, à savoir les connexions internes dans les équipements électriques et électroniques («EEE»), les connexions intégrales de fixation de puces dans des composants d’EEE, les connexions intégrales pour les composants autres que les puces à monter sur sous-ensembles (soudures de premier niveau), les soudures de deuxième niveau pour la fixation de composants sur des circuits imprimés ou des cadres de connexion, les matériaux de scellement hermétique, les soudures à haute température de fusion contenant du plomb dans certaines lampes et les transducteurs audio. Ces domaines d’application sont précisés davantage et assortis de conditions techniques.
+
+(11) Étant donné que suffisamment de temps a été laissé pour contribuer à la mise au point des sous-exemptions et pour s’y adapter, et puisque tous les domaines d’application correspondants couverts par l’exemption actuelle prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE devraient continuer d’être couverts par l’exemption renouvelée, la segmentation en sous-exemptions n’est pas considérée comme une charge administrative disproportionnée pour l’industrie. Afin d’éviter toute distorsion significative du marché dans le secteur concerné, il convient de prévoir une période pour recenser les domaines d’applications manquants. Ainsi, l’exemption prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE devrait être renouvelée pour une période de validité de courte durée conformément à l’
+
+article 5, paragraphe 2, premier alinéa, de la même directive.
+
+(12) En ce qui concerne les sous-exemptions, une période de validité suffisante devrait être accordée compte tenu des conclusions de l’évaluation technique visée au considérant 9 afin de permettre aux parties prenantes de compléter les informations relatives aux domaines d’application. Les dates d’expiration devraient tenir compte de la période minimale de dix-huit mois précédant la date d’expiration au cours de laquelle une demande de renouvellement doit être présentée conformément à l’
+
+article 5, paragraphe 5, premier alinéa, de la directive 2011/65/UE.
+
+(13) En raison du renouvellement à court terme de l’exemption prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE, il convient de fixer une date d’expiration pour toutes les catégories d’EEE énumérées à l’
+
+annexe I de ladite directive.
+
+(14) Le renouvellement de l’exemption prévue à l’
+
+annexe III, point 7 a), de la directive 2011/65/UE et l’introduction de ses sous-exemptions ne diminue pas la protection de l’environnement et de la santé conférée par le règlement (CE) n o 1907/2006 du Parlement européen et du Conseil .
+
+(15) Il convient dès lors de modifier la directive 2011/65/UE en conséquence, A ADOPTÉ LA PRÉSENTE DIRECTIVE: Article premier L’
+
+annexe III de la directive 2011/65/UE est modifiée conformément à l’
+
+annexe de la présente directive.
+
+Article 2 1. Les États membres adoptent et publient, au plus tard le 30 juin 2026, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces dispositions. Ils appliquent ces dispositions à partir du 1 juillet 2026. Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres. 2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine couvert par la présente directive.
+
+Article 3 La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne .
+
+Article 4 Les États membres sont destinataires de la présente directive. Fait à Bruxelles, le 8 septembre 2025. Par la Commission La présidente Ursula VON DER LEYEN , ELI: . Directive déléguée (UE) 2018/742 de la Commission du 1 er mars 2018 modifiant, aux fins de son adaptation au progrès scientifique et technique, l’
+
+annexe III de la directive 2011/65/UE du Parlement européen et du Conseil en ce qui concerne une exemption relative au plomb dans les soudures à haute température de fusion ( , ELI: ). Le rapport final (dossier 22) de l’étude est disponible à l’adresse suivante: . Le rapport final (dossier 27) de l’étude est disponible à l’adresse suivante: . Règlement (CE) n o 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une Agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n o 793/93 du Conseil et le règlement (CE) n o 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission ( , ELI: ).
+
+ANNEXE À l’
+
+annexe III de la directive 2011/65/UE, le point 7 a) est remplacé par le texte suivant: «7 a) Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 30 juin 2027. 7 a)-I Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) pour les interconnexions internes destinées à la fixation de puces ou d’autres composants avec une puce dans un assemblage de semi-conducteurs, avec des courants en régime permanent ou transitoires/impulsionnels de 0,1 A ou plus, ou des tensions de blocage supérieures à 10 V, ou des dimensions de bord de puce supérieures à 0,3 mm × 0,3 mm S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-II Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) pour les connexions intégrales (c.-à-d. internes et externes) de fixation de puces dans des composants électriques et électroniques, si toutes les conditions suivantes sont remplies:
+
+— la conductivité thermique du matériau de fixation de puce durci/fritté est > 35 W/(m × K),
+
+— la conductivité électrique du matériau de fixation de puce durci/fritté est > 4,7 MS/m,
+
+— la température de solidus est supérieure à 260 °C. S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-III Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) dans les soudures de premier niveau (connexions internes ou intégrales c.-à-d. internes et externes) pour la fabrication de composants, de manière que le montage ultérieur de composants électroniques sur des sous-ensembles (p.ex. modules, sous-circuits imprimés, substrats ou soudures point à point) au moyen d’une soudure secondaire ne provoque pas la refusion de la soudure de premier niveau. Cette sous-exemption exclut les applications de fixation de puces et les scellements hermétiques. S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-IV Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) dans les joints de soudure de deuxième niveau pour la fixation de composants sur des cartes de circuit imprimé ou des cadres de connexion: 1) dans des billes de soudure pour la fixation des matrices de billes BGA(Ball Grid Array) en céramique; 2) dans les surmoulages plastiques haute température (> 220 °C). S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-V Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) en tant que matériau de scellement hermétique entre: 1) un boîtier ou un connecteur en céramique et un boîtier métallique; 2) des terminaisons de composants et une sous-partie interne. S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-VI Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) pour établir des connexions électriques entre des composants de lampe dans les lampes à réflecteur à incandescence pour chauffage infrarouge, les lampes à décharge à haute intensité ou les lampes de four S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027. 7 a)-VII Le plomb dans les soudures à haute température de fusion (c.-à-d. les alliages de plomb contenant au moins 85 % de plomb en poids) pour des transducteurs audio dont la température de fonctionnement maximale dépasse 200 °C S’applique à toutes les catégories (à l’exception des applications couvertes par le point 24 de la présente
+
+annexe) et expire le 31 décembre 2027.» ELI: http://data.europa.eu/eli/dir_del/2025/1802/oj ISSN 1977-0693 (electronic edition)

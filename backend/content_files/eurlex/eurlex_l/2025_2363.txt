@@ -1,0 +1,101 @@
+LA COMMISSION EUROPÉENNE, vu le traité sur le fonctionnement de l’Union européenne, vu la directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques , et notamment son
+
+article 5, paragraphe 1, point a),
+
+considérant ce qui suit:
+
+(1) Aux termes de l’
+
+article 4, paragraphe 1, de la directive 2011/65/UE, les États membres veillent à ce que les équipements électriques et électroniques mis sur le marché ne contiennent pas les substances dangereuses énumérées à l’
+
+annexe II de ladite directive. Cette limitation ne s’applique pas aux applications faisant l’objet d’une exemption qui sont énumérées à l’
+
+annexe III de ladite directive.
+
+(2) Les catégories d’équipements électriques et électroniques auxquelles s’applique la directive 2011/65/UE sont énumérées à l’
+
+annexe I de ladite directive.
+
+(3) Le plomb fait partie de la liste des substances soumises à restrictions figurant à l’
+
+annexe II de la directive 2011/65/UE. La concentration maximale tolérée est de 0,1 % en poids de plomb dans les matériaux homogènes.
+
+(4) La directive déléguée (UE) 2018/736 de la Commission a accordé une exemption pour les composants électriques et électroniques contenant du plomb dans du verre ou des matériaux céramiques ou dans une matrice en verre ou en céramique, conformément à l’
+
+annexe III, point 7 c)-I, de la directive 2011/65/UE. Cette exemption devait expirer le 21 juillet 2021, le 21 juillet 2023 ou le 21 juillet 2024 selon la catégorie d’équipements électriques et électroniques concernée.
+
+(5) La directive déléguée (UE) 2019/169 de la Commission a accordé une exemption relative au plomb présent dans la céramique diélectrique dans les condensateurs pour une tension nominale de 125 V CA ou 250 V CC ou plus, conformément à l’
+
+annexe III, point 7 c)-I, de la directive 2011/65/UE. Cette exemption devait expirer le 21 juillet 2021, le 21 juillet 2023 ou le 21 juillet 2024 selon la catégorie d’équipements électriques et électroniques concernée.
+
+(6) La Commission a reçu au total huit demandes de renouvellement concernant l’exemption visée au considérant 4 portant sur toutes les catégories d’équipements électriques et électroniques. Concernant l’exemption visée au considérant 5, la Commission a reçu une demande de renouvellement. Toutes ces demandes ont été reçues dans le délai prévu pour de renouvellement à l’
+
+article 5, paragraphe 5, de la directive 2011/65/UE. Conformément à l’
+
+article 5, paragraphe 5, second alinéa, de la directive 2011/65/UE, les exemptions existantes restent valables jusqu’à ce qu’une décision sur la demande de renouvellement ait été prise par la Commission.
+
+(7) Afin d’évaluer les demandes reçues, une étude d’évaluation technique et scientifique a été réalisée et finalisée en 2022 . Une autre étude portant sur les catégories d’équipements électriques et électroniques pour lesquelles un renouvellement a été demandé à un stade ultérieur a été réalisée et finalisée en 2024 . Les évaluations ont comporté des consultations des parties intéressées, conformément à l’
+
+article 5, paragraphe 7, de la directive 2011/65/UE.
+
+(8) L’évaluation de la demande de renouvellement d’exemption a conclu que le plomb confère aux matériaux céramiques des propriétés diélectriques, piézoélectriques, pyroélectriques, ferroélectriques, semi-conductrices ou magnétiques particulières pour des utilisations très diverses en termes de températures, de tensions ou de fréquences. Le plomb confère également au verre des propriétés essentielles telles que l’abaissement des points de fusion et de ramollissement, ce qui améliore entre autres l’aptitude au façonnage, l’usinabilité, la stabilité chimique.
+
+(9) L’utilisation de produits de substitution dans le verre ou la céramique contenant du plomb est soit techniquement impraticable pour toutes les applications, soit insuffisamment fiable pour certaines applications spécifiques. De ce fait, la demande de renouvellement satisfait aux critères énoncés à l’
+
+article 5, paragraphe 1, point a), premier et second alinéas, de la directive 2011/65/UE, à savoir que l’élimination ou le remplacement sur la base de modifications de la conception, ou par des matériaux et composants ne nécessitant aucun des matériaux ou substances énumérés à l’
+
+annexe II, est scientifiquement ou techniquement impraticable, et que la fiabilité des produits de substitution n’est pas garantie.
+
+(10) Afin de permettre une évaluation technique plus poussée à l’avenir, l’exemption actuelle prévue à l’
+
+annexe III, point 7 c)-I, de la directive 2011/65/UE devrait être divisée en deux points, à savoir le point 7 c)-V pour les applications basées sur le plomb dans le verre et le point 7 c)-VI pour les applications basées sur le plomb dans la céramique. Il convient de préciser les applications techniques concernées par ces deux exemptions.
+
+(11) L’évaluation visée au considérant 7 a conclu que même s’il était possible d’un point de vue scientifique de remplacer le plomb dans les céramiques diélectriques pour condensateurs à haute tension dans certaines applications couvertes par l’exemption prévue à l’
+
+annexe III, point 7 c)-II, de la directive 2011/65/UE, ce n’était pas une solution techniquement réalisable. De plus, de tels condensateurs exempts de plomb ne présentent pas une fiabilité suffisante en pratique. De ce fait, la demande de renouvellement remplit les critères énoncés à l’
+
+article 5, paragraphe 1, point a), premier et second alinéas, de la directive 2011/65/UE.
+
+(12) Les demandes de renouvellement d’exemption devraient se voir assorties de périodes de validité qui tiennent compte des conclusions techniques de l’évaluation visées au considérant 7. L’exemption prévue à l’
+
+annexe III, point 7 c)-I, de la directive 2011/65/UE devrait être renouvelée pour une période de validité de courte durée conformément à l’
+
+article 5, paragraphe 2, premier alinéa, de la même directive. Les dates d’expiration de l’exemption prévue à l’
+
+annexe III, point 7 c)-II, et des exemptions prévues à l’
+
+annexe III, points 7 c)-V et 7 c)-VI, de la directive 2011/65/UE devraient tenir compte de la période minimale de dix-huit mois avant la date d’expiration, durant laquelle les demandes de renouvellement doivent être soumises conformément à l’
+
+article 5, paragraphe 5, premier alinéa, de la directive 2011/65/UE.
+
+(13) En raison du renouvellement à court terme de l’exemption prévue à l’
+
+annexe III, point 7 c)-I, de la directive 2011/65/UE, il convient de fixer une date d’expiration pour toutes les catégories d’équipements électriques et électroniques énumérées à l’
+
+annexe I de ladite directive.
+
+(14) Le renouvellement des exemptions ne devrait pas diminuer la protection de l’environnement et de la santé conférée par le règlement (CE) n o 1907/2006 du Parlement européen et du Conseil .
+
+(15) Il convient dès lors de modifier la directive 2011/65/UE en conséquence, A ADOPTÉ LA PRÉSENTE DIRECTIVE: Article premier L’
+
+annexe III de la directive 2011/65/UE est modifiée conformément à l’
+
+annexe de la présente directive.
+
+Article 2 1. Les États membres adoptent et publient, au plus tard le 30 juin 2026, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces dispositions. Ils appliquent ces dispositions à partir du 1 juillet 2026. Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres. 2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine couvert par la présente directive.
+
+Article 3 La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne .
+
+Article 4 Les États membres sont destinataires de la présente directive. Fait à Bruxelles, le 8 septembre 2025. Par la Commission La présidente Ursula VON DER LEYEN , ELI: . Directive déléguée (UE) 2018/736 de la Commission du 27 février 2018 modifiant, aux fins de son adaptation au progrès scientifique et technique, l’
+
+annexe III de la directive 2011/65/UE du Parlement européen et du Conseil en ce qui concerne une exemption relative à certains composants électriques et électroniques contenant du plomb dans du verre ou des matériaux céramiques ( , ELI: ). Directive déléguée (UE) 2019/169 de la Commission du 16 novembre 2018 modifiant, aux fins de son adaptation au progrès scientifique et technique, l’
+
+annexe III de la directive 2011/65/UE du Parlement européen et du Conseil en ce qui concerne une exemption relative au plomb dans la céramique diélectrique dans certains condensateurs ( , ELI: ). Le rapport final (dossier 22) de l’étude est disponible à l’adresse suivante: . Le rapport final (dossier 27) de l’étude est disponible à l’adresse suivante: . Règlement (CE) n o 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une Agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n o 793/93 du Conseil et le règlement (CE) n o 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission ( , ELI: ).
+
+ANNEXE L’
+
+annexe III de la directive 2011/65/UE est modifiée comme suit: 1) les points 7 c)-I et 7 c)-II sont remplacés par le texte suivant: «7 c)-I Les composants électriques et électroniques contenant du plomb dans du verre ou des matériaux céramiques autres que les céramiques diélectriques utilisées dans les condensateurs (par exemple, les dispositifs piézoélectriques) ou dans un composé matriciel à base de verre ou de céramique S’applique à toutes les catégories et expire le 30 juin 2027. 7 c)-II Le plomb dans les céramiques diélectriques dans les condensateurs pour une tension nominale de 125 V CA ou 250 V CC ou plus S’applique à toutes les catégories (à l’exception des applications couvertes par le point 7 c)-I ou le point 7 c)-IV et expire le 31 décembre 2027.» 2) les points 7 c)-V et 7 c)-VI suivants sont ajoutés: «7 c)-V Les composants électriques et électroniques contenant du plomb dans un verre ou un composé matriciel à base de verre qui remplit l’une des fonctions suivantes: 1) la protection et l’isolation électrique dans les billes de verre de diodes à haute tension et les couches de verre pour plaquettes (wafers); 2) pour le scellement hermétique entre les parties en céramique, en métal et/ou en verre; 3) à des fins de liaison dans une fenêtre de paramètres de procédé avec une température inférieure à 500 °C combinée à une viscosité de 1 013,3 dPas (température de transition vitreuse); 4) l’utilisation en tant que matériau résistif tel que l’encre, avec une résistivité comprise entre 1 ohm/carré et 100 mégohms/carré, à l’exclusion des potentiomètres ajustables; 5) l’utilisation dans des surfaces de verre modifiées chimiquement pour galettes de microcanaux (GMC), multiplicateurs d’électrons à canal (CEM) et produits en verre résistifs. S’applique à toutes les catégories et expire le 31 décembre 2027. 7 c)-VI Les composants électriques et électroniques contenant du plomb dans un matériau céramique qui remplit l’une des fonctions suivantes: 1) l’utilisation dans des céramiques piézoélectriques de type titano-zirconates de plomb (PZT); 2) la production de céramiques ayant un coefficient de température positif. S’applique à toutes les catégories (à l’exception des applications couvertes par le point 7 c)-II, 7 c)-III et 7 c)-IV de la présente
+
+annexe ainsi que par le point 14 de l’
+
+annexe IV, et expire le 31 décembre 2027.» ELI: http://data.europa.eu/eli/dir_del/2025/2363/oj ISSN 1977-0693 (electronic edition)

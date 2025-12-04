@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HHOF Overview (5 pages)</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --card: #111a2e;
+      --text: #e7ecf7;
+      --muted: #a6b2cc;
+      --border: #1f2b46;
+      --accent: linear-gradient(120deg, #38bdf8, #a855f7, #22c55e);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 20% 20%, rgba(56,189,248,0.1), transparent 35%),
+                  radial-gradient(circle at 80% 10%, rgba(168,85,247,0.12), transparent 30%),
+                  radial-gradient(circle at 50% 80%, rgba(34,197,94,0.12), transparent 35%),
+                  var(--bg);
+      color: var(--text);
+      overflow-x: hidden;
+    }
+    .container { max-width: 1100px; margin: 0 auto; padding: 32px 24px 80px; }
+    header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 24px; position: sticky; top: 0;
+      backdrop-filter: blur(10px); background: rgba(11, 18, 32, 0.7);
+      padding: 12px 0; z-index: 5;
+    }
+    .logo { font-weight: 800; letter-spacing: 0.02em; font-size: 18px;
+      background: var(--accent); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    nav { display: flex; gap: 8px; flex-wrap: wrap; }
+    nav a {
+      color: var(--muted); text-decoration: none; font-size: 12px;
+      padding: 6px 10px; border: 1px solid var(--border); border-radius: 10px;
+      transition: all 0.2s ease; background: rgba(255,255,255,0.02);
+    }
+    nav a:hover { color: var(--text); border-color: rgba(56,189,248,0.6); box-shadow: 0 6px 20px rgba(56,189,248,0.12); }
+    .page {
+      margin: 16px 0 48px; padding: 24px; border-radius: 20px; border: 1px solid var(--border);
+      background: linear-gradient(145deg, rgba(17,26,46,0.85), rgba(17,26,46,0.65));
+      box-shadow: 0 20px 80px rgba(0,0,0,0.25), 0 0 0 1px rgba(255,255,255,0.02);
+      min-height: 65vh; position: relative;
+    }
+    .page h2 { margin-top: 0; font-size: 26px; background: var(--accent); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .kicker { text-transform: uppercase; letter-spacing: 0.12em; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+    .lead { font-size: 18px; color: var(--text); margin-bottom: 12px; line-height: 1.6; }
+    .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+    .card { padding: 12px 14px; border-radius: 14px; border: 1px solid var(--border); background: rgba(255,255,255,0.03); color: var(--text); font-size: 14px; }
+    .pill { display: inline-flex; align-items: center; gap: 8px; padding: 8px 12px; border-radius: 12px; background: rgba(255,255,255,0.04); border: 1px solid var(--border); color: var(--text); font-size: 14px; margin: 4px 4px 0 0; }
+    .pill strong { color: #38bdf8; }
+    .footer { position: absolute; bottom: 12px; right: 16px; color: var(--muted); font-size: 12px; }
+    footer { text-align: center; color: var(--muted); padding: 32px 0 24px; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">HHOF Dashboard</div>
+      <nav>
+        <a href="#p1">1</a><a href="#p2">2</a><a href="#p3">3</a><a href="#p4">4</a><a href="#p5">5</a>
+      </nav>
+    </header>
+
+    <section class="page" id="p1">
+      <div class="kicker">Page 1</div>
+      <h2>What is HHOF?</h2>
+      <p class="lead">A single space to collect, enrich, and review European legal documents without technical steps.</p>
+      <div class="grid">
+        <div class="card">🎯 <strong>Purpose</strong> — Keep teams aligned on the latest legal texts, fast.</div>
+        <div class="card">🔗 <strong>End-to-end</strong> — Scrape, process, filter, export, and clean in one UI.</div>
+        <div class="card">🤝 <strong>Non-technical ready</strong> — Buttons and filters, not scripts.</div>
+      </div>
+      <div class="footer">1 / 5</div>
+    </section>
+
+    <section class="page" id="p2">
+      <div class="kicker">Page 2</div>
+      <h2>Sources & Scraping</h2>
+      <p class="lead">Fresh data pulled from official channels with one click.</p>
+      <div class="grid">
+        <div class="card">🇪🇺 <strong>EUR-Lex</strong> — L & C series from the Official Journal.</div>
+        <div class="card">🇫🇷 <strong>JORF</strong> — French legal updates via email parsing.</div>
+        <div class="card">🗓️ <strong>Modes</strong> — Today, specific date, or date range with live progress.</div>
+        <div class="card">✅ <strong>Deduplication</strong> — Existing IDs are skipped automatically.</div>
+      </div>
+      <div class="footer">2 / 5</div>
+    </section>
+
+    <section class="page" id="p3">
+      <div class="kicker">Page 3</div>
+      <h2>Processing & Explore</h2>
+      <p class="lead">LLM enriches documents; explore tools make review quick.</p>
+      <div class="grid">
+        <div class="card">📝 <strong>Summaries</strong> — Plain-language overviews for quick reading.</div>
+        <div class="card">🏷️ <strong>Applicability</strong> — Labels like Information, Obligation, Jurisprudence.</div>
+        <div class="card">🌈 <strong>Themes</strong> — Health & safety topics applied to each document.</div>
+        <div class="card">🔍 <strong>Explore</strong> — Filters (source, status, date), date sorting, hover summaries, selection.</div>
+      </div>
+      <div class="footer">3 / 5</div>
+    </section>
+
+    <section class="page" id="p4">
+      <div class="kicker">Page 4</div>
+      <h2>Exports & Cleanup</h2>
+      <p class="lead">Share what matters and keep the list lean.</p>
+      <div class="grid">
+        <div class="card">⬇️ <strong>Full export</strong> — CSV for all filtered results.</div>
+        <div class="card">🎯 <strong>Selected export</strong> — CSV for checked items only.</div>
+        <div class="card">🗑️ <strong>Delete</strong> — Remove selected documents; counts refresh instantly.</div>
+      </div>
+      <div class="footer">4 / 5</div>
+    </section>
+
+    <section class="page" id="p5">
+      <div class="kicker">Page 5</div>
+      <h2>Setup & Next Steps</h2>
+      <p class="lead">Adjust labels and move smoothly from data to decisions.</p>
+      <div class="grid">
+        <div class="card">🌈 <strong>Setup tab</strong> — Edit individual theme values; add or delete as you go.</div>
+        <div class="card">🏷️ <strong>Applicability values</strong> — Modify the list in place; reset from backend defaults.</div>
+        <div class="card">🚀 <strong>Suggested flow</strong> — Scrape today → Process pending → Explore with filters → Export/share → Delete tests.</div>
+      </div>
+      <div class="footer">5 / 5</div>
+    </section>
+  </div>
+  <footer>HHOF — Legal document dashboard · Gradient palette: blue · violet · green</footer>
+</body>
+</html>

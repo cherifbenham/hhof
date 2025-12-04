@@ -1,0 +1,9 @@
+
+> front-end@0.0.0 dev
+> vite --host --port 5173
+
+
+  VITE v7.2.2  ready in 716 ms
+
+  ➜  Local:   http://localhost:5173/app/
+  ➜  Network: http://192.168.1.100:5173/app/

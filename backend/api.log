@@ -1,0 +1,189 @@
+2025-12-04 11:26:30,356 - __main__ - INFO - No built frontend found at /Users/cherifbenham/code/hhof/frontend/dist. Run `npm run build` in frontend to enable static hosting.
+2025-12-04 11:26:30,412 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 11:26:30,412 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 11:26:31,155 - __mp_main__ - INFO - No built frontend found at /Users/cherifbenham/code/hhof/frontend/dist. Run `npm run build` in frontend to enable static hosting.
+2025-12-04 11:26:31,210 - api - INFO - No built frontend found at /Users/cherifbenham/code/hhof/frontend/dist. Run `npm run build` in frontend to enable static hosting.
+2025-12-04 11:47:30,731 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:47:30,770 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 11:47:30,770 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 11:47:59,797 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:47:59,832 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 11:47:59,832 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 11:48:00,634 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:48:00,686 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:50:13,356 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:50:13,393 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 11:50:13,393 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 11:50:14,133 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:50:14,184 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:53:03,871 - api - INFO - API: Starting EUR-LEX L-Series scraping for 2025-12-04
+2025-12-04 11:53:03,873 - eurlex_scraper - INFO - Scraping EUR-Lex L-Series (version française) pour 04/12/2025
+2025-12-04 11:53:24,011 - eurlex_scraper - INFO - Document 2025/90985 ignoré : ne concerne pas la version française
+2025-12-04 11:53:27,514 - eurlex_scraper - INFO - Document 2025/90993 ignoré : ne concerne pas la version française
+2025-12-04 11:53:27,516 - eurlex_scraper - INFO - Document 2025/90994 ignoré : ne concerne pas la version française
+2025-12-04 11:53:27,516 - eurlex_scraper - INFO - Found 11 documents in L-Series for 04/12/2025
+2025-12-04 11:53:27,529 - csv_repository - INFO - Bulk creation successful. Created 11 documents.
+2025-12-04 11:53:27,532 - api - INFO - EUR-LEX L (2025-12-04): 11 created, 0 skipped
+2025-12-04 11:54:16,669 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:54:16,733 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:54:42,742 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:54:42,777 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 11:54:42,777 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 11:54:43,496 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:54:43,545 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 11:58:51,273 - api - INFO - API: Starting EUR-LEX C-Series scraping for 2025-12-04
+2025-12-04 11:58:51,285 - eurlex_scraper - INFO - Scraping EUR-Lex C-Series (version française) pour 04/12/2025
+2025-12-04 11:59:48,858 - eurlex_scraper - INFO - Found 21 documents in C-Series for 04/12/2025
+2025-12-04 11:59:48,871 - csv_repository - INFO - Bulk creation successful. Created 21 documents.
+2025-12-04 11:59:48,878 - api - INFO - EUR-LEX C (2025-12-04): 21 created, 0 skipped
+2025-12-04 12:01:56,750 - api - INFO - API: Starting EUR-LEX L-Series scraping for 2025-12-04
+2025-12-04 12:01:56,756 - eurlex_scraper - INFO - Scraping EUR-Lex L-Series (version française) pour 04/12/2025
+2025-12-04 12:02:15,094 - eurlex_scraper - INFO - Document 2025/90985 ignoré : ne concerne pas la version française
+2025-12-04 12:02:18,636 - eurlex_scraper - INFO - Document 2025/90993 ignoré : ne concerne pas la version française
+2025-12-04 12:02:18,636 - eurlex_scraper - INFO - Document 2025/90994 ignoré : ne concerne pas la version française
+2025-12-04 12:02:18,636 - eurlex_scraper - INFO - Found 11 documents in L-Series for 04/12/2025
+2025-12-04 12:02:18,645 - api - INFO - EUR-LEX L (2025-12-04): 0 created, 11 skipped
+2025-12-04 12:02:49,484 - api - INFO - API: Starting LLM processing (batch size: 5)
+2025-12-04 12:02:49,487 - api - ERROR - Failed to create LLM processor: OPENAI_API_KEY not found in environment
+2025-12-04 12:03:53,098 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:03:53,137 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 12:03:53,138 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 12:03:53,913 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:03:53,968 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:04:08,453 - api - INFO - API: Starting LLM processing (batch size: 5)
+2025-12-04 12:04:08,621 - llm_service - INFO - LLM Service initialized: azure_openai / gpt-4o
+2025-12-04 12:04:08,622 - llm_processor - INFO - LLM Processor initialized (One-shot content limit: 10000 tokens)
+2025-12-04 12:04:08,622 - llm_processor - INFO - Loaded 131 health & safety themes
+2025-12-04 12:04:08,622 - llm_processor - INFO - Starting batch processing (max 5 documents)...
+2025-12-04 12:04:08,632 - llm_processor - INFO - Found 5 pending documents
+2025-12-04 12:04:08,633 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:08,633 - llm_processor - INFO - Processing 1/5: 2025/2459
+2025-12-04 12:04:08,633 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:08,634 - llm_processor - INFO - Processing document: 2025/2459
+2025-12-04 12:04:08,640 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 12:04:08,641 - llm_processor - INFO - Nombre total de tokens du document : ~1768
+2025-12-04 12:04:11,178 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:11,189 - llm_processor - INFO - Classifying applicability...
+2025-12-04 12:04:11,842 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:11,843 - llm_processor - WARNING - Type 'Directive européenne' not found in obligation. Using: obligation/Loi
+2025-12-04 12:04:11,843 - llm_processor - INFO - Classifying themes...
+2025-12-04 12:04:14,171 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:14,173 - llm_processor - INFO - Themes (ordered by relevance): Infrastructures, Poids lourds, Risques routiers
+2025-12-04 12:04:14,180 - csv_repository - INFO - Document 2025/2459 updated successfully
+2025-12-04 12:04:14,180 - llm_processor - INFO - ✅ Document 2025/2459 processed successfully
+2025-12-04 12:04:14,180 - llm_processor - INFO -    Applicability: obligation/Loi
+2025-12-04 12:04:14,180 - llm_processor - INFO -    Themes (ordered): Infrastructures, Poids lourds, Risques routiers
+2025-12-04 12:04:14,180 - llm_processor - INFO -    Summary length: 188 chars
+2025-12-04 12:04:14,180 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:14,180 - llm_processor - INFO - Processing 2/5: 2025/2184
+2025-12-04 12:04:14,180 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:14,180 - llm_processor - INFO - Processing document: 2025/2184
+2025-12-04 12:04:14,186 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 12:04:14,186 - llm_processor - INFO - Nombre total de tokens du document : ~8117
+2025-12-04 12:04:15,228 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:15,230 - llm_processor - INFO - Classifying applicability...
+2025-12-04 12:04:15,744 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:15,745 - llm_processor - INFO - Classified as: obligation/Règlement
+2025-12-04 12:04:15,745 - llm_processor - INFO - Classifying themes...
+2025-12-04 12:04:18,106 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:18,107 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Risque biologique, Phytos
+2025-12-04 12:04:18,119 - csv_repository - INFO - Document 2025/2184 updated successfully
+2025-12-04 12:04:18,119 - llm_processor - INFO - ✅ Document 2025/2184 processed successfully
+2025-12-04 12:04:18,119 - llm_processor - INFO -    Applicability: obligation/Règlement
+2025-12-04 12:04:18,119 - llm_processor - INFO -    Themes (ordered): Santé publique, Risque biologique, Phytos
+2025-12-04 12:04:18,119 - llm_processor - INFO -    Summary length: 221 chars
+2025-12-04 12:04:18,120 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:18,120 - llm_processor - INFO - Processing 3/5: 2025/2487
+2025-12-04 12:04:18,120 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:18,120 - llm_processor - INFO - Processing document: 2025/2487
+2025-12-04 12:04:18,129 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 12:04:18,129 - llm_processor - INFO - Nombre total de tokens du document : ~1003
+2025-12-04 12:04:19,227 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:19,229 - llm_processor - INFO - Classifying applicability...
+2025-12-04 12:04:19,669 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:19,670 - llm_processor - INFO - Classified as: obligation/Règlement
+2025-12-04 12:04:19,671 - llm_processor - INFO - Classifying themes...
+2025-12-04 12:04:22,007 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:22,009 - llm_processor - INFO - Themes (ordered by relevance): Normes, Construction, Urbanisme
+2025-12-04 12:04:22,020 - csv_repository - INFO - Document 2025/2487 updated successfully
+2025-12-04 12:04:22,021 - llm_processor - INFO - ✅ Document 2025/2487 processed successfully
+2025-12-04 12:04:22,021 - llm_processor - INFO -    Applicability: obligation/Règlement
+2025-12-04 12:04:22,021 - llm_processor - INFO -    Themes (ordered): Normes, Construction, Urbanisme
+2025-12-04 12:04:22,021 - llm_processor - INFO -    Summary length: 176 chars
+2025-12-04 12:04:22,021 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:22,021 - llm_processor - INFO - Processing 4/5: 2025/2185
+2025-12-04 12:04:22,021 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:22,021 - llm_processor - INFO - Processing document: 2025/2185
+2025-12-04 12:04:22,030 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 12:04:22,030 - llm_processor - INFO - Nombre total de tokens du document : ~2230
+2025-12-04 12:04:23,205 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:23,206 - llm_processor - INFO - Classifying applicability...
+2025-12-04 12:04:23,717 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:23,719 - llm_processor - INFO - Classified as: obligation/Règlement
+2025-12-04 12:04:23,719 - llm_processor - INFO - Classifying themes...
+2025-12-04 12:04:26,170 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:26,173 - llm_processor - INFO - Themes (ordered by relevance): Engrais, Phytos, Risque chimique
+2025-12-04 12:04:26,185 - csv_repository - INFO - Document 2025/2185 updated successfully
+2025-12-04 12:04:26,186 - llm_processor - INFO - ✅ Document 2025/2185 processed successfully
+2025-12-04 12:04:26,186 - llm_processor - INFO -    Applicability: obligation/Règlement
+2025-12-04 12:04:26,186 - llm_processor - INFO -    Themes (ordered): Engrais, Phytos, Risque chimique
+2025-12-04 12:04:26,186 - llm_processor - INFO -    Summary length: 200 chars
+2025-12-04 12:04:26,186 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:26,186 - llm_processor - INFO - Processing 5/5: 2025/2432
+2025-12-04 12:04:26,186 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:26,186 - llm_processor - INFO - Processing document: 2025/2432
+2025-12-04 12:04:26,196 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 12:04:26,196 - llm_processor - INFO - Nombre total de tokens du document : ~1932
+2025-12-04 12:04:27,147 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:27,150 - llm_processor - INFO - Classifying applicability...
+2025-12-04 12:04:27,569 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:27,570 - llm_processor - INFO - Classified as: obligation/Règlement
+2025-12-04 12:04:27,570 - llm_processor - INFO - Classifying themes...
+2025-12-04 12:04:30,616 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 12:04:30,617 - llm_processor - INFO - Themes (ordered by relevance): Risque chimique, Stockage (non chimique), Normes
+2025-12-04 12:04:30,629 - csv_repository - INFO - Document 2025/2432 updated successfully
+2025-12-04 12:04:30,630 - llm_processor - INFO - ✅ Document 2025/2432 processed successfully
+2025-12-04 12:04:30,630 - llm_processor - INFO -    Applicability: obligation/Règlement
+2025-12-04 12:04:30,630 - llm_processor - INFO -    Themes (ordered): Risque chimique, Stockage (non chimique), Normes
+2025-12-04 12:04:30,630 - llm_processor - INFO -    Summary length: 231 chars
+2025-12-04 12:04:30,630 - llm_processor - INFO - 
+============================================================
+2025-12-04 12:04:30,630 - llm_processor - INFO - Batch processing complete
+2025-12-04 12:04:30,630 - llm_processor - INFO - Processed: 5
+2025-12-04 12:04:30,630 - llm_processor - INFO - Failed: 0
+2025-12-04 12:04:30,630 - llm_processor - INFO - ============================================================
+2025-12-04 12:04:30,630 - api - INFO - LLM Processing completed: {'processed': 5, 'failed': 0, 'skipped': 0}
+2025-12-04 12:06:16,673 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:06:16,736 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:06:33,890 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:06:33,952 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:06:57,489 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:06:57,553 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:08:35,011 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:08:35,080 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 12:08:35,080 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 12:08:37,233 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:08:37,383 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:15:32,994 - api - INFO - API: Starting EUR-LEX L-Series scraping for 2025-12-04
+2025-12-04 12:15:32,997 - eurlex_scraper - INFO - Scraping EUR-Lex L-Series (version française) pour 04/12/2025
+2025-12-04 12:15:51,569 - eurlex_scraper - INFO - Document 2025/90985 ignoré : ne concerne pas la version française
+2025-12-04 12:15:55,158 - eurlex_scraper - INFO - Document 2025/90993 ignoré : ne concerne pas la version française
+2025-12-04 12:15:55,158 - eurlex_scraper - INFO - Document 2025/90994 ignoré : ne concerne pas la version française
+2025-12-04 12:15:55,158 - eurlex_scraper - INFO - Found 11 documents in L-Series for 04/12/2025
+2025-12-04 12:15:55,164 - api - INFO - EUR-LEX L (2025-12-04): 0 created, 11 skipped
+2025-12-04 12:30:54,227 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:30:54,290 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:06,616 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:06,675 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:11,348 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:11,399 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:22,916 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:22,951 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 12:38:22,951 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 12:38:23,742 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 12:38:23,791 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist

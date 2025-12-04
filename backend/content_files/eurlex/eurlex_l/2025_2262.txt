@@ -1,0 +1,129 @@
+LA COMMISSION EUROPÉENNE, vu le traité sur le fonctionnement de l’Union européenne, vu la directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits liés à l’énergie et notamment son
+
+article 15,
+
+considérant ce qui suit:
+
+(1) Il convient de modifier la définition du terme «élément de bâtiment à moteur» figurant à l’
+
+annexe I du règlement (UE) 2023/826 de la Commission afin d’apporter de la clarté juridique et de permettre un alignement par rapport aux produits énumérés à l’
+
+annexe II, point 6, en tant qu’éléments de bâtiment à moteur.
+
+(2) Il convient d’ajouter une définition du terme «unité de commande» à l’
+
+annexe I du règlement (UE) 2023/826 afin de garantir la clarté juridique en ce qui concerne les éléments de bâtiment à moteur couverts par ledit règlement.
+
+(3) L’
+
+annexe II, point 1, du règlement (UE) 2023/826 contient une liste d’appareils conçus, testés et commercialisé en vue d’un usage domestique, auxquels les exigences pertinentes en matière d’écoconception s’appliquent. Afin de garantir la sécurité juridique, il convient d’y préciser le type de hachoirs/moulins auxquels il est fait référence.
+
+(4) Il convient de modifier l’
+
+annexe IV du règlement (UE) 2023/826 établissant les méthodes de mesure et les calculs de manière que les conditions de mesure visées au point d) s’appliquent à tous les types de machines à café de ménage couvertes par ledit règlement, et pas uniquement à celles qui sont considérées comme des équipements de réseau.
+
+(5) Il convient de préciser le champ d’application de la procédure décrite à l’
+
+annexe IV, point c), du règlement (UE) 2023/826 en ce qui concerne les méthodes de mesure et les calculs.
+
+(6) Il est nécessaire d’empêcher les pratiques qui modifient illégalement les performances des produits afin d’obtenir un résultat plus favorable. L’
+
+article 40, paragraphes 1 à 4, du règlement (UE) 2024/1781 du Parlement européen et du Conseil , qui garantit que la prévention du contournement soit traitée de manière globale, s’applique aux produits couverts par le règlement (UE) 2023/2533 de la Commission . Par conséquent, l’
+
+article 6 du règlement (UE) 2023/2533 devient inutile et il convient de le supprimer.
+
+(7) Afin de garantir la sécurité juridique, il convient d’ajouter une définition du «taux d’humidité final moyen» à l’
+
+annexe I du règlement (UE) 2023/2533 et d’aligner les définitions relatives aux modes de faible consommation sur celles du règlement (UE) 2023/826.
+
+(8) L’
+
+annexe II, point 5 1) a), du règlement (UE) 2023/2533 établit une liste de pièces de rechange qui, au minimum, devraient être mises à la disposition des réparateurs professionnels. Cette liste sert également de base à la sélection des composants prioritaires qui ont été inclus dans le calcul de l’indice de réparabilité établi dans le règlement délégué (UE) 2023/2534 de la Commission . Il convient de modifier la liste afin de garantir la cohérence entre les pièces de rechange régies par le règlement (UE) 2023/2533 et les composants prioritaires régis par le règlement délégué (UE) 2023/2534. Cela passe notamment par la modification du nom désignant certaines pièces de rechange et l’ajout d’une nouvelle pièce de rechange qui est pertinente pour le calcul de l’indice de réparabilité.
+
+(9) Il convient de modifier l’
+
+annexe II, point 5 1) b), du règlement (UE) 2023/2533 de manière que les informations relatives à la réparation concernant les pièces de rechange dont la disponibilité est limitée aux réparateurs professionnels ne soient pas accessibles au grand public par l’intermédiaire d’un site web en accès libre.
+
+(10) Le point 5 1) e) de l’
+
+annexe II du règlement (UE) 2023/2533 exige que les pièces de rechange puissent être remplacées à l’aide d’outils couramment disponibles. Le terme «outils couramment disponibles» est ambigu et ne donne pas une idée précise des outils concernés. En outre, la formule de calcul de l’indice de réparabilité établi dans le règlement délégué (UE) 2023/2534 comprend un critère de notation relatif au type d’outils utilisés pour le démontage d’une pièce prioritaire spécifique, la notation dépendant du fait que les outils soient des outils de base, des outils fournis avec les pièces de rechange ou des outils disponibles dans le commerce. Par souci de cohérence entre les deux règlements, il convient de remplacer le terme «outil couramment disponible» qui figure dans le règlement (UE) 2023/2533 et de l’aligner sur la terminologie utilisée dans le règlement délégué (UE) 2023/2534, le cas échéant. Dès lors, il convient d’introduire des définitions des termes «outil disponible dans le commerce», «outil de base» et «outil propriétaire».
+
+(11) Il convient de modifier l’
+
+annexe II, point 6 2), du règlement (UE) 2023/2533 afin de préciser les valeurs que les fabricants, les importateurs ou leurs mandataires devraient fournir pour les différents paramètres du programme eco et pour les autres programmes, lorsqu’ils sont disponibles.
+
+(12) L’
+
+annexe III, point 1 f), du règlement (UE) 2023/2533 impose aux fabricants et aux importateurs une obligation de déclarer le taux d’humidité final moyen pour le programme eco. Le fait de déclarer dans la documentation technique un taux d’humidité final de la charge de 0 %, ce qui correspond à la valeur demandée dans ledit règlement, pourrait entraîner un séchage du linge au-delà de sa teneur naturelle en eau, ce qui aurait des effets indésirables comme une consommation excessive d’énergie et des dommages éventuels pour les textiles. Il est par conséquent nécessaire de supprimer le taux d’humidité final moyen des exigences en matière d’information figurant à l’
+
+annexe II et des méthodes de mesure et de calcul figurant à l’
+
+annexe III. En lieu et place, il convient, pour calculer ce paramètre, d’utiliser les méthodes de mesure et de calcul figurant dans les normes harmonisées, qui prévoient des tolérances appropriées.
+
+(13) Le contenu du tableau 1 de l’
+
+annexe IV devrait être divisé en deux tableaux différents afin de garantir la clarté.
+
+(14) Les mesures prévues par le présent règlement sont conformes à l’avis du comité institué par l’
+
+article 19 de la directive 2009/125/CE.
+
+(15) Il y a donc lieu de modifier les règlements (UE) 2023/826 et (UE) 2023/2533 en conséquence,
+
+A ADOPTÉ LE PRÉSENT RÈGLEMENT: Article premier Modification du règlement (UE) 2023/826 Les
+
+annexes I, II et IV du règlement (UE) 2023/826 sont modifiées conformément à l’
+
+annexe du présent règlement.
+
+Article 2 Modification du règlement (UE) 2023/2533 Le règlement (UE) 2023/2533 est modifié comme suit: 1) L’
+
+article 6 est supprimé. 2) L’
+
+article 13 intitulé «Entrée en vigueur et mise en application» est remplacé par le texte suivant: «Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne . Il est applicable à partir du 1 er juillet 2025. Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.». 3) Les
+
+annexes I, II, III et IV sont modifiées conformément à l’
+
+annexe du présent règlement.
+
+Article 3 Entrée en vigueur et mise en application Le présent règlement entre en vigueur le quatrième jour suivant celui de sa publication au Journal officiel de l’Union européenne . Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. Fait à Bruxelles, le 11 novembre 2025. Par la Commission La présidente Ursula VON DER LEYEN , ELI: . Règlement (UE) 2023/826 de la Commission du 17 avril 2023 établissant les exigences d’écoconception relatives à la consommation d’énergie en mode arrêt, en mode veille et en veille avec maintien de la connexion au réseau des équipements ménagers et de bureau électriques et électroniques conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n o 1275/2008 et (CE) n o 107/2009 de la Commission ( , ELI: ). Règlement (UE) 2024/1781 du Parlement européen et du Conseil du 13 juin 2024 établissant un cadre pour la fixation d’exigences en matière d’écoconception pour des produits durables, modifiant la directive (UE) 2020/1828 et le règlement (UE) 2023/1542 et abrogeant la directive 2009/125/CE( ). Règlement (UE) 2023/2533 de la Commission du 17 novembre 2023 portant exécution de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux sèche-linge domestiques à tambour, modifiant le règlement (UE) 2023/826 de la Commission et abrogeant le règlement (UE) n o 932/2012 de la Commission ( ). Règlement délégué (UE) 2023/2534 de la Commission du 13 juillet 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des sources lumineuses et abrogeant le règlement délégué (UE) n o 392/2012 de la Commission ( ).
+
+ANNEXE 1) Le règlement (UE) 2023/826 est modifié comme suit: a) L’
+
+annexe I est modifiée comme suit: i) la définition du terme «élément de bâtiment à moteur» figurant au point 21) est remplacée par le texte suivant: «21) “Élément de bâtiment à moteur”: un équipement destiné à s’ouvrir ou à améliorer le confort qui est utilisé dans des bâtiments ou des structures connexes, à l’exception des équipements de ventilation, et qui peut être mis en mouvement ou tourner, ou les deux, en utilisant l’énergie fournie par le secteur. L’élément de bâtiment à moteur comprend un moteur électrique ou un actionneur et une unité de commande, et est actionné par l’utilisateur final au moyen d’un ou de plusieurs dispositifs de commande filaires et/ou sans fil, via le réseau, ou automatiquement, à l’aide de capteurs.»; ii) la définition suivante est insérée après le point 21): «22) “unité de commande”, une unité qui reçoit des signaux de l’utilisateur final au moyen d’un ou de plusieurs dispositifs de commande filaires et/ou sans fil, via le réseau, ou automatiquement, à l’aide de capteurs, et qui permet le fonctionnement requis du moteur ou de l’actionneur de l’élément de bâtiment à moteur. Les capteurs raccordés à l’unité et recevant de l’énergie provenant du même point d’entrée de l’alimentation secteur que le reste de l’élément de bâtiment à moteur sont considérés comme faisant partie de l’unité de commande;». b) À l’
+
+annexe II, point 1, le huitième tiret est remplacé par le texte suivant: «
+
+— hachoirs/moulins utilisés en cuisine pour transformer des denrées alimentaires». c) L’
+
+annexe IV est modifiée comme suit: i) l’alinéa suivant est inséré à la suite du premier alinéa: «Pour tous les types de machines à café de ménage, les mesures sont effectuées après l’achèvement du dernier cycle de préparation ou, le cas échéant, après l’achèvement d’une opération de détartrage, d’auto-nettoyage ou de toute opération effectuée par l’utilisateur, à moins qu’une alarme n’ait été déclenchée nécessitant une intervention de l’utilisateur pour éviter tout dommage ou accident éventuel.»; ii) au point c), la première phrase est remplacée par le texte suivant: «La procédure suivante est utilisée pour mesurer la consommation d’énergie en veille avec maintien de la connexion au réseau pour les exigences en matière d’efficacité énergétique énoncées à l’
+
+annexe III, point 1 c), et pour soumettre à essai la fonction de gestion de la consommation d’électricité:»; iii) le point d) est supprimé. 2) Le règlement (UE) 2023/2533 est modifié comme suit: a) L’
+
+annexe I est modifiée comme suit: i) les points 10) et 11) sont remplacés par le texte suivant: «10) “mode arrêt”: une situation dans laquelle le sèche-linge domestique à tambour est branché sur le secteur et n’assure aucune fonction, ou une situation dans laquelle sont uniquement disponibles: a) une indication de son état en mode arrêt; b) les fonctionnalités destinées à garantir la compatibilité électromagnétique au titre de la directive 2014/30/UE du Parlement européen et du Conseil ; 11) “mode veille”: une situation dans laquelle le sèche-linge domestique à tambour est branché sur le secteur, dépend de l’apport d’énergie du secteur pour fonctionner comme prévu et n’assure qu’une ou plusieurs des fonctions suivantes, qui peuvent persister pendant un laps de temps indéterminé: a) une fonction de réactivation; b) une fonction de réactivation et uniquement une indication montrant que la fonction de réactivation est activée; c) l’affichage d’une information ou d’un état; Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique ( , ELI: ).» " ii) les points suivants sont ajoutés: «19) “taux d’humidité final moyen”: la quantité moyenne d’humidité contenue dans la charge à la fin des cycles de séchage pour le programme eco à pleine charge et à demi-charge; 20) “fonction de réactivation”: une fonction qui, au moyen d’un commutateur commandé à distance, d’une télécommande, d’un capteur interne ou d’une minuterie, permet de passer du mode veille à un autre mode, y compris le mode actif, offrant des fonctions supplémentaires; 21) “affichage d’une information ou d’un état”: une fonction continue qui fournit une information ou indique l’état de l’équipement sur un afficheur, y compris une horloge. Un simple voyant lumineux n’est pas considéré comme l’affichage d’un état; 22) “mode actif”: un état dans lequel, d’une part, l’équipement est branché sur le secteur et, d’autre part, au moins une des fonctions principales a été activée; 23) “fonction principale”: une fonction qui fournit le ou les services principaux pour lesquels l’équipement est conçu, soumis à essai et commercialisé, et qui correspond à l’utilisation prévue de l’équipement; 24) “outil disponible dans le commerce”: un outil qui est disponible à l’achat par le grand public et qui n’est ni un outil de base, ni un outil propriétaire; 25) “outil de base”: un tournevis à tête plate, un tournevis à empreinte cruciforme, un tournevis à empreinte à six lobes internes (Torx), une clé pour boulons et écrous à six pans, une clé universelle, une pince universelle, une pince à dénuder les fils et sertir les bornes, une pince à bout arrondi, une pince coupante diagonale, une pince multiprises, une pince étau, un levier, une pincette, une loupe, une spatule ou un crochet; 26) “outil propriétaire”: un outil qui n’est pas disponible à l’achat par le grand public ou pour lequel des brevets applicables ne sont pas disponibles pour une utilisation sous licence dans des conditions équitables, raisonnables et non discriminatoires». b) L’
+
+annexe II est modifiée comme suit: i) Le point 5 est modifié comme suit: 1) le point 1) est modifié comme suit:
+
+— le point a) est modifié comme suit:
+
+— le point iii) est remplacé par le texte suivant: «iii) pompe à eau;»;
+
+— le point v) est remplacé par le texte suivant: «v) transmissions entre moteur et tambour, comme la courroie du sèche-linge;»;
+
+— le point vii) est remplacé par le texte suivant: «vii) tambours et roulements à tambours;»;
+
+— le point suivant est ajouté: «xx) condensateur pour moteur;»;
+
+— le point b) est remplacé par le texte suivant: «b) la disponibilité des pièces de rechange visées au point a) doit être assurée pendant une période minimale commençant au plus tard le 1 er juillet 2025 ou deux ans après la mise sur le marché de la première unité du modèle, la date la plus tardive étant retenue, et se terminant au moins dix ans après la mise sur le marché de la dernière unité du modèle concerné. À cette fin, la liste des pièces de rechange et la procédure pour les commander doivent être accessibles au public sur le site web en accès libre du fabricant, de l’importateur ou du mandataire, au moins pendant la même période et à partir de la date visée au présent point;»;
+
+— le point e) est remplacé par le texte suivant: «e) les fabricants, les importateurs de sèche-linge domestiques à tambour, ou leurs mandataires, doivent veiller à ce que les pièces de rechange visées aux points a) et c) puissent être remplacées sans outils ou à l’aide d’outils qui ne soient pas des outils propriétaires, et sans dommage irréversible pour l’appareil;»; 2) au point 6), le point a) est remplacé par le texte suivant: «a) les fabricants, les importateurs ou leurs mandataires doivent veiller à ce que les sèche-linge domestiques à tambour soient conçus de sorte que les matériaux et composants visés à l’
+
+annexe VII de la directive 2012/19/UE du Parlement européen et du Conseil puissent être extraits de l’appareil électroménager sans outils ou à l’aide d’outils qui ne soient pas des outils propriétaires; Directive 2012/19/UE du Parlement européen et du Conseil du 4 juillet 2012 relative aux déchets d’équipements électriques et électroniques ( , ELI: ).»;" ii) au point 6, le point 2) est remplacé par le texte suivant: «2) les valeurs pour les paramètres suivants: a) capacité en kg; b) durée des programmes, exprimée en heures et minutes; c) consommation d’électricité et, le cas échéant, de gaz en kWh/cycle de séchage; d) émissions de bruit acoustique dans l’air du cycle de séchage. Pour le programme eco, les valeurs des paramètres visés aux points a) à c) doivent être fournies à la fois à pleine charge et à demi-charge; la valeur du paramètre visé au point d) ne doit être fournie qu’à pleine charge. Pour les programmes autres que le programme eco, lorsqu’ils sont disponibles, les valeurs indicatives sont fournies comme suit: a) pour le programme synthétique sec, les valeurs des paramètres visés aux points a) à c) doivent être fournies à pleine charge; b) pour le programme de séchage délicat/laine, les valeurs des paramètres visés aux points a) à c) doivent être fournies à pleine charge; c) pour le programme synthétique extra sec/très sec, les valeurs des paramètres visés aux points a) à c) doivent être fournies à pleine charge; d) pour le programme synthétique prêt à repasser, les valeurs des paramètres visés aux points a) à c) doivent être fournies à pleine charge; e) pour le programme coton extra/très sec, les valeurs des paramètres visés aux points a) à c) doivent être fournies à la fois à pleine charge et à demi-charge; f) pour le programme coton prêt à repasser, les valeurs des paramètres visés aux points a) à c) doivent être fournies à la fois à pleine charge et à demi-charge;». c) L’
+
+annexe III est modifiée comme suit: i) dans la partie introductive, les troisième et quatrième alinéas sont remplacés par le texte suivant: «Le programme eco, repérable sur le dispositif de sélection de programme, sur le dispositif d’affichage et sur l’application réseau correspondante, selon les fonctionnalités offertes par le sèche-linge domestique à tambour, et sans autre modification du réglage du taux d’humidité final, est utilisé pour la mesure et le calcul de l’IEE, du taux de condensation, de la durée du programme et des émissions de bruit acoustique dans l’air. La consommation d’énergie, le taux de condensation et la durée du programme sont mesurés simultanément. Le calcul de la consommation d’énergie pondérée, de la durée pondérée du programme et du taux de condensation est effectué sur la base de trois cycles de séchage à pleine charge et de quatre cycles de séchage à demi-charge.»; ii) au point 1, le point f) relatif au calcul du taux d’humidité final moyen est supprimé. d) L’
+
+annexe IV est modifiée comme suit: i) les points 1) et 2) sont remplacés par le texte suivant: «1. Les tolérances de contrôle fixées dans le tableau 2 sont liées uniquement au contrôle des valeurs déclarées par les autorités des États membres et ne doivent en aucun cas être utilisées par le fabricant, l’importateur ou leurs mandataires comme une tolérance qu’ils auraient le droit d’utiliser pour établir ces valeurs de la documentation technique ou pour interpréter ces valeurs afin de conclure à la conformité ou de faire état de meilleurs résultats par un quelconque moyen. 2. Lorsqu’un modèle n’est pas conforme aux exigences décrites à l’
+
+article 40 du règlement (UE) 2024/1781, le modèle et tous les modèles équivalents sont considérés comme non conformes.»; ii) au point 3) b), le point v) est remplacé par le texte suivant: «v) lorsque les autorités des États membres procèdent à des essais sur l’unité du modèle, les valeurs déterminées, c’est-à-dire les valeurs des paramètres pertinents telles que mesurées lors des essais et les valeurs calculées à partir de ces mesures, sont conformes: a) aux critères de validité énoncés dans le tableau 1; b) aux tolérances de contrôle correspondantes énoncées dans le tableau 2.»; iii) le point 7) est remplacé par le texte suivant: «7. Le modèle est réputé conforme aux exigences applicables si, pour les trois unités visées au point 5), la moyenne arithmétique des valeurs déterminées respecte les tolérances de contrôle correspondantes figurant dans le tableau 2.»; iv) le point 11 est remplacé par le texte suivant: «11. Les autorités des États membres doivent appliquer uniquement les critères de validité énoncés dans le tableau 1 et les tolérances de contrôle énoncées dans le tableau 2, ainsi que la procédure décrite aux points 3) à 8) pour les exigences visées dans la présente
+
+annexe. Pour les paramètres des tableaux 1 et 2, aucun autre critère de validité ou tolérance de contrôle, tels que ceux définis dans des normes harmonisées ou dans toute autre méthode de mesure, n’est appliqué.». v) le tableau 1 est remplacé par le tableau suivant: « Tableau 1 Critères de validité Paramètre Critères de validité Taux d’humidité final moyen du programme eco μ t La valeur déterminée doit être mesurée et calculée et être inférieure à 1,5 %.» vi) le tableau suivant est ajouté: « Tableau 2 Tolérances de contrôle Paramètre Tolérances de contrôle E dry et E dry½ La valeur déterminée ne doit pas dépasser la valeur déclarée de E dry et E dry½ de plus de 6 %. Eg dry et Eg dry½ | La valeur déterminée ne doit pas dépasser la valeur déclarée de Eg dry et Eg dry½ de plus de 6 %. Eg dry,a et Eg dry½,a La valeur déterminée ne doit pas dépasser la valeur déclarée de Eg dry,a et Eg dry½,a de plus de 6 %. C t La valeur déterminée ne doit pas être inférieure à la valeur déclarée de C t de plus de 6 %. T dry et T dry½ La valeur déterminée ne doit pas dépasser la valeur déclarée T dry et T dry½ de plus de 6 %. P o La valeur déterminée de P o ne doit pas dépasser la valeur déclarée de plus de 0,10 W. P sm La valeur déterminée de P sm ne doit pas dépasser la valeur déclarée de plus de 10 % si la valeur déclarée est supérieure à 1,00 W, ou de plus de 0,10 W si la valeur déclarée est inférieure ou égale à 1,00 W. P ds La valeur déterminée de P ds ne doit pas dépasser la valeur déclarée de plus de 10 % lorsque la valeur déclarée est supérieure à 1,00 W, ou de plus de 0,10 W si la valeur déclarée est inférieure ou égale à 1,00 W. Émissions de bruit acoustique dans l’air La valeur déterminée ne doit pas dépasser la valeur déclarée de plus de 2 dB par rapport à 1 pW. Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique ( , ELI: ).» Directive 2012/19/UE du Parlement européen et du Conseil du 4 juillet 2012 relative aux déchets d’équipements électriques et électroniques ( , ELI: ).»;» Lorsque trois unités supplémentaires sont testées conformément au point 5), la valeur déterminée correspond à la moyenne arithmétique des valeurs déterminées pour ces trois unités supplémentaires.» ELI: http://data.europa.eu/eli/reg/2025/2262/oj ISSN 1977-0693 (electronic edition)
