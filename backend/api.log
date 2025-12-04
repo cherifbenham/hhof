@@ -187,3 +187,159 @@
 2025-12-04 12:38:22,951 - __main__ - INFO - CSV repository initialized successfully
 2025-12-04 12:38:23,742 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
 2025-12-04 12:38:23,791 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 14:06:40,251 - api - INFO - API: Starting LLM processing (batch size: 2)
+2025-12-04 14:06:40,477 - llm_service - INFO - LLM Service initialized: azure_openai / gpt-4o
+2025-12-04 14:06:40,477 - llm_processor - INFO - LLM Processor initialized (One-shot content limit: 10000 tokens)
+2025-12-04 14:06:40,477 - llm_processor - INFO - Loaded 131 health & safety themes
+2025-12-04 14:06:40,477 - llm_processor - INFO - Starting batch processing (max 2 documents)...
+2025-12-04 14:06:40,482 - llm_processor - INFO - Found 2 pending documents
+2025-12-04 14:06:40,482 - llm_processor - INFO - 
+============================================================
+2025-12-04 14:06:40,482 - llm_processor - INFO - Processing 1/2: 2025/2468
+2025-12-04 14:06:40,482 - llm_processor - INFO - ============================================================
+2025-12-04 14:06:40,482 - llm_processor - INFO - Processing document: 2025/2468
+2025-12-04 14:06:40,486 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 14:06:40,486 - llm_processor - INFO - Nombre total de tokens du document : ~1512
+2025-12-04 14:06:42,043 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:42,056 - llm_processor - INFO - Classifying applicability...
+2025-12-04 14:06:42,537 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:42,539 - llm_processor - INFO - Classified as: information/Décision ou résumé de décisions
+2025-12-04 14:06:42,539 - llm_processor - INFO - Classifying themes...
+2025-12-04 14:06:44,586 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:44,593 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Biocides & Phytos, F-Gas
+2025-12-04 14:06:44,606 - csv_repository - INFO - Document 2025/2468 updated successfully
+2025-12-04 14:06:44,606 - llm_processor - INFO - ✅ Document 2025/2468 processed successfully
+2025-12-04 14:06:44,606 - llm_processor - INFO -    Applicability: information/Décision ou résumé de décisions
+2025-12-04 14:06:44,606 - llm_processor - INFO -    Themes (ordered): Santé publique, Biocides & Phytos, F-Gas
+2025-12-04 14:06:44,607 - llm_processor - INFO -    Summary length: 204 chars
+2025-12-04 14:06:44,607 - llm_processor - INFO - 
+============================================================
+2025-12-04 14:06:44,607 - llm_processor - INFO - Processing 2/2: 2025/2474
+2025-12-04 14:06:44,607 - llm_processor - INFO - ============================================================
+2025-12-04 14:06:44,607 - llm_processor - INFO - Processing document: 2025/2474
+2025-12-04 14:06:44,617 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 14:06:44,617 - llm_processor - INFO - Nombre total de tokens du document : ~1117
+2025-12-04 14:06:45,523 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:45,524 - llm_processor - INFO - Classifying applicability...
+2025-12-04 14:06:45,981 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:45,982 - llm_processor - WARNING - Type 'Décision' not found in obligation. Using: obligation/Loi
+2025-12-04 14:06:45,982 - llm_processor - INFO - Classifying themes...
+2025-12-04 14:06:47,747 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 14:06:47,749 - llm_processor - INFO - Themes (ordered by relevance): Risques routiers, Transport de marchandises, Machines
+2025-12-04 14:06:47,762 - csv_repository - INFO - Document 2025/2474 updated successfully
+2025-12-04 14:06:47,763 - llm_processor - INFO - ✅ Document 2025/2474 processed successfully
+2025-12-04 14:06:47,763 - llm_processor - INFO -    Applicability: obligation/Loi
+2025-12-04 14:06:47,763 - llm_processor - INFO -    Themes (ordered): Risques routiers, Transport de marchandises, Machines
+2025-12-04 14:06:47,763 - llm_processor - INFO -    Summary length: 165 chars
+2025-12-04 14:06:47,763 - llm_processor - INFO - 
+============================================================
+2025-12-04 14:06:47,763 - llm_processor - INFO - Batch processing complete
+2025-12-04 14:06:47,763 - llm_processor - INFO - Processed: 2
+2025-12-04 14:06:47,763 - llm_processor - INFO - Failed: 0
+2025-12-04 14:06:47,763 - llm_processor - INFO - ============================================================
+2025-12-04 14:06:47,763 - api - INFO - LLM Processing completed: {'processed': 2, 'failed': 0, 'skipped': 0}
+2025-12-04 15:32:42,458 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:32:42,508 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:34:51,368 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:34:51,411 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:35:02,899 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:35:02,922 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 15:35:02,922 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 15:35:03,405 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:35:03,441 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:37:10,975 - api - INFO - API: Starting EUR-LEX L-Series scraping for 2025-12-04
+2025-12-04 15:37:10,979 - eurlex_scraper - INFO - Scraping EUR-Lex L-Series (version française) pour 04/12/2025
+2025-12-04 15:37:30,633 - eurlex_scraper - INFO - Document 2025/90985 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,414 - eurlex_scraper - INFO - Document 2025/90993 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,415 - eurlex_scraper - INFO - Document 2025/90994 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,415 - eurlex_scraper - INFO - Found 11 documents in L-Series for 04/12/2025
+2025-12-04 15:37:34,432 - api - INFO - EUR-LEX L (2025-12-04): 0 created, 11 skipped
+2025-12-04 15:39:27,719 - api - INFO - API: Starting LLM processing (batch size: 4)
+2025-12-04 15:39:27,842 - llm_service - INFO - LLM Service initialized: azure_openai / gpt-4o
+2025-12-04 15:39:27,842 - llm_processor - INFO - LLM Processor initialized (One-shot content limit: 10000 tokens)
+2025-12-04 15:39:27,842 - llm_processor - INFO - Loaded 131 health & safety themes
+2025-12-04 15:39:27,842 - llm_processor - INFO - Starting batch processing (max 4 documents)...
+2025-12-04 15:39:27,847 - llm_processor - INFO - Found 4 pending documents
+2025-12-04 15:39:27,847 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:27,847 - llm_processor - INFO - Processing 1/4: 2025/2425
+2025-12-04 15:39:27,848 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:27,848 - llm_processor - INFO - Processing document: 2025/2425
+2025-12-04 15:39:27,852 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:27,852 - llm_processor - INFO - Nombre total de tokens du document : ~7716
+2025-12-04 15:39:30,910 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:30,926 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:31,596 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:31,597 - llm_processor - INFO - Classified as: information/Décision ou résumé de décisions
+2025-12-04 15:39:31,597 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:34,031 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:34,035 - llm_processor - INFO - Themes (ordered by relevance): Champs électromagnétiques, Rayonnements non ionisants, Normes
+2025-12-04 15:39:34,050 - csv_repository - INFO - Document 2025/2425 updated successfully
+2025-12-04 15:39:34,050 - llm_processor - INFO - ✅ Document 2025/2425 processed successfully
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Applicability: information/Décision ou résumé de décisions
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Themes (ordered): Champs électromagnétiques, Rayonnements non ionisants, Normes
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Summary length: 193 chars
+2025-12-04 15:39:34,051 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:34,051 - llm_processor - INFO - Processing 2/4: 2025/2489
+2025-12-04 15:39:34,051 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:34,051 - llm_processor - INFO - Processing document: 2025/2489
+2025-12-04 15:39:34,060 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:34,060 - llm_processor - INFO - Nombre total de tokens du document : ~2931
+2025-12-04 15:39:35,208 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:35,209 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:36,434 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:36,435 - llm_processor - WARNING - Type 'Décision' not found in obligation. Using: obligation/Loi
+2025-12-04 15:39:36,436 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:38,777 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:38,779 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Risques biologiques, Situations d'urgence
+2025-12-04 15:39:38,792 - csv_repository - INFO - Document 2025/2489 updated successfully
+2025-12-04 15:39:38,792 - llm_processor - INFO - ✅ Document 2025/2489 processed successfully
+2025-12-04 15:39:38,792 - llm_processor - INFO -    Applicability: obligation/Loi
+2025-12-04 15:39:38,793 - llm_processor - INFO -    Themes (ordered): Santé publique, Risques biologiques, Situations d'urgence
+2025-12-04 15:39:38,793 - llm_processor - INFO -    Summary length: 190 chars
+2025-12-04 15:39:38,793 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:38,793 - llm_processor - INFO - Processing 3/4: 2025/90986
+2025-12-04 15:39:38,793 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:38,793 - llm_processor - INFO - Processing document: 2025/90986
+2025-12-04 15:39:38,802 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:38,802 - llm_processor - INFO - Nombre total de tokens du document : ~156
+2025-12-04 15:39:39,672 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:39,674 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:40,122 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:40,123 - llm_processor - WARNING - Type 'Rectificatif' not found in information. Using: information/Directive européenne
+2025-12-04 15:39:40,123 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:42,326 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:42,327 - llm_processor - INFO - Themes (ordered by relevance): Corporate, Règlement intérieur, Reporting
+2025-12-04 15:39:42,335 - csv_repository - INFO - Document 2025/90986 updated successfully
+2025-12-04 15:39:42,335 - llm_processor - INFO - ✅ Document 2025/90986 processed successfully
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Applicability: information/Directive européenne
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Themes (ordered): Corporate, Règlement intérieur, Reporting
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Summary length: 133 chars
+2025-12-04 15:39:42,335 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:42,335 - llm_processor - INFO - Processing 4/4: 2025/90992
+2025-12-04 15:39:42,335 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:42,335 - llm_processor - INFO - Processing document: 2025/90992
+2025-12-04 15:39:42,341 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:42,341 - llm_processor - INFO - Nombre total de tokens du document : ~172
+2025-12-04 15:39:43,170 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:43,171 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:43,714 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:43,715 - llm_processor - WARNING - Type 'Rectificatif' not found in information. Using: information/Directive européenne
+2025-12-04 15:39:43,715 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:46,507 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:46,507 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Risques routiers, Situations d'urgence
+2025-12-04 15:39:46,513 - csv_repository - INFO - Document 2025/90992 updated successfully
+2025-12-04 15:39:46,513 - llm_processor - INFO - ✅ Document 2025/90992 processed successfully
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Applicability: information/Directive européenne
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Themes (ordered): Santé publique, Risques routiers, Situations d'urgence
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Summary length: 182 chars
+2025-12-04 15:39:46,513 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:46,513 - llm_processor - INFO - Batch processing complete
+2025-12-04 15:39:46,513 - llm_processor - INFO - Processed: 4
+2025-12-04 15:39:46,513 - llm_processor - INFO - Failed: 0
+2025-12-04 15:39:46,513 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:46,513 - api - INFO - LLM Processing completed: {'processed': 4, 'failed': 0, 'skipped': 0}

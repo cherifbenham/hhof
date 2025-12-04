@@ -293,7 +293,7 @@ const exportSelectedDocuments = async () => {
   setError(null);
   
   try {
-    const response = await fetch(`${API_BASE_URL}/api/documents/export/selected/csv`, {
+    const response = await fetch(`${API_BASE_URL}/api/documents/export/selected/xlsx`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -311,7 +311,7 @@ const exportSelectedDocuments = async () => {
     const blob = await response.blob();
     
     const contentDisposition = response.headers.get('Content-Disposition');
-    let filename = `legal_documents_selected_${selectedDocIds.size}.csv`;
+    let filename = `legal_documents_selected_${selectedDocIds.size}.xlsx`;
     if (contentDisposition) {
       const filenameMatch = contentDisposition.match(/filename="(.+)"/);
       if (filenameMatch && filenameMatch[1]) {
@@ -355,7 +355,7 @@ const exportSelectedDocuments = async () => {
       if (filters.date_from) params.append('date_from', filters.date_from);
       if (filters.date_to) params.append('date_to', filters.date_to);
   
-      const response = await fetch(`${API_BASE_URL}/api/documents/export/csv`);
+      const response = await fetch(`${API_BASE_URL}/api/documents/export/xlsx`);
   
       if (!response.ok) {
         const errorText = await response.text();
@@ -367,7 +367,7 @@ const exportSelectedDocuments = async () => {
       
       // Determine file name and content type from the response headers (optional, but good practice)
       const contentDisposition = response.headers.get('Content-Disposition');
-      let filename = `legal_documents_export.${fileType}`;
+      let filename = `legal_documents_export.xlsx`;
       if (contentDisposition) {
         const filenameMatch = contentDisposition.match(/filename="(.+)"/);
         if (filenameMatch && filenameMatch[1]) {
@@ -866,12 +866,12 @@ const exportSelectedDocuments = async () => {
           onClick={() => exportDocuments('csv')} 
           loading={exportLoading} 
           variant="export"
-          className="flex items-center gap-2 px-4 py-2 text-sm font-medium transition-colors"
-          disabled={documents.length === 0}
-        >
-          <Download className={`w-4 h-4 ${exportLoading ? 'animate-spin' : ''}`} />
-          Export ALL
-        </Button>
+      className="flex items-center gap-2 px-4 py-2 text-sm font-medium transition-colors"
+      disabled={documents.length === 0}
+    >
+      <Download className={`w-4 h-4 ${exportLoading ? 'animate-spin' : ''}`} />
+      Export ALL (XLSX)
+    </Button>
         <button
           onClick={exportSelectedDocuments}
           disabled={selectedDocIds.size === 0 || exportLoading}
@@ -882,10 +882,10 @@ const exportSelectedDocuments = async () => {
                 ? 'bg-slate-800 text-slate-400 opacity-50 cursor-not-allowed' 
                 : 'bg-gray-100 text-gray-400 opacity-50 cursor-not-allowed'
           }`}
-        >
-          <Download className={`w-4 h-4 ${exportLoading ? 'animate-spin' : ''}`} />
-          Export Selected {selectedDocIds.size > 0 ? `(${selectedDocIds.size})` : ''}
-        </button>
+  >
+    <Download className={`w-4 h-4 ${exportLoading ? 'animate-spin' : ''}`} />
+    Export Selected {selectedDocIds.size > 0 ? `(${selectedDocIds.size})` : ''} (XLSX)
+  </button>
       </>
     )}
     {activeView === 'delete' && (

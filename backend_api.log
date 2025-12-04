@@ -1,36 +1,522 @@
-2025-12-04 12:38:22,916 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
-2025-12-04 12:38:22,951 - __main__ - INFO - Initializing CSV repository...
-2025-12-04 12:38:22,951 - __main__ - INFO - CSV repository initialized successfully
+2025-12-04 15:35:02,899 - __main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:35:02,922 - __main__ - INFO - Initializing CSV repository...
+2025-12-04 15:35:02,922 - __main__ - INFO - CSV repository initialized successfully
 INFO:     Will watch for changes in these directories: ['/Users/cherifbenham/code/hhof/backend']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [39339] using StatReload
-2025-12-04 12:38:23,742 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
-2025-12-04 12:38:23,791 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
-INFO:     Started server process [39371]
+INFO:     Started reloader process [12727] using StatReload
+2025-12-04 15:35:03,405 - __mp_main__ - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+2025-12-04 15:35:03,441 - api - INFO - Serving built frontend from /Users/cherifbenham/code/hhof/frontend/dist
+INFO:     Started server process [12751]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     127.0.0.1:52867 - "HEAD /api/config/classification HTTP/1.1" 405 Method Not Allowed
-INFO:     127.0.0.1:52878 - "GET /api/config/classification HTTP/1.1" 200 OK
-INFO:     127.0.0.1:52904 - "GET /api/config/classification HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53054 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53055 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53057 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53055 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53326 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53328 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53330 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53328 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53530 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53531 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53531 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53532 - "GET /api/config/classification HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53534 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53674 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53675 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53674 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53677 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53737 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53738 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53737 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53738 - "GET /api/stats HTTP/1.1" 200 OK
-INFO:     127.0.0.1:53738 - "GET /api/config/classification HTTP/1.1" 200 OK
+2025-12-04 15:37:10,975 - api - INFO - API: Starting EUR-LEX L-Series scraping for 2025-12-04
+2025-12-04 15:37:10,979 - eurlex_scraper - INFO - Scraping EUR-Lex L-Series (version française) pour 04/12/2025
+2025-12-04 15:37:30,633 - eurlex_scraper - INFO - Document 2025/90985 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,414 - eurlex_scraper - INFO - Document 2025/90993 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,415 - eurlex_scraper - INFO - Document 2025/90994 ignoré : ne concerne pas la version française
+2025-12-04 15:37:34,415 - eurlex_scraper - INFO - Found 11 documents in L-Series for 04/12/2025
+2025-12-04 15:37:34,432 - api - INFO - EUR-LEX L (2025-12-04): 0 created, 11 skipped
+INFO:     127.0.0.1:59185 - "POST /api/scrape/eurlex?series=L&scrape_details=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59185 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59234 - "GET /api/stats HTTP/1.1" 200 OK
+2025-12-04 15:39:27,719 - api - INFO - API: Starting LLM processing (batch size: 4)
+2025-12-04 15:39:27,842 - llm_service - INFO - LLM Service initialized: azure_openai / gpt-4o
+2025-12-04 15:39:27,842 - llm_processor - INFO - LLM Processor initialized (One-shot content limit: 10000 tokens)
+2025-12-04 15:39:27,842 - llm_processor - INFO - Loaded 131 health & safety themes
+2025-12-04 15:39:27,842 - llm_processor - INFO - Starting batch processing (max 4 documents)...
+2025-12-04 15:39:27,847 - llm_processor - INFO - Found 4 pending documents
+2025-12-04 15:39:27,847 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:27,847 - llm_processor - INFO - Processing 1/4: 2025/2425
+2025-12-04 15:39:27,848 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:27,848 - llm_processor - INFO - Processing document: 2025/2425
+2025-12-04 15:39:27,852 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:27,852 - llm_processor - INFO - Nombre total de tokens du document : ~7716
+2025-12-04 15:39:30,910 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:30,926 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:31,596 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:31,597 - llm_processor - INFO - Classified as: information/Décision ou résumé de décisions
+2025-12-04 15:39:31,597 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:34,031 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:34,035 - llm_processor - INFO - Themes (ordered by relevance): Champs électromagnétiques, Rayonnements non ionisants, Normes
+2025-12-04 15:39:34,050 - csv_repository - INFO - Document 2025/2425 updated successfully
+2025-12-04 15:39:34,050 - llm_processor - INFO - ✅ Document 2025/2425 processed successfully
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Applicability: information/Décision ou résumé de décisions
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Themes (ordered): Champs électromagnétiques, Rayonnements non ionisants, Normes
+2025-12-04 15:39:34,051 - llm_processor - INFO -    Summary length: 193 chars
+2025-12-04 15:39:34,051 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:34,051 - llm_processor - INFO - Processing 2/4: 2025/2489
+2025-12-04 15:39:34,051 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:34,051 - llm_processor - INFO - Processing document: 2025/2489
+2025-12-04 15:39:34,060 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:34,060 - llm_processor - INFO - Nombre total de tokens du document : ~2931
+2025-12-04 15:39:35,208 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:35,209 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:36,434 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:36,435 - llm_processor - WARNING - Type 'Décision' not found in obligation. Using: obligation/Loi
+2025-12-04 15:39:36,436 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:38,777 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:38,779 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Risques biologiques, Situations d'urgence
+2025-12-04 15:39:38,792 - csv_repository - INFO - Document 2025/2489 updated successfully
+2025-12-04 15:39:38,792 - llm_processor - INFO - ✅ Document 2025/2489 processed successfully
+2025-12-04 15:39:38,792 - llm_processor - INFO -    Applicability: obligation/Loi
+2025-12-04 15:39:38,793 - llm_processor - INFO -    Themes (ordered): Santé publique, Risques biologiques, Situations d'urgence
+2025-12-04 15:39:38,793 - llm_processor - INFO -    Summary length: 190 chars
+2025-12-04 15:39:38,793 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:38,793 - llm_processor - INFO - Processing 3/4: 2025/90986
+2025-12-04 15:39:38,793 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:38,793 - llm_processor - INFO - Processing document: 2025/90986
+2025-12-04 15:39:38,802 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:38,802 - llm_processor - INFO - Nombre total de tokens du document : ~156
+2025-12-04 15:39:39,672 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:39,674 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:40,122 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:40,123 - llm_processor - WARNING - Type 'Rectificatif' not found in information. Using: information/Directive européenne
+2025-12-04 15:39:40,123 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:42,326 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:42,327 - llm_processor - INFO - Themes (ordered by relevance): Corporate, Règlement intérieur, Reporting
+2025-12-04 15:39:42,335 - csv_repository - INFO - Document 2025/90986 updated successfully
+2025-12-04 15:39:42,335 - llm_processor - INFO - ✅ Document 2025/90986 processed successfully
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Applicability: information/Directive européenne
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Themes (ordered): Corporate, Règlement intérieur, Reporting
+2025-12-04 15:39:42,335 - llm_processor - INFO -    Summary length: 133 chars
+2025-12-04 15:39:42,335 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:42,335 - llm_processor - INFO - Processing 4/4: 2025/90992
+2025-12-04 15:39:42,335 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:42,335 - llm_processor - INFO - Processing document: 2025/90992
+2025-12-04 15:39:42,341 - llm_processor - INFO - Génération du résumé one-shot...
+2025-12-04 15:39:42,341 - llm_processor - INFO - Nombre total de tokens du document : ~172
+2025-12-04 15:39:43,170 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:43,171 - llm_processor - INFO - Classifying applicability...
+2025-12-04 15:39:43,714 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:43,715 - llm_processor - WARNING - Type 'Rectificatif' not found in information. Using: information/Directive européenne
+2025-12-04 15:39:43,715 - llm_processor - INFO - Classifying themes...
+2025-12-04 15:39:46,507 - httpx - INFO - HTTP Request: POST https://opsira.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-12-04 15:39:46,507 - llm_processor - INFO - Themes (ordered by relevance): Santé publique, Risques routiers, Situations d'urgence
+2025-12-04 15:39:46,513 - csv_repository - INFO - Document 2025/90992 updated successfully
+2025-12-04 15:39:46,513 - llm_processor - INFO - ✅ Document 2025/90992 processed successfully
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Applicability: information/Directive européenne
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Themes (ordered): Santé publique, Risques routiers, Situations d'urgence
+2025-12-04 15:39:46,513 - llm_processor - INFO -    Summary length: 182 chars
+2025-12-04 15:39:46,513 - llm_processor - INFO - 
+============================================================
+2025-12-04 15:39:46,513 - llm_processor - INFO - Batch processing complete
+2025-12-04 15:39:46,513 - llm_processor - INFO - Processed: 4
+2025-12-04 15:39:46,513 - llm_processor - INFO - Failed: 0
+2025-12-04 15:39:46,513 - llm_processor - INFO - ============================================================
+2025-12-04 15:39:46,513 - api - INFO - LLM Processing completed: {'processed': 4, 'failed': 0, 'skipped': 0}
+INFO:     127.0.0.1:59478 - "POST /api/process/llm?batch_size=4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59478 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59525 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59718 - "GET /api/documents/export/xlsx HTTP/1.1" 200 OK
+ERROR:    Exception in ASGI application
+  + Exception Group Traceback (most recent call last):
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 79, in collapse_excgroups
+  |     yield
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 270, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 783, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    |     result = await app(  # type: ignore[func-returns-value]
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |         self.scope, self.receive, self.send
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     )
+    |     ^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    |     return await self.app(scope, receive, send)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/applications.py", line 1139, in __call__
+    |     await super().__call__(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/applications.py", line 107, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 119, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 106, in app
+    |     await response(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 269, in __call__
+    |     with collapse_excgroups():
+    |          ~~~~~~~~~~~~~~~~~~^^
+    |   File "/opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 273, in wrap
+    |     await func()
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 253, in stream_response
+    |     async for chunk in self.body_iterator:
+    |     ...<2 lines>...
+    |         await send({"type": "http.response.body", "body": chunk, "more_body": True})
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 55, in iterate_in_threadpool
+    |     yield await anyio.to_thread.run_sync(_next, as_iterator)
+    |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/to_thread.py", line 61, in run_sync
+    |     return await get_async_backend().run_sync_in_worker_thread(
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |         func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     )
+    |     ^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2525, in run_sync_in_worker_thread
+    |     return await future
+    |            ^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    |     result = context.run(func, *args)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 44, in _next
+    |     return next(iterator)
+    |   File "/Users/cherifbenham/code/hhof/backend/api.py", line 413, in generate_xlsx
+    |     ws.append(row)
+    |     ~~~~~~~~~^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    |     cell = Cell(self, row=row_idx, column=col_idx, value=content)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 119, in __init__
+    |     self.value = value
+    |     ^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 218, in value
+    |     self._bind_value(value)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 187, in _bind_value
+    |     raise ValueError("Cannot convert {0!r} to Excel".format(value))
+    | ValueError: Cannot convert ['Risque chimique', 'Santé publique', 'Normes'] to Excel
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/applications.py", line 1139, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 119, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 106, in app
+    await response(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 269, in __call__
+    with collapse_excgroups():
+         ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 273, in wrap
+    await func()
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 253, in stream_response
+    async for chunk in self.body_iterator:
+    ...<2 lines>...
+        await send({"type": "http.response.body", "body": chunk, "more_body": True})
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 55, in iterate_in_threadpool
+    yield await anyio.to_thread.run_sync(_next, as_iterator)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/to_thread.py", line 61, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2525, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 44, in _next
+    return next(iterator)
+  File "/Users/cherifbenham/code/hhof/backend/api.py", line 413, in generate_xlsx
+    ws.append(row)
+    ~~~~~~~~~^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+    ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 187, in _bind_value
+    raise ValueError("Cannot convert {0!r} to Excel".format(value))
+ValueError: Cannot convert ['Risque chimique', 'Santé publique', 'Normes'] to Excel
+INFO:     127.0.0.1:59728 - "OPTIONS /api/documents/export/selected/xlsx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59728 - "POST /api/documents/export/selected/xlsx HTTP/1.1" 200 OK
+ERROR:    Exception in ASGI application
+  + Exception Group Traceback (most recent call last):
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 79, in collapse_excgroups
+  |     yield
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 270, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 783, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    |     result = await app(  # type: ignore[func-returns-value]
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |         self.scope, self.receive, self.send
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     )
+    |     ^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    |     return await self.app(scope, receive, send)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/applications.py", line 1139, in __call__
+    |     await super().__call__(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/applications.py", line 107, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 119, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 106, in app
+    |     await response(scope, receive, send)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 269, in __call__
+    |     with collapse_excgroups():
+    |          ~~~~~~~~~~~~~~~~~~^^
+    |   File "/opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+    |     raise exc
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 273, in wrap
+    |     await func()
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 253, in stream_response
+    |     async for chunk in self.body_iterator:
+    |     ...<2 lines>...
+    |         await send({"type": "http.response.body", "body": chunk, "more_body": True})
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 55, in iterate_in_threadpool
+    |     yield await anyio.to_thread.run_sync(_next, as_iterator)
+    |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/to_thread.py", line 61, in run_sync
+    |     return await get_async_backend().run_sync_in_worker_thread(
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |         func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     )
+    |     ^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2525, in run_sync_in_worker_thread
+    |     return await future
+    |            ^^^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    |     result = context.run(func, *args)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 44, in _next
+    |     return next(iterator)
+    |   File "/Users/cherifbenham/code/hhof/backend/api.py", line 507, in generate_xlsx
+    |     ws.append(row)
+    |     ~~~~~~~~~^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    |     cell = Cell(self, row=row_idx, column=col_idx, value=content)
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 119, in __init__
+    |     self.value = value
+    |     ^^^^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 218, in value
+    |     self._bind_value(value)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^
+    |   File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 187, in _bind_value
+    |     raise ValueError("Cannot convert {0!r} to Excel".format(value))
+    | ValueError: Cannot convert ['Infrastructures', 'Poids lourds', 'Risques routiers'] to Excel
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/applications.py", line 1139, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 119, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/fastapi/routing.py", line 106, in app
+    await response(scope, receive, send)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 269, in __call__
+    with collapse_excgroups():
+         ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/_utils.py", line 85, in collapse_excgroups
+    raise exc
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 273, in wrap
+    await func()
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/responses.py", line 253, in stream_response
+    async for chunk in self.body_iterator:
+    ...<2 lines>...
+        await send({"type": "http.response.body", "body": chunk, "more_body": True})
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 55, in iterate_in_threadpool
+    yield await anyio.to_thread.run_sync(_next, as_iterator)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/to_thread.py", line 61, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2525, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 986, in run
+    result = context.run(func, *args)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/starlette/concurrency.py", line 44, in _next
+    return next(iterator)
+  File "/Users/cherifbenham/code/hhof/backend/api.py", line 507, in generate_xlsx
+    ws.append(row)
+    ~~~~~~~~~^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+    ^^^^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+    ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/cherifbenham/code/hhof/.venv/lib/python3.14/site-packages/openpyxl/cell/cell.py", line 187, in _bind_value
+    raise ValueError("Cannot convert {0!r} to Excel".format(value))
+ValueError: Cannot convert ['Infrastructures', 'Poids lourds', 'Risques routiers'] to Excel
+INFO:     127.0.0.1:59744 - "GET /api/documents?skip=0&limit=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59824 - "GET /api/documents?skip=0&limit=1000&source=JORF HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59825 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59852 - "GET /api/documents?skip=0&limit=1000&source=JORF&processing_status=processed HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59853 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59853 - "GET /api/documents?skip=0&limit=1000&source=JORF&processing_status=pending HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59852 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60038 - "GET /api/documents?skip=0&limit=1000&source=EURLEX&processing_status=pending HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60039 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60047 - "GET /api/documents?skip=0&limit=1000&source=EURLEX&processing_status=processed HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60048 - "GET /api/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60182 - "GET /api/config/classification HTTP/1.1" 200 OK

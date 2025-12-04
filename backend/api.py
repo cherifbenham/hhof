@@ -364,8 +364,8 @@ async def get_documents(
         raise HTTPException(status_code=500, detail=f"Failed to retrieve documents: {str(e)}")
 
 
-@app.get("/api/documents/export/csv")
-async def export_documents_csv(
+@app.get("/api/documents/export/xlsx")
+async def export_documents_xlsx(
     source: Optional[str] = Query(None, description="Filter by source (EURLEX, JORF)"),
     typologie: Optional[str] = Query(None, description="Filter by document type"),
     language: Optional[str] = Query(None, description="Filter by language"),
@@ -374,7 +374,7 @@ async def export_documents_csv(
     date_to: Optional[str] = Query(None, description="Filter by date to (YYYY-MM-DD)")
 ):
     """
-    Export filtered documents to a CSV file with UTF-8 BOM encoding for Excel compatibility.
+    Export filtered documents to an XLSX file.
     """
     try:
         repo = get_repository()
@@ -394,50 +394,41 @@ async def export_documents_csv(
         if not fieldnames:
             fieldnames = ['id', 'source', 'titre', 'date']
 
-        def generate_csv():
-            """Generates CSV content with UTF-8 BOM for Excel compatibility."""
-            # Add UTF-8 BOM at the beginning for Excel
-            yield '\ufeff'.encode('utf-8')
-            
-            # Create StringIO buffer
-            csvfile = StringIO(newline='')
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';', quoting=csv.QUOTE_MINIMAL)
-            
-            # Write header
-            writer.writeheader()
-            yield csvfile.getvalue().encode('utf-8')
-            csvfile.seek(0)
-            csvfile.truncate(0)
-            
-            # Write data rows
+        def generate_xlsx():
+            """Generate XLSX content in memory."""
+            import io
+            from openpyxl import Workbook
+
+            wb = Workbook()
+            ws = wb.active
+            ws.title = "Documents"
+            ws.append(fieldnames)
+
             for doc in filtered_docs:
                 serialized_doc = serialize_document(doc)
-                row = {}
+                row = []
                 for key in fieldnames:
                     value = serialized_doc.get(key, '')
-                    # Clean value to avoid encoding issues
-                    if value is None:
-                        row[key] = ''
-                    else:
-                        # Convert to string and strip problematic characters
-                        row[key] = str(value).strip()
-                
-                writer.writerow(row)
-                yield csvfile.getvalue().encode('utf-8')
-                csvfile.seek(0)
-                csvfile.truncate(0)
+                    row.append(value if value is not None else '')
+                ws.append(row)
+
+            # Save to bytes
+            buf = io.BytesIO()
+            wb.save(buf)
+            buf.seek(0)
+            yield buf.getvalue()
 
         repo.close()
         
         # Generate filename with timestamp
-        filename = f"legal_documents_export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+        filename = f"legal_documents_export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
         
         return StreamingResponse(
-            generate_csv(),
-            media_type="text/csv; charset=utf-8",
+            generate_xlsx(),
+            media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             headers={
                 "Content-Disposition": f'attachment; filename="{filename}"',
-                "Content-Type": "text/csv; charset=utf-8",
+                "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "Cache-Control": "no-cache"
             }
         )
@@ -467,11 +458,10 @@ def delete_documents(request: DeleteDocumentsRequest):
         repo.close()
 
 
-@app.post("/api/documents/export/selected/csv")
-async def export_selected_documents_csv(request: SelectedDocumentsRequest):
+@app.post("/api/documents/export/selected/xlsx")
+async def export_selected_documents_xlsx(request: SelectedDocumentsRequest):
     """
-    Export a specific list of documents to CSV using their IDs.
-    The CSV is streamed with UTF-8 BOM for Excel compatibility.
+    Export a specific list of documents to XLSX using their IDs.
     """
     repo = None
     try:
@@ -498,38 +488,37 @@ async def export_selected_documents_csv(request: SelectedDocumentsRequest):
         if not fieldnames:
             fieldnames = ['id', 'source', 'titre', 'date']
 
-        def generate_csv():
-            """Stream CSV rows with BOM at the start."""
-            yield '\ufeff'.encode('utf-8')
+        def generate_xlsx():
+            """Generate XLSX content in memory."""
+            import io
+            from openpyxl import Workbook
 
-            csvfile = StringIO(newline='')
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';', quoting=csv.QUOTE_MINIMAL)
-
-            writer.writeheader()
-            yield csvfile.getvalue().encode('utf-8')
-            csvfile.seek(0)
-            csvfile.truncate(0)
+            wb = Workbook()
+            ws = wb.active
+            ws.title = "Selected"
+            ws.append(fieldnames)
 
             for doc in selected_docs:
                 serialized_doc = serialize_document(doc)
-                row = {}
+                row = []
                 for key in fieldnames:
                     value = serialized_doc.get(key, '')
-                    row[key] = '' if value is None else str(value).strip()
+                    row.append(value if value is not None else '')
+                ws.append(row)
 
-                writer.writerow(row)
-                yield csvfile.getvalue().encode('utf-8')
-                csvfile.seek(0)
-                csvfile.truncate(0)
+            buf = io.BytesIO()
+            wb.save(buf)
+            buf.seek(0)
+            yield buf.getvalue()
 
-        filename = f"legal_documents_selected_{len(selected_docs)}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+        filename = f"legal_documents_selected_{len(selected_docs)}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
 
         return StreamingResponse(
-            generate_csv(),
-            media_type="text/csv; charset=utf-8",
+            generate_xlsx(),
+            media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             headers={
                 "Content-Disposition": f'attachment; filename=\"{filename}\"',
-                "Content-Type": "text/csv; charset=utf-8",
+                "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "Cache-Control": "no-cache"
             }
         )
